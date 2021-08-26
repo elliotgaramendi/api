@@ -23,7 +23,7 @@ const renderPokemon = (name, src, elemento) => {
   elemento.appendChild(pokemon);
 }
 
-fetch('../json/public-api.json')
+fetch('https://elliotxleo.github.io/public-api/json/public-api.json')
   .then((response) => {
     return response.json()
   })
