@@ -20,9 +20,13 @@
   padding: 1rem;
 }
 
-.title {
+.container__title {
   margin: 0;
   padding: 0;
+}
+
+.container__img {
+  height: 25vh;
 }
 
 .footer {
