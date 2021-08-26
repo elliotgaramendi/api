@@ -1,0 +1,32 @@
+:root {
+  --theme-color: #ffffff;
+  --text-color: #ffffff;
+  --gold: #ffd700;
+  --bg-primary-color: #3ea1db;
+  --bg-secondary-color: #5d34ec;
+}
+
+.body {
+  background-image: linear-gradient(to right, var(--bg-primary-color), var(--bg-secondary-color));
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-color: var(--theme-color);
+  width: 80%;
+  border-radius: 1rem;
+  text-align: center;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  text-align: center;
+  color: var(--text-color);
+  padding: 1rem;
+}
