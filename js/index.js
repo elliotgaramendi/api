@@ -40,7 +40,7 @@ fetch('https://pokeapi.co/api/v2/pokemon/25')
   });
 
 const consultarAPI = async () => {
-  const api = await fetch('../json/public-api.json');
+  const api = await fetch('https://elliotxleo.github.io/api-publica/json/public-api.json');
   const data = await api.json();
   renderPokemon(data.name, data.src, pokemon1);
 };
