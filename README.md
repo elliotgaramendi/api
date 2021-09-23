@@ -1,14 +1,14 @@
-# [Public API](https://elliotxleo.github.io/public-api/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://elliotxleo.github.io/personal-web-responsive-ym/) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
+# [API Publica](https://elliotxleo.github.io/api-publica/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
 
-[![public-api](https://i.imgur.com/wai7PkV.png)](https://elliotxleo.github.io/public-api/)
+[![api-publica](https://i.imgur.com/wai7PkV.png)](https://elliotxleo.github.io/api-publica/)
 
 Desarrollado con HTML, CSS, JavaScript y JSON. API Pública. Aplicación que cuenta con API's públicas que responden JSON's los cuales son inputs de diferentes proyectos desarrollados.
 
 ## Instalación
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/ElliotXLeo/public-api
-  - cd public-api o ir desde el explorador de archivos
+  - git clone https://github.com/ElliotXLeo/api-publica
+  - cd api-publica o ir desde el explorador de archivos
   - Levantar un servidor con herramientas como Visual Studio Code + Live Server o abrir el archivo index.html
 
 ## Tecnologías usadas
@@ -25,6 +25,6 @@ Desarrollado con HTML, CSS, JavaScript y JSON. API Pública. Aplicación que cue
 
 - WhatsApp: https://api.whatsapp.com/send?phone=51997045329
 
-- Personal Web: https://elliotxleo.github.io/personal-web-responsive-ym/
+- Personal Web: https://nextjs-react-portafolio-fc.vercel.app
 
 - Correo: elliotgaramendi@gmail.com

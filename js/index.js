@@ -23,18 +23,26 @@ const renderPokemon = (name, src, elemento) => {
   elemento.appendChild(pokemon);
 }
 
-fetch('https://elliotxleo.github.io/public-api/json/public-api.json')
-  .then((response) => {
-    return response.json()
-  })
-  .then((data) => {
-    renderPokemon(data.name, data.src, pokemon1);
-  });
+// fetch('../json/public-api.json')
+//   .then((response) => {
+//     return response.json();
+//   })
+//   .then((data) => {
+//     renderPokemon(data.name, data.src, pokemon1);
+//   });
 
 fetch('https://pokeapi.co/api/v2/pokemon/25')
   .then((response) => {
-    return response.json()
+    return response.json();
   })
   .then((data) => {
     renderPokemon(data.name, data.sprites.front_default, pokemon2);
   });
+
+const consultarAPI = async () => {
+  const api = await fetch('../json/public-api.json');
+  const data = await api.json();
+  renderPokemon(data.name, data.src, pokemon1);
+};
+
+consultarAPI();
