@@ -1,8 +1,8 @@
 # [API Publica](https://elliotxleo.github.io/api-publica/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
 
-[![api-publica](https://i.imgur.com/wai7PkV.png)](https://elliotxleo.github.io/api-publica/)
+[![api-publica](https://i.postimg.cc/ZYBX8xkF/api-publica.png)](https://elliotxleo.github.io/api-publica/)
 
-Desarrollado con HTML, CSS, JavaScript y JSON. API Pública. Aplicación que cuenta con API's públicas que responden JSON's los cuales son inputs de diferentes proyectos desarrollados.
+Aplicación API pública que cuenta con diferentes Endpoints que responden JSON's los cuales son inputs de diferentes aplicaciones desarrolladas.
 
 ## Instalación
 - Ubicarse en la carpeta que contendrá el proyecto

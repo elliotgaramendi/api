@@ -371,7 +371,7 @@
       "position": "Técnico Instructor de Monitoreos Ambientales",
       "period": "febrero 2017, marzo 2020",
       "activities": [
-        "Instructor de manejo de equipos en diplomas de especialización: Medio Ambiente & Seguridad",
+        "Instructor de Monitoreo en diplomas de especialización: Medio Ambiente & Seguridad",
         "y Salud Ocupacional, Sistemas Integrados de Gestión y Supervisor en Medio Ambiente."
       ],
       "main": 1
@@ -424,7 +424,7 @@
       "id": 6,
       "company": "DRIVEN",
       "position": "Frontend Developer Junior",
-      "period": "junio 2021, presente",
+      "period": "septiembre 2021, presente",
       "activities": [
         "Desarrollo de aplicaciones e-commerce con VTEX IO y React bajo el marco de trabajo Scrum.",
         "Desarrollo de componentes acorde a los prototipos para el cumplimiento del Sprint Goal."
@@ -516,7 +516,7 @@
       "mainTechnology": "JavaScript",
       "technologies": "JavaScript, CSS, HTML, API, REST, JSON",
       "about": "Aplicación API pública que cuenta con diferentes Endpoints que responden JSON's los cuales son inputs de diferentes aplicaciones desarrolladas.",
-      "image": "https://i.imgur.com/wai7PkV.png",
+      "image": "https://i.postimg.cc/ZYBX8xkF/api-publica.png",
       "urlDemo": "https://elliotxleo.github.io/api-publica/",
       "urlCode": "https://github.com/ElliotXLeo/api-publica",
       "main": 0
@@ -527,7 +527,7 @@
       "mainTechnology": "React",
       "technologies": "React, JavaScript, CSS, HTML, Bootstrap, Animate.css, API",
       "about": "Aplicación que lista los proyectos desarrollados del profesional brindando la información más relevante. Se puede ingresar al Demo y al código fuente. La data la consume de una API.",
-      "image": "https://i.imgur.com/mLPINFH.png",
+      "image": "https://i.postimg.cc/mgy6Vd2J/react-cards-bootstrap-fc.png",
       "urlDemo": "https://reactcardsbootstrapfc.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/react-cards-bootstrap-fc",
       "main": 1
