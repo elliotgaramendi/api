@@ -62,7 +62,7 @@
         {
           "id": 0,
           "difficulty": "baja",
-          "description": "Realiza una obra de arte con cualquier objeto y explícalo"
+          "description": "Arruga un papel y dale la forma de una bola lo más rápido que puedas."
         },
         {
           "id": 1,
@@ -77,52 +77,52 @@
         {
           "id": 3,
           "difficulty": "baja",
-          "description": "Dibuja una figura geométrica en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Dibuja una figura  geométrica en un papel con la mano que menos usas. Por ejemplo, si usas la mano derecha para escribir harás la actividad con la mano izquierda."
         },
         {
           "id": 4,
           "difficulty": "media",
-          "description": "Dibuja tres figuras geométricas en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Dibuja tres figuras  geométricas en un papel con la mano que menos usas. Por ejemplo, si usas la mano derecha para escribir harás la actividad con la mano izquierda."
         },
         {
           "id": 5,
           "difficulty": "alta",
-          "description": "Dibuja un corazón con dos nombres dentro de él en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Dibuja en un papel un corazón con dos nombres dentro de él con la mano que menos usas. Por ejemplo, si usas la mano derecha para escribir, ahora deberás usar la mano izquierda."
         },
         {
           "id": 6,
           "difficulty": "baja",
-          "description": "Dibuja una letra en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Dibuja en un papel una letra con la mano que menos uses. Es decir, si usas la mano derecha para escribir, en esta actividad deberás usar la mano izquierda. "
         },
         {
           "id": 7,
           "difficulty": "media",
-          "description": "Dibuja un nombre en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Dibuja en un papel el nombre de la persona más cercana a ti con la mano que menos uses. Es decir, si escribes con la mano derecha, en esta actividad deberás usar la izquierda. "
         },
         {
           "id": 8,
           "difficulty": "alta",
-          "description": "Dibuja un mensaje para cualquiera en cualquier editor de imagen con una mano que no sea la principal"
+          "description": "Pídele a alguno de los jugadores que te diga una frase corta y escríbela en un papel con la mano que menos usas. Es decir, si escribes con la mano derecha, en esta actividad deberás usar la izquierda."
         },
         {
           "id": 9,
           "difficulty": "baja",
-          "description": "Junta dos veces tus dedos pulgares con cada uno de tus otros dedos de la misma mano lo más rápido que puedas"
+          "description": "De manera simultánea, con ambas manos, toca 2 veces con tu dedo pulgar los demás dedos de la misma mano lo mas rápido que puedas."
         },
         {
           "id": 10,
           "difficulty": "media",
-          "description": "Recoge un objeto con tus pulgares y los demás dedos de la misma mano"
+          "description": "Con ambos dedos pulgares a la vez recoge un objeto pequeño."
         },
         {
           "id": 11,
           "difficulty": "alta",
-          "description": "Junta una sola vez tus dedos pulgares con cada uno de tus otros dedos de la misma mano lo más rápido que puedas"
+          "description": "De manera simultánea, con ambas manos, toca 1 vez con tu dedo pulgar los demás dedos de la misma mano lo mas rápido que puedas. Repítelo dos veces."
         },
         {
           "id": 12,
           "difficulty": "baja",
-          "description": "Mueve un objeto de un lugar a otro y regrésalo con cada una de tus manos"
+          "description": "Mueve un objeto de su sitio usando la mano derecha y regrésalo a su sitio usando la mano izquierda. Vuélvelo a mover pero esta vez usando tu mano izquierda y regrésalo usando tu mano derecha."
         },
         {
           "id": 13,
@@ -182,7 +182,7 @@
         {
           "id": 24,
           "difficulty": "baja",
-          "description": "Realiza un doblez, el que te permita tu imaginación y explícalo"
+          "description": "Dobla una hoja a la mitad, en  dos partes iguales, lo mejor que puedas."
         },
         {
           "id": 25,
@@ -197,17 +197,17 @@
         {
           "id": 27,
           "difficulty": "baja",
-          "description": "Dibuja cualquier objeto con una mano que no sea la principal"
+          "description": "Dibuja la inicial de tu nombre con la manos que no usas para escribir."
         },
         {
           "id": 28,
           "difficulty": "media",
-          "description": "Dibuja un algo para un participante con una mano que no sea la principal"
+          "description": "Escribe tu nombre completo con la mano que no usas para escribir."
         },
         {
           "id": 29,
           "difficulty": "alta",
-          "description": "Dibuja un algo para todos los participantes con una mano que no sea la principal"
+          "description": "Escribe tu nombre con los ojos cerrados con la mano que no usas para escribir."
         },
         {
           "id": 30,
@@ -258,7 +258,7 @@
         {
           "id": 2,
           "difficulty": "alta",
-          "description": "Toma de las manos a una persona y giren 10 vueltas sobre su centro"
+          "description": "Toma de las manos a una persona y giren 10 vueltas sobre su centro sin realizar pausas"
         },
         {
           "id": 3,
@@ -268,12 +268,12 @@
         {
           "id": 4,
           "difficulty": "media",
-          "description": "Salta 5 veces con los pies juntos"
+          "description": "Salta 10 veces hacia delante y hacia atrás con los pies juntos"
         },
         {
           "id": 5,
           "difficulty": "alta",
-          "description": "Salta 10 veces a diferentes lados"
+          "description": "Salta 10 veces hacia los lados formando la inicial de tu nombre"
         },
         {
           "id": 6,
@@ -338,17 +338,17 @@
         {
           "id": 18,
           "difficulty": "baja",
-          "description": "Tus amigos te tirarán un objeto a una distancia de 5 metros y debes esquivarlo"
+          "description": "Tus amigos te tirarán un objeto pequeño a una distancia de 5 metros y debes esquivarlo."
         },
         {
           "id": 19,
           "difficulty": "media",
-          "description": "Tus amigos te tirarán dos objetos a una distancia de 5 metros y debes esquivarlo"
+          "description": "Tus amigos te tirarán dos objetos medianos a una distancia de 5 metros y debes esquivarlo"
         },
         {
           "id": 20,
           "difficulty": "alta",
-          "description": "Tus amigos te tirarán cuatro objetos a una distancia de 5 metros y debes esquivarlo"
+          "description": "Tus amigos te tirarán cuatro objetos grandes a una distancia de 5 metros y debes esquivarlo"
         },
         {
           "id": 21,
@@ -363,22 +363,22 @@
         {
           "id": 23,
           "difficulty": "alta",
-          "description": "Siéntate, párate y salta 20 veces en algún lugar"
+          "description": "Siéntate, párate y salta 20 veces en algún lugar con los ojos vendados"
         },
         {
           "id": 24,
           "difficulty": "baja",
-          "description": "Trata de correr la distancia de 50 metros"
+          "description": "Trata de correr en tu mismo sitio por 30 segundos y según tus amigos te lo vayan indicando cambiaras de velocidad, correr rápido si te lo dicen o corre lento según te indiquen. "
         },
         {
           "id": 25,
           "difficulty": "media",
-          "description": "Trata de correr la distancia de 100 metros"
+          "description": "Trata de correr en tu mismo sitio por 60 segundos y según tus amigos te lo vayan indicando cambiaras de velocidad, correr rápido si te lo dicen o corre lento según te indiquen."
         },
         {
           "id": 26,
           "difficulty": "alta",
-          "description": "Trata de correr la distancia de 150 metros"
+          "description": "Trata de correr en tu mismo sitio por 60 segundos con los ojos vendados y según tus amigos te lo vayan indicando cambiaras de velocidad, correr rápido si te lo dicen o corre lento según te indiquen."
         },
         {
           "id": 27,
@@ -408,7 +408,7 @@
         {
           "id": 32,
           "difficulty": "alta",
-          "description": "Realiza una mueca de sorprendido, sonríe y trata de dar un mensaje con las manos"
+          "description": "Realiza una mueca y deja que tus amigos adivinen que expresión es."
         },
         {
           "id": 33,
@@ -433,7 +433,7 @@
         {
           "id": 37,
           "difficulty": "media",
-          "description": "Simula que estás pateando una pelota 10 veces intercalando pies"
+          "description": "Simula que estas haciendo dominadas con una pelota imaginaria, haz 10 de ellas"
         },
         {
           "id": 38,
@@ -443,32 +443,152 @@
         {
           "id": 39,
           "difficulty": "baja",
-          "description": "Baila cualquier música"
+          "description": "Baila el baile de la ranita o la ronda de los conejos y sigue los pasos que escuchas en la canción."
         },
         {
           "id": 40,
           "difficulty": "media",
-          "description": "Baila con una persona cualquier música"
+          "description": "Baila con una persona cualquier salsa, debe incluir mínimo una vuelta"
         },
         {
           "id": 41,
           "difficulty": "alta",
-          "description": "Baila un video viral conocido"
+          "description": "Baila un video viral conocido (puedes sacar ideas de algún video de tick tok)"
         },
         {
           "id": 42,
           "difficulty": "baja",
-          "description": "Intenta bailar una danza típica"
+          "description": "Coloca la música de una danza típica e intenta seguir el ritmo"
         },
         {
           "id": 43,
           "difficulty": "media",
-          "description": "Intenta bailar una danza típica y una salsa"
+          "description": "Intenta bailar en pareja por dos minutos una danza típica y una salsa"
         },
         {
           "id": 44,
           "difficulty": "alta",
-          "description": "Intenta bailar una danza típica, una salsa y un huayno"
+          "description": "Escoge una canción movida y una lenta, intenta bailar al ritmo de la música. Tus amigos irán alternado las canciones, ¡intenta adaptarte al ritmo!"
+        },
+        {
+          "id": 45,
+          "difficulty": "baja",
+          "description": "Ponte de pie sobre una pierna por 10 segundos."
+        },
+        {
+          "id": 46,
+          "difficulty": "media",
+          "description": "Ponte de pie sobre una pierna por 20 segundos."
+        },
+        {
+          "id": 47,
+          "difficulty": "alta",
+          "description": "Ponte de pie sobre una pierna con los ojos cerrados por 30 segundos."
+        },
+        {
+          "id": 48,
+          "difficulty": "baja",
+          "description": "Pon un banquillo y sobre él párate en una pierna por 10 segundos."
+        },
+        {
+          "id": 49,
+          "difficulty": "media",
+          "description": "Pon un banquillo y sobre él párate en una pierna por 20 segundos."
+        },
+        {
+          "id": 50,
+          "difficulty": "alta",
+          "description": "Pon un banquillo y sobre él párate en una pierna por 30 segundos."
+        },
+        {
+          "id": 51,
+          "difficulty": "baja",
+          "description": "Pon un banquillo y sobre él párate en una pierna con los ojos cerrados por 10 segundos. "
+        },
+        {
+          "id": 52,
+          "difficulty": "media",
+          "description": "Pon un banquillo y sobre él párate en una pierna con los ojos cerrados por 20 segundos. "
+        },
+        {
+          "id": 53,
+          "difficulty": "alta",
+          "description": "Pon un banquillo y sobre él párate en una pierna con los ojos cerrados por 30 segundos. "
+        },
+        {
+          "id": 54,
+          "difficulty": "baja",
+          "description": "Camina 10 pasos hacia delante colocando primero el talón y luego la punta."
+        },
+        {
+          "id": 55,
+          "difficulty": "media",
+          "description": "Por 10 segundos, mientras estas sentado(a) golpea intercaladamente los pies contra el suelo mientras haces círculos con las manos."
+        },
+        {
+          "id": 56,
+          "difficulty": "media",
+          "description": "Por 10 segundos, mientras estas sentado(a) golpetea con el pie y el dedo del mismo lado del cuerpo de forma sincronizada e invierte posiciones."
+        },
+        {
+          "id": 57,
+          "difficulty": "alta",
+          "description": "Por 10 segundos, mientras estas sentado(a) golpetea alternando un dedo de un lado del cuerpo y el pie del otro lado, e invierte posiciones."
+        },
+        {
+          "id": 58,
+          "difficulty": "media",
+          "description": "Por 10 segundos, salta en tu lugar, pierna derecha y brazo derecho extendidos hacia delante, pierna izquierda y brazo izquierdo extendido hacia atrás, e invierte posiciones."
+        },
+        {
+          "id": 59,
+          "difficulty": "alta",
+          "description": "Por 10 segundos, salta en tu lugar, pierna derecha y brazo izquierdo extendidos hacia delante, pierna izquierda y brazo derecho extendido hacia atrás, e invierte posiciones."
+        },
+        {
+          "id": 60,
+          "difficulty": "baja",
+          "description": "Extiende los brazos a la altura de los hombros y rótalos en círculos por 5 segundos."
+        },
+        {
+          "id": 61,
+          "difficulty": "baja",
+          "description": "Salta 4 veces mientras aplaudes."
+        },
+        {
+          "id": 62,
+          "difficulty": "baja",
+          "description": "Salta y toca tus talones con las manos."
+        },
+        {
+          "id": 63,
+          "difficulty": "baja",
+          "description": "Haz 5 flexiones, apoya tus rodillas y manos en el suelo, mantén los brazos extendidos a la altura de los hombros, mantén la espalda recta, sin dejar de apoyar tus rodillas, flexiona los brazos hasta que tu pecho toque el suelo y regresa a la posición inicial."
+        },
+        {
+          "id": 64,
+          "difficulty": "media",
+          "description": "Haz 5 flexiones."
+        },
+        {
+          "id": 65,
+          "difficulty": "alta",
+          "description": "Haz 10 flexiones."
+        },
+        {
+          "id": 66,
+          "difficulty": "baja",
+          "description": "Rebota una pelota y atrápala con las dos manos 5 veces seguidas."
+        },
+        {
+          "id": 67,
+          "difficulty": "media",
+          "description": "Rebota una pelota y atrápala con una sola manos 5 veces seguidas."
+        },
+        {
+          "id": 68,
+          "difficulty": "alta",
+          "description": "Rebota una pelota y atrápala con una sola mano 5 veces seguidas mientras caminas."
         }
       ]
     }
