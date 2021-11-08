@@ -1,10 +1,10 @@
 {
   "project": {
     "id": 0,
-    "name": "Verdad o Reto",
+    "name": "¿Eres capaz de ...?",
     "author": "Elfkineret EA",
     "mainStack": "React",
-    "description": "Alegra tu vida y la de tus amigos con retos que pondrán a prueba tu capacidad física y mental"
+    "description": "Alegra tu vida y la de tus amigos con retos que pondrán a prueba tu capacidad resistencia física."
   },
   "instructions": {
     "id": 0,
