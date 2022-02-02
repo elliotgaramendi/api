@@ -1,11 +1,11 @@
 {
   "profile": {
     "id": 0,
-    "name": "Elliot Garamendi",
+    "name": "Elliot Leo Garamendi Sarmiento",
     "user": "ElliotXLeo",
     "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 💻Docente💻",
-    "mainStack": "MERN",
-    "description": "Estudiante de Ingeniería de Software perteneciente a los primeros puestos. Apasionado del autoaprendizaje con el deseo de crecer en el Desarrollo Web Frontend con la biblioteca React. Mi meta es ser un desarrollador JavaScript FullStack con el stack MERN. Amo los proyectos que me edifiquen de forma integral. Y cuento con experiencia en desarrollo, calidad de software y docencia."
+    "mainStack": "JS, CSS, HTML",
+    "description": "Estudiante de Ingeniería de Software perteneciente a los primeros puestos. Apasionado del autoaprendizaje con el sueño de crecer en el Desarrollo Web Frontend con la biblioteca React. Asimismo, amo compartir los conocimientos adquiridos día a día mediante la docencia."
   },
   "skills": [
     {
@@ -22,7 +22,7 @@
       "core": "Frontend",
       "percentage": 20,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 2,
@@ -30,18 +30,10 @@
       "core": "Frontend",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 3,
-      "name": "TypeScript",
-      "core": "Frontend",
-      "percentage": 40,
-      "level": "Intermedio",
-      "main": 1
-    },
-    {
-      "id": 4,
       "name": "JavaScript",
       "core": "Frontend",
       "percentage": 80,
@@ -49,7 +41,7 @@
       "main": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "CSS",
       "core": "Frontend",
       "percentage": 80,
@@ -57,7 +49,7 @@
       "main": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "HTML",
       "core": "Frontend",
       "percentage": 80,
@@ -65,18 +57,26 @@
       "main": 1
     },
     {
+      "id": 6,
+      "name": "TypeScript",
+      "core": "Frontend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 1
+    },
+    {
       "id": 7,
       "name": "Sass",
       "core": "Frontend",
-      "percentage": 40,
-      "level": "Intermedio",
+      "percentage": 30,
+      "level": "Básico",
       "main": 1
     },
     {
       "id": 8,
       "name": "Bootstrap",
       "core": "Frontend",
-      "percentage": 50,
+      "percentage": 60,
       "level": "Intermedio",
       "main": 1
     },
@@ -86,31 +86,31 @@
       "core": "Frontend",
       "percentage": 40,
       "level": "Intermedio",
-      "main": 1
-    },
-    {
-      "id": 10,
-      "name": "BEM",
-      "core": "Frontend",
-      "percentage": 70,
-      "level": "Avanzado",
       "main": 0
     },
     {
-      "id": 11,
-      "name": "Responsive Web Design",
+      "id": 10,
+      "name": "RWD",
       "core": "Frontend",
-      "percentage": 50,
+      "percentage": 60,
       "level": "Intermedio",
       "main": 1
     },
     {
-      "id": 12,
-      "name": "UX",
+      "id": 11,
+      "name": "BEM",
       "core": "Frontend",
-      "percentage": 20,
+      "percentage": 75,
+      "level": "Avanzado",
+      "main": 1
+    },
+    {
+      "id": 12,
+      "name": "UX/UI",
+      "core": "Frontend",
+      "percentage": 30,
       "level": "Básico",
-      "main": 0
+      "main": 1
     },
     {
       "id": 13,
@@ -118,7 +118,7 @@
       "core": "Frontend",
       "percentage": 40,
       "level": "Intermedio",
-      "main": 0
+      "main": 1
     },
     {
       "id": 14,
@@ -142,7 +142,7 @@
       "core": "Backend",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 17,
@@ -150,7 +150,7 @@
       "core": "Backend",
       "percentage": 50,
       "level": "Intermedio",
-      "main": 1
+      "main": 0
     },
     {
       "id": 18,
@@ -166,7 +166,7 @@
       "core": "Backend",
       "percentage": 50,
       "level": "Intermedio",
-      "main": 1
+      "main": 0
     },
     {
       "id": 20,
@@ -180,8 +180,8 @@
       "id": 21,
       "name": "API",
       "core": "Backend",
-      "percentage": 30,
-      "level": "Básico",
+      "percentage": 40,
+      "level": "Intermedio",
       "main": 1
     },
     {
@@ -206,7 +206,7 @@
       "core": "Base de datos",
       "percentage": 50,
       "level": "Intermedio",
-      "main": 1
+      "main": 0
     },
     {
       "id": 25,
@@ -214,7 +214,7 @@
       "core": "Base de datos",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 26,
@@ -222,7 +222,7 @@
       "core": "Base de datos",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
+      "main": 0
     },
     {
       "id": 27,
@@ -230,50 +230,26 @@
       "core": "Base de datos",
       "percentage": 30,
       "level": "Básico",
-      "main": 1
-    },
-    {
-      "id": 28,
-      "name": "MERN",
-      "core": "Fullstack",
-      "percentage": 30,
-      "level": "Básico",
       "main": 0
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "git",
-      "core": "Fullstack",
+      "core": "Tecnologías",
       "percentage": 60,
       "level": "Intermedio",
       "main": 1
     },
     {
-      "id": 30,
-      "name": "Linux",
-      "core": "Fullstack",
+      "id": 29,
+      "name": "Calidad de software",
+      "core": "Tecnologías",
       "percentage": 40,
-      "level": "Intermedio",
-      "main": 0
-    },
-    {
-      "id": 31,
-      "name": "Calidad",
-      "core": "Fullstack",
-      "percentage": 50,
       "level": "Intermedio",
       "main": 1
     },
     {
-      "id": 32,
-      "name": "Automatización",
-      "core": "Fullstack",
-      "percentage": 30,
-      "level": "Básico",
-      "main": 0
-    },
-    {
-      "id": 33,
+      "id": 30,
       "name": "Jest",
       "core": "Fullstack",
       "percentage": 20,
@@ -281,31 +257,23 @@
       "main": 0
     },
     {
-      "id": 34,
-      "name": "DevOps",
-      "core": "Fullstack",
+      "id": 31,
+      "name": "Automatización",
+      "core": "Tecnologías",
       "percentage": 30,
       "level": "Básico",
       "main": 0
     },
     {
-      "id": 35,
-      "name": "POO",
-      "core": "Fullstack",
-      "percentage": 80,
-      "level": "Avanzado",
-      "main": 0
-    },
-    {
-      "id": 36,
-      "name": "Programación Funcional",
-      "core": "Fullstack",
+      "id": 32,
+      "name": "Linux",
+      "core": "Tecnologías",
       "percentage": 40,
       "level": "Intermedio",
       "main": 0
     },
     {
-      "id": 37,
+      "id": 33,
       "name": "Amazon Web Services",
       "core": "Tecnologías",
       "percentage": 30,
@@ -313,43 +281,19 @@
       "main": 0
     },
     {
-      "id": 38,
+      "id": 34,
       "name": "Scrum",
-      "core": "Tecnologías",
+      "core": "Complementario",
       "percentage": 60,
       "level": "Intermedio",
       "main": 1
     },
     {
-      "id": 39,
+      "id": 35,
       "name": "Design Thinking",
-      "core": "Tecnologías",
+      "core": "Complementario",
       "percentage": 30,
       "level": "Básico",
-      "main": 0
-    },
-    {
-      "id": 40,
-      "name": "Agile",
-      "core": "Tecnologías",
-      "percentage": 50,
-      "level": "Intermedio",
-      "main": 0
-    },
-    {
-      "id": 41,
-      "name": "Microsoft 365",
-      "core": "Tecnologías",
-      "percentage": 80,
-      "level": "Avanzado",
-      "main": 0
-    },
-    {
-      "id": 42,
-      "name": "Excel",
-      "core": "Tecnologías",
-      "percentage": 80,
-      "level": "Avanzado",
       "main": 0
     }
   ],
@@ -363,7 +307,7 @@
         "Instrucción del curso: Calidad y Monitoreo Aire, Ruido y Emisiones Atmosféricas.",
         "Desarrollo de plantilla de cálculos en Excel para agilizar el procesamiento de información."
       ],
-      "main": 1
+      "main": 0
     },
     {
       "id": 1,
@@ -374,7 +318,7 @@
         "Instructor de Monitoreo en diplomas de especialización: Medio Ambiente & Seguridad",
         "y Salud Ocupacional, Sistemas Integrados de Gestión y Supervisor en Medio Ambiente."
       ],
-      "main": 1
+      "main": 0
     },
     {
       "id": 2,
@@ -407,16 +351,16 @@
         "Desarrollo de Software Bancario en GeneXus y AS/400.",
         "Mantenimiento de Software Bancario en GeneXus, AS/400 y Visual Basic 6.0."
       ],
-      "main": 1
+      "main": 0
     },
     {
       "id": 5,
-      "company": "IDAT",
+      "company": "Idat",
       "position": "Docente",
-      "period": "junio 2021, presente",
+      "period": "junio 2021, enero 2022",
       "activities": [
-        "Curso: Diseño y Desarrollo Web: HTML, CSS, JavaScript, Bootstrap, jQuery, PHP y MySQL.",
-        "Desarrollo de proyectos y materiales para el aprendizaje práctico y teórico de los alumnos."
+        "Curso: Diseño y Desarrollo Web: HTML, CSS, JS, Bootstrap, jQuery, PHP y MySQL.",
+        "Desarrollo de proyectos y materiales para el aprendizaje teórico y práctico de los alumnos."
       ],
       "main": 1
     },
@@ -427,7 +371,29 @@
       "period": "septiembre 2021, presente",
       "activities": [
         "Desarrollo de aplicaciones e-commerce con VTEX IO y React bajo el marco de trabajo Scrum.",
-        "Desarrollo de componentes acorde a los prototipos para el cumplimiento del Sprint Goal."
+        "Maquetación web de diseños del Figma en React esencialmente con CSS."
+      ],
+      "main": 1
+    },
+    {
+      "id": 7,
+      "company": "Mandü",
+      "position": "Software Engineer Trainee",
+      "period": "octubre 2021, presente",
+      "activities": [
+        "Mantenimiento web: Actualización de diseño, optimización y adición de funcionalidades.",
+        "Maquetación web de diseños del Figma en Laravel."
+      ],
+      "main": 1
+    },
+    {
+      "id": 8,
+      "company": "Tecsup",
+      "position": "Docente Frontend",
+      "period": "enero 2022, presente",
+      "activities": [
+        "Bootcamp: Desarrollo Web FE: git, P. Logic, HTML, CSS, JS, B, Sass, Node, React, Testing.",
+        "Desarrollo de proyectos y materiales para el aprendizaje teórico y práctico de los alumnos."
       ],
       "main": 1
     }
@@ -435,9 +401,9 @@
   "projects": [
     {
       "id": 0,
-      "title": "Pokedex Fetch PokéApi",
+      "title": "Pokedex Fetch PokéApi JS I",
       "mainTechnology": "JavaScript",
-      "technologies": "JavaScript, CSS, HTML, Bootstrap, Google Fonts, API REST",
+      "technologies": "JavaScript, CSS, HTML, Bootstrap",
       "about": "Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.",
       "image": "https://raw.githubusercontent.com/ElliotXLeo/pokedex-fetch-pokeapi-js-i/main/img/demo.png",
       "urlDemo": "https://elliotxleo.github.io/pokedex-fetch-pokeapi-js-i/",
@@ -446,13 +412,13 @@
     },
     {
       "id": 1,
-      "title": "Control Presupuestario",
-      "mainTechnology": "Angular",
-      "technologies": "Angular, TypeScript, JavaScript, CSS, HTML",
+      "title": "Control Presupuestario JS",
+      "mainTechnology": "JavaScript",
+      "technologies": "JavaScript, CSS, HTML",
       "about": "Web de control presupuestario el cuál te permite calcular tu presupuesto disponible en base a tus movimientos de ingresos y egresos.",
-      "image": "https://i.imgur.com/YjEC1F4.png",
-      "urlDemo": "https://controlpresupuestarioa.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-a",
+      "image": "https://raw.githubusercontent.com/ElliotXLeo/control-presupuestario-js/main/img/demo.png",
+      "urlDemo": "https://elliotxleo.github.io/control-presupuestario-js/",
+      "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-js",
       "main": 0
     },
     {
@@ -479,9 +445,9 @@
     },
     {
       "id": 4,
-      "title": "Clothing Store Tu Estilo",
+      "title": "Clothing Store Tu Estilo R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAler2, Animate.css",
+      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
       "about": "Aplicación que lista prendas de vestir personalizadas. Se puede agregar y eliminar del carrito para finalmente confirmar la compra. Al confirmar te podrás contactar con el vendedor.",
       "image": "https://i.imgur.com/LyHp8Et.png",
       "urlDemo": "https://clothingstoretuestilor.netlify.app",
@@ -490,20 +456,20 @@
     },
     {
       "id": 5,
-      "title": "Personal Web Responsive",
+      "title": "Personal Web Responsive YM",
       "mainTechnology": "HTML",
       "technologies": "JavaScript, CSS, HTML, BEM, Mobile First, Flexbox, Grid",
       "about": "Web Personal Responsiva donde el profesional detalla lo más relevante de su carrera, como su perfil, proyectos realizados, experiencia obtenida, habilidades desarrolladas y formas de contactarlo.",
       "image": "https://i.imgur.com/nAjUlNq.png",
-      "urlDemo": "https://elliotxleo.github.io/personal-web-responsive-ym/",
+      "urlDemo": "https://elliotxleo.github.io/personal-web-ym/",
       "urlCode": "https://github.com/ElliotXLeo/personal-web-responsive-ym",
       "main": 0
     },
     {
       "id": 6,
-      "title": "Control de Presupuesto",
+      "title": "Control de Presupuesto JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAler2, Animate.css",
+      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
       "about": "Aplicación que cuenta con un formulario para el registro de un presupuesto. Además, se pueden registrar egresos que afectaran al presupuesto como también eliminarlos.",
       "image": "https://i.imgur.com/3j8ztZY.png",
       "urlDemo": "https://budgetcontroljpr.netlify.app",
@@ -514,7 +480,7 @@
       "id": 7,
       "title": "API Pública",
       "mainTechnology": "JavaScript",
-      "technologies": "JavaScript, CSS, HTML, API, REST, JSON",
+      "technologies": "JavaScript, CSS, HTML, JSON",
       "about": "Aplicación API pública que cuenta con diferentes Endpoints que responden JSON's los cuales son inputs de diferentes aplicaciones desarrolladas.",
       "image": "https://i.postimg.cc/ZYBX8xkF/api-publica.png",
       "urlDemo": "https://elliotxleo.github.io/api-publica/",
@@ -525,16 +491,16 @@
       "id": 8,
       "title": "Proyectos Desarrollados",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, Animate.css, API",
+      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, Animate.css",
       "about": "Aplicación que lista los proyectos desarrollados del profesional brindando la información más relevante. Se puede ingresar al Demo y al código fuente. La data la consume de una API.",
       "image": "https://i.postimg.cc/mgy6Vd2J/react-cards-bootstrap-fc.png",
       "urlDemo": "https://reactcardsbootstrapfc.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/react-cards-bootstrap-fc",
-      "main": 1
+      "main": 0
     },
     {
       "id": 9,
-      "title": "Cotizador de Seguro de Auto",
+      "title": "Cotizador de Seguro de Auto JP R",
       "mainTechnology": "React",
       "technologies": "React, JavaScript, CSS, HTML, Emotion",
       "about": "Aplicación que cuenta con un formulario para el registro de las características del auto y qué seguro se desea contratar, posterior te dará una cotización y el total a pagar.",
@@ -545,9 +511,9 @@
     },
     {
       "id": 10,
-      "title": "Frases Breaking Bad API",
+      "title": "Frases Breaking Bad API JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, API, REST",
+      "technologies": "React, JavaScript, CSS, HTML",
       "about": "Aplicación que cita las frases de la serie Breaking Bad. La data la consume de una API. Al cargar la página se carga una frase debido a que se emplea useEffect. Se puede actualizar la frase.",
       "image": "https://i.imgur.com/WYWO9Uk.png",
       "urlDemo": "https://frasesbreakingbadapijpr.netlify.app",
@@ -556,9 +522,9 @@
     },
     {
       "id": 11,
-      "title": "Clima Ciudad API",
+      "title": "Clima Ciudad API JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Materialize, API, REST",
+      "technologies": "React, JavaScript, CSS, HTML, Materialize",
       "about": "Aplicación que obtiene la data meteorológica de la ciudad que se ingrese mediante el formulario. La data la consume de una API.",
       "image": "https://i.imgur.com/5Fuaako.png",
       "urlDemo": "https://climaciudadapijpr.netlify.app",
@@ -569,7 +535,7 @@
       "id": 12,
       "title": "Veterinaria JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAler2, Animate.css, localStorage",
+      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
       "about": "Aplicación que cuenta con un formulario para el registro de citas, además, se puede confirmar las citas como también eliminarlas.",
       "image": "https://i.imgur.com/iOg9gT4.png",
       "urlDemo": "https://veterinariajpr.netlify.app",
@@ -578,10 +544,10 @@
     },
     {
       "id": 13,
-      "title": "Personal Website Card",
+      "title": "Personal Website Card RN",
       "mainTechnology": "CSS",
       "technologies": "CSS, HTML, BEM, Mobile First, Flexbox",
-      "about": "Web Personal versión Tarjeta, donde el profesional detalla mediante palabras clave los puestos a los cuales se quiere dedicar, un resumen de su perfil y metas, como también formas de contactarlo.",
+      "about": "Página Web Personal versión de Tarjeta, donde el profesional detalla lo más relevante de él y formas de contactarlo.",
       "image": "https://i.imgur.com/o9SG9oO.png",
       "urlDemo": "https://elliotxleo.github.io/personal-website-card-rn/",
       "urlCode": "https://github.com/ElliotXLeo/personal-website-card-rn",
@@ -589,24 +555,24 @@
     },
     {
       "id": 14,
-      "title": "Landing Page Venta",
-      "mainTechnology": "CSS",
-      "technologies": "CSS, HTML, BEM, Mobile First, Flexbox",
-      "about": "Landing Page de Ventas que cuenta con un formulario para el contacto de posibles clientes. Además, en la página se muestra información relevante que motive a clientes a contactar con su empresa.",
-      "image": "https://i.postimg.cc/KYmkB58m/landing-page-venta-acgd.png",
-      "urlDemo": "https://elliotxleo.github.io/landing-page-venta-acgd/",
-      "urlCode": "https://github.com/ElliotXLeo/landing-page-venta-acgd",
-      "main": 1
-    },
-    {
-      "id": 15,
       "title": "Nextjs React | Portafolio",
       "mainTechnology": "Next.js",
-      "technologies": "Next.js, React, JavaScript, CSS, HTML, Axios, Bootstrap, Animate.css",
+      "technologies": "Next.js, React, JavaScript, CSS, HTML, Bootstrap, Animate.css, Axios",
       "about": "Aplicación donde el profesional detalla lo más relevante de su carrera, como su perfil, habilidades, experiencia, proyectos realizados y formas de contactarlo. La data la consume de una API.",
       "image": "https://i.postimg.cc/dV2T2PJ7/nextjs-react-portafolio-fc.png",
       "urlDemo": "https://nextjs-react-portafolio-fc.vercel.app",
       "urlCode": "https://github.com/ElliotXLeo/nextjs-react-portafolio-fc",
+      "main": 1
+    },
+    {
+      "id": 15,
+      "title": "Landing Page Venta ACGD",
+      "mainTechnology": "CSS",
+      "technologies": "CSS, HTML, BEM, Mobile First, Flexbox",
+      "about": "Landing Page de Ventas que cuenta con un formulario para el contacto de posibles clientes. Además, en la página se muestra información relevante que motive a clientes a contactar con su empresa.",
+      "image": "https://i.postimg.cc/KYmkB58m/landing-page-venta-acgd.png",
+      "urlDemo": "https://elliotxleo.github.io/lp-venta-acgd/",
+      "urlCode": "https://github.com/ElliotXLeo/landing-page-venta-acgd",
       "main": 1
     },
     {
@@ -616,15 +582,15 @@
       "technologies": "CSS, HTML, BEM, Mobile First, Flexbox",
       "about": "Landing Page de Contacto que cuenta con un formulario para el contacto de posibles clientes con la empresa.",
       "image": "https://i.postimg.cc/MKqDrQLW/landing-page-contacto-acgd.png",
-      "urlDemo": "https://elliotxleo.github.io/landing-page-contacto-acgd/",
+      "urlDemo": "https://elliotxleo.github.io/lp-contacto-acgd/",
       "urlCode": "https://github.com/ElliotXLeo/landing-page-contacto-acgd",
       "main": 0
     },
     {
       "id": 17,
-      "title": "Diseño y Maquetación Web",
+      "title": "Diseño y Maquetación Web I",
       "mainTechnology": "CSS",
-      "technologies": "CSS, HTML, RWD, BEM, Bootstrap, SEO, Hosting",
+      "technologies": "CSS, HTML, BEM, RWD, Bootstrap, SEO, Hosting",
       "about": "Desarrollo del curso Diseño y Maquetación Web donde se aplicará HTML, CSS, Diseño web adaptable, Metodologías y marcos como BEM, Bootstrap, Posicionamiento SEO y Hosting.",
       "image": "https://i.postimg.cc/ZKNstTLz/diseno-y-maquetacion-web-i.png",
       "urlDemo": "https://elliotxleo.github.io/diseno-y-maquetacion-web-i/",
@@ -633,6 +599,17 @@
     },
     {
       "id": 18,
+      "title": "Landing Page Register Event C",
+      "mainTechnology": "CSS",
+      "technologies": "JavaScript, CSS, HTML, SweetAlert2, Animate.css, Normalize.css",
+      "about": "Landing Page de Registro para un Evento que cuenta con un formulario para la inscripción de personas interesadas en el evento.",
+      "image": "https://i.postimg.cc/j5CXkn6d/imagen-2021-09-21-031723.png",
+      "urlDemo": "https://elliotxleo.github.io/lp-register-event-c/",
+      "urlCode": "https://github.com/ElliotXLeo/landing-page-register-event-c",
+      "main": 0
+    },
+    {
+      "id": 19,
       "title": "Cryptocurrency Quote API JP R",
       "mainTechnology": "React",
       "technologies": "React, JavaScript, CSS, HTML, Emotion, Axios",
@@ -643,25 +620,124 @@
       "main": 0
     },
     {
-      "id": 19,
-      "title": "Verdad o Reto EA R",
+      "id": 20,
+      "title": "News By Category API JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Axios, Animate.css, Normalize.css",
-      "about": "Juego de Verdad o Reto. Demuestra que eres capaz de hacer todo por tus amigos. Castigos que alegrarán tu fiesta, reunión o cualquier contexto. La data la consume de una API.",
+      "technologies": "React, JavaScript, CSS, HTML, Materialize",
+      "about": "Aplicación que obtiene noticias acorde a la categoría que se ingresa mediante el formulario. La data la consume de una API.",
+      "image": "https://i.postimg.cc/KYphnwfb/news-by-category-api-jp-r.png",
+      "urlDemo": "https://newsbycategoryapijpr.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/news-by-category-api-jp-r",
+      "main": 0
+    },
+    {
+      "id": 21,
+      "title": "Buscador de Imágenes API JP R",
+      "mainTechnology": "React",
+      "technologies": "React, JavaScript, CSS, HTML, Bootswatch",
+      "about": "Aplicación que obtiene imágenes acordes a la descripción ingresada mediante el formulario. La data la consume de una API.",
+      "image": "https://i.postimg.cc/pybf7v6Y/buscador-de-imagenes-api-jp-r.png",
+      "urlDemo": "https://buscadordeimagenesapijpr.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/image-search-engine-jp-r",
+      "main": 0
+    },
+    {
+      "id": 22,
+      "title": "Letras e Información del Artista API JP R",
+      "mainTechnology": "React",
+      "technologies": "React, JavaScript, CSS, HTML, Bootswatch, Axios",
+      "about": "Aplicación que obtiene las letras de una canción e información del artista acordes a los valores ingresados mediante el formulario. La data la consume de una API.",
+      "image": "https://i.postimg.cc/GpjDp6N5/lyrics-info-artist-api-jp-r.png",
+      "urlDemo": "https://lyricsinfoartistapijpr.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/lyrics-info-artist-api-jp-r",
+      "main": 0
+    },
+    {
+      "id": 23,
+      "title": "Recetas de Bebidas API JP R",
+      "mainTechnology": "React",
+      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, Material-UI, Axios",
+      "about": "Aplicación que obtiene Recetas de Bebidas acorde a los valores ingresados mediante el formulario. La data la consume de una API.",
+      "image": "https://i.postimg.cc/Pxk13NJH/drink-finder-jp-r.png",
+      "urlDemo": "https://drinkfinderjpr.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/drink-finder-jp-r",
+      "main": 0
+    },
+    {
+      "id": 24,
+      "title": "¿Puedes lograrlo?",
+      "mainTechnology": "React",
+      "technologies": "React, JavaScript, CSS, HTML, Axios, SweetAlert2, Animate.css, Normalize.css",
+      "about": "¿Puedes lograrlo? Es un juego de retos físicos casual. Juega con tus amigos y demuestra tu talento. Retos que alegrarán tu día y que reforzarán tus habilidades motrices.",
       "image": "https://i.postimg.cc/fLj2F7ss/verdad-o-reto-ea-r.png",
       "urlDemo": "https://verdadoretoear.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/verdad-o-reto-ea-r",
       "main": 1
     },
     {
-      "id": 20,
-      "title": "Landing Page Register Event C",
-      "mainTechnology": "CSS",
-      "technologies": "JavaScript, CSS, HTML, BEM, Mobile First, Flexbox, SweetAler2, Animate.css, Normalize.css",
-      "about": "Landing Page de Registro para un Evento que cuenta con un formulario para la inscripción de personas interesadas en el evento.",
-      "image": "https://i.postimg.cc/j5CXkn6d/imagen-2021-09-21-031723.png",
-      "urlDemo": "https://elliotxleo.github.io/landing-page-register-event-c/",
-      "urlCode": "https://github.com/ElliotXLeo/landing-page-register-event-c",
+      "id": 25,
+      "title": "Kierrez Zer My Nobia",
+      "mainTechnology": "JavaScript",
+      "technologies": "JavaScript, CSS, HTML",
+      "about": "Web Online para declararte a tu Crush. Aprende de Desde 0 a desarrollar una página web online y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.",
+      "image": "https://i.postimg.cc/qM85549m/kierrez-zer-my-nobia.png",
+      "urlDemo": "https://elliotxleo.github.io/kierrez-zer-my-nobia/",
+      "urlCode": "https://github.com/ElliotXLeo/kierrez-zer-my-nobia",
+      "main": 0
+    },
+    {
+      "id": 26,
+      "title": "CRUD B DT jQ PHP",
+      "mainTechnology": "PHP",
+      "technologies": "MySQL, PHP, HTML, CSS, JavaScript, Bootstrap, jQuery, SweetAlert2, DataTables",
+      "about": "Aplicación Web donde puedes administra usuarios mediante un CRUD. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y jQuery y PHP de lado del Frontend.",
+      "image": "https://i.postimg.cc/6pB5BZJB/crud-b-dt-jq-php.png",
+      "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/crud-b-dt-jq-php/frontend/",
+      "urlCode": "https://github.com/ElliotXLeo/crud-b-dt-jq-php",
+      "main": 0
+    },
+    {
+      "id": 27,
+      "title": "Login Pokémon Inc",
+      "mainTechnology": "PHP",
+      "technologies": "MySQL, PHP, HTML, CSS, JavaScript, Bootstrap, jQuery, SweetAlert2, Axios",
+      "about": "Aplicación Web donde puedes iniciar sesión con usuarios registrados. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y HTML, CSS, JS Y PHP de lado del Frontend.",
+      "image": "https://i.postimg.cc/BZ1MZDLz/login-pokemon-inc.png",
+      "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/",
+      "urlCode": "https://github.com/ElliotXLeo/login-pokemon-inc",
+      "main": 0
+    },
+    {
+      "id": 28,
+      "title": "CRUD POKEMON INC",
+      "mainTechnology": "PHP",
+      "technologies": "MySQL, PHP, Bootstrap",
+      "about": "Aplicación Web donde puedes administrar usuarios mediante un CRUD. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y PHP de lado del Frontend.",
+      "image": "https://i.postimg.cc/D0jDYfKZ/crud-pokemon-inc.png",
+      "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/",
+      "urlCode": "https://github.com/ElliotXLeo/crud-pokemon-inc",
+      "main": 1
+    },
+    {
+      "id": 29,
+      "title": "Registro Mascotas",
+      "mainTechnology": "JavaScript",
+      "technologies": "JavaScript, HTML, Bootstrap",
+      "about": "Aplicación web para el registro de mascotas.",
+      "image": "https://i.postimg.cc/gJd5MmbY/registro-mascotas-i.png",
+      "urlDemo": "https://elliotxleo.github.io/registro-mascotas-i/",
+      "urlCode": "https://github.com/ElliotXLeo/registro-mascotas-i",
+      "main": 0
+    },
+    {
+      "id": 30,
+      "title": "Learning Technology ACGD",
+      "mainTechnology": "JavaScript",
+      "technologies": "JavaScript, CSS, HTML, Normalize.css, Font Awesome, Google Fonts",
+      "about": "Página de Aprendizaje de Tecnología, donde podrás adquirir cursos. La página muestra información relevante del curso. Asimismo, cuenta con un formulario de Newsletter.",
+      "image": "https://i.postimg.cc/G35Z1CMy/learning-technology-acgd.png",
+      "urlDemo": "https://elliotxleo.github.io/learning-technology-acgd/",
+      "urlCode": "https://github.com/ElliotXLeo/learning-technology-acgd",
       "main": 1
     }
   ],
@@ -670,42 +746,42 @@
       "id": 0,
       "name": "LinkedIn",
       "urlContact": "https://www.linkedin.com/in/elliotgaramendi/",
-      "urlImage": "https://image.flaticon.com/icons/png/512/61/61109.png",
+      "urlImage": "https://image.flaticon.com/icons/png/512/174/174857.png",
       "main": 1
     },
     {
       "id": 1,
-      "name": "GitHub",
-      "urlContact": "https://github.com/ElliotXLeo",
-      "urlImage": "https://image.flaticon.com/icons/png/512/733/733609.png",
+      "name": "Instagram",
+      "urlContact": "https://www.instagram.com/elliotgaramendi/",
+      "urlImage": "https://cdn-icons-png.flaticon.com/512/1409/1409946.png",
       "main": 1
     },
     {
       "id": 2,
       "name": "Facebook",
       "urlContact": "https://www.facebook.com/elliotgaramendi",
-      "urlImage": "https://image.flaticon.com/icons/png/512/1384/1384005.png",
+      "urlImage": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
       "main": 1
     },
     {
       "id": 3,
-      "name": "WhatsApp",
-      "urlContact": "https://api.whatsapp.com/send?phone=51997045329",
-      "urlImage": "https://image.flaticon.com/icons/png/512/1384/1384023.png",
+      "name": "GitHub",
+      "urlContact": "https://github.com/ElliotXLeo",
+      "urlImage": "https://image.flaticon.com/icons/png/512/733/733553.png",
       "main": 1
     },
     {
       "id": 4,
-      "name": "Web Personal",
-      "urlContact": "https://nextjs-react-portafolio-fc.vercel.app",
-      "urlImage": "https://image.flaticon.com/icons/png/512/93/93618.png",
+      "name": "YouTube",
+      "urlContact": "https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA",
+      "urlImage": "https://cdn-icons-png.flaticon.com/512/174/174883.png",
       "main": 1
     },
     {
       "id": 5,
-      "name": "Correo",
-      "urlContact": "mailto:elliotgaramendi@gmail.com",
-      "urlImage": "https://image.flaticon.com/icons/png/512/31/31051.png",
+      "name": "Página Personal",
+      "urlContact": "https://nextjs-react-portafolio-fc.vercel.app",
+      "urlImage": "https://i.postimg.cc/65TVxg9t/world-globe.png",
       "main": 1
     }
   ]
