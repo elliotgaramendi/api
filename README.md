@@ -22,4 +22,4 @@ Aplicación API pública que cuenta con diferentes Endpoints que responden JSON'
 - 🐭 Facebook: https://www.facebook.com/elliotgaramendi/ 🐭
 - 🐭 GitHub: https://github.com/ElliotXLeo/ 🐭
 - 🐭 YouTube: https://www.youtube.com/channel/UCE9whBrtYnLWrpzwk6z_JUA/ 🐭
-- 🐭 Web Personal: https://nextjs-react-portafolio-fc.vercel.app 🐭
+- 🐭 Web Personal: https://elliotxleo.github.io/portafolio-web-elgs/ 🐭
