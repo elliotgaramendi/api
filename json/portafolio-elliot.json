@@ -230,13 +230,13 @@
     },
     {
       "id": 8,
-      "title": "API Pública",
+      "title": "API json Public",
       "mainTechnology": "JavaScript",
-      "technologies": "JavaScript, CSS, HTML, JSON",
-      "about": "Aplicación API pública que cuenta con diferentes Endpoints que responden JSON's los cuales son inputs de diferentes aplicaciones desarrolladas.",
-      "image": "https://i.postimg.cc/ZYBX8xkF/api-publica.png",
-      "urlDemo": "https://elliotxleo.github.io/api-publica/",
-      "urlCode": "https://github.com/ElliotXLeo/api-publica",
+      "technologies": "HTML, CSS, JavaScript, JSON, Sass, Google Fonts",
+      "about": "Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta con diferentes Endpoints que responden JSON's.",
+      "image": "https://i.postimg.cc/RV5CWcHc/api-json-public.png",
+      "urlDemo": "https://elliotxleo.github.io/api-json-public/",
+      "urlCode": "https://github.com/ElliotXLeo/api-json-public",
       "main": 0
     },
     {
