@@ -142,24 +142,24 @@
   "projects": [
     {
       "id": 0,
-      "title": "Listado Personas JS I",
+      "title": "CRUD Pokémons js",
       "mainTechnology": "JavaScript",
-      "technologies": "JavaScript, CSS, HTML",
-      "about": "Aplicación de listado de personas el cuál te permite agregar y eliminar personas para tener el listado deseado. En el caso que desee una nueva lista puede limpiar el actual.",
-      "image": "https://raw.githubusercontent.com/ElliotXLeo/listado-personas-js-i/main/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/listado-personas-js-i/",
-      "urlCode": "https://github.com/ElliotXLeo/listado-personas-js-i",
+      "technologies": "HTML, CSS, JavaScript, Bootstrap, Sweetalert",
+      "about": "CRUD de pokemones. Te permite crear, leer, actualizar y eliminar la información de los registros que tengas.",
+      "image": "https://i.postimg.cc/L5dkPJL2/crud-pokemons-js.png",
+      "urlDemo": "https://elliotxleo.github.io/crud-pokemons-js/",
+      "urlCode": "https://github.com/ElliotXLeo/crud-pokemons-js",
       "main": 0
     },
     {
       "id": 1,
-      "title": "Pokedex Fetch PokéApi JS I",
+      "title": "PokeFetch Gallary js",
       "mainTechnology": "JavaScript",
-      "technologies": "JavaScript, CSS, HTML, Bootstrap",
+      "technologies": "HTML, CSS, JavaScript, Bootstrap",
       "about": "Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.",
-      "image": "https://raw.githubusercontent.com/ElliotXLeo/pokedex-fetch-pokeapi-js-i/main/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/pokedex-fetch-pokeapi-js-i/",
-      "urlCode": "https://github.com/ElliotXLeo/pokedex-fetch-pokeapi-js-i",
+      "image": "https://elliotxleo.github.io/pokefetch-gallary-js/img/demo.png",
+      "urlDemo": "https://elliotxleo.github.io/pokefetch-gallary-js/",
+      "urlCode": "https://elliotxleo.github.io/pokefetch-gallary-js/",
       "main": 0
     },
     {
@@ -413,15 +413,15 @@
       "image": "https://i.postimg.cc/fLj2F7ss/verdad-o-reto-ea-r.png",
       "urlDemo": "https://verdadoretoear.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/verdad-o-reto-ea-r",
-      "main": 1
+      "main": 0
     },
     {
       "id": 25,
       "title": "Kierrez Zer My Nobia",
       "mainTechnology": "JavaScript",
       "technologies": "JavaScript, CSS, HTML",
-      "about": "Web Online para declararte a tu Crush. Aprende de Desde 0 a desarrollar una página web online y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.",
-      "image": "https://i.postimg.cc/qM85549m/kierrez-zer-my-nobia.png",
+      "about": "Web para declararte a tu Crush. Aprende a desarrollar una página web y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.",
+      "image": "https://i.postimg.cc/yYj3cbqT/kierrez-zer-my-nobia.png",
       "urlDemo": "https://elliotxleo.github.io/kierrez-zer-my-nobia/",
       "urlCode": "https://github.com/ElliotXLeo/kierrez-zer-my-nobia",
       "main": 0
@@ -512,7 +512,7 @@
       "image": "https://i.postimg.cc/prBc3CPG/pancito-feliz-r.png",
       "urlDemo": "https://pancito-feliz-r.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/pancito-feliz-r",
-      "main": 1
+      "main": 0
     },
     {
       "id": 34,
@@ -656,6 +656,28 @@
       "urlDemo": "https://elliotxleo.github.io/apimones-card-js/",
       "urlCode": "https://github.com/ElliotXLeo/apimones-card-js",
       "main": 0
+    },
+    {
+      "id": 47,
+      "title": "NextProject MERN Backend",
+      "mainTechnology": "Express",
+      "technologies": "JavaScript, Node.js, Express, MongoDB, mongoose, Nodemailer, JSON Web Token, Socket.IO",
+      "about": "Aplicación de Administrador de Proyectos que llevarán tu gestión al siguiente nivel. En él puedes administrar los proyectos de tus sueños y sus actividades de inicio a fin.",
+      "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
+      "urlDemo": "https://next-project-mern-frontend.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/next-project-mern-backend",
+      "main": 1
+    },
+    {
+      "id": 48,
+      "title": "NextProject MERN Frontend",
+      "mainTechnology": "React",
+      "technologies": "React, HTML, CSS, JavaScript, React Router, Socket.IO, Axios, Tailwind CSS",
+      "about": "Aplicación de Administrador de Proyectos que llevarán tu gestión al siguiente nivel. En él puedes administrar los proyectos de tus sueños y sus actividades de inicio a fin.",
+      "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
+      "urlDemo": "https://next-project-mern-frontend.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/next-project-mern-frontend",
+      "main": 1
     }
   ],
   "skills": [
