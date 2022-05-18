@@ -107,23 +107,23 @@
     },
     {
       "id": 6,
+      "company": "Mandü",
+      "position": "Software Engineer Trainee",
+      "period": "octubre 2021, abril 2022",
+      "activities": [
+        "Mantenimiento web: Actualización de diseño, optimización y adición de funcionalidades.",
+        "Maquetación web de diseños del Figma en Laravel."
+      ],
+      "main": 1
+    },
+    {
+      "id": 7,
       "company": "DRIVEN",
       "position": "Frontend Developer Junior",
       "period": "septiembre 2021, presente",
       "activities": [
         "Desarrollo de aplicaciones e-commerce con VTEX IO y React bajo el marco de trabajo Scrum.",
         "Maquetación web de diseños del Figma en React esencialmente con CSS."
-      ],
-      "main": 1
-    },
-    {
-      "id": 7,
-      "company": "Mandü",
-      "position": "Software Engineer Trainee",
-      "period": "octubre 2021, presente",
-      "activities": [
-        "Mantenimiento web: Actualización de diseño, optimización y adición de funcionalidades.",
-        "Maquetación web de diseños del Figma en Laravel."
       ],
       "main": 1
     },
@@ -168,7 +168,7 @@
       "mainTechnology": "JavaScript",
       "technologies": "JavaScript, CSS, HTML",
       "about": "Web de control presupuestario el cuál te permite calcular tu presupuesto disponible en base a tus movimientos de ingresos y egresos.",
-      "image": "https://raw.githubusercontent.com/ElliotXLeo/control-presupuestario-js/main/img/demo.png",
+      "image": "https://elliotxleo.github.io/control-presupuestario-js/img/demo.png",
       "urlDemo": "https://elliotxleo.github.io/control-presupuestario-js/",
       "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-js",
       "main": 0
@@ -188,7 +188,7 @@
       "id": 4,
       "title": "Rick and Morty API Personajes",
       "mainTechnology": "React",
-      "technologies": "React, Webpack, Babel, Sass, JavaScript, CSS, HTML",
+      "technologies": "React, Webpack, Babel, Sass",
       "about": "Aplicación de listado de Personajes de Rick and Morty. La data la consume del API The Rick and Morty API.",
       "image": "https://i.imgur.com/iCkFoGL.png",
       "urlDemo": "https://rickandmortypersonajes.netlify.app",
@@ -197,13 +197,13 @@
     },
     {
       "id": 5,
-      "title": "Clothing Store Tu Estilo R",
+      "title": "Ropita Feliz React",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
+      "technologies": "React, HTML, CSS, JavaScript, Bootstrap, Animate.css, SweetAlert2",
       "about": "Aplicación que lista prendas de vestir personalizadas. Se puede agregar y eliminar del carrito para finalmente confirmar la compra. Al confirmar te podrás contactar con el vendedor.",
-      "image": "https://i.imgur.com/LyHp8Et.png",
-      "urlDemo": "https://clothingstoretuestilor.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/clothing-store-tu-estilo-r",
+      "image": "https://i.postimg.cc/N0cDDrm4/ropita-feliz-react.png",
+      "urlDemo": "https://ropita-feliz-react.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/ropita-feliz-react",
       "main": 0
     },
     {
@@ -219,13 +219,13 @@
     },
     {
       "id": 7,
-      "title": "Control de Presupuesto JP R",
+      "title": "Dinerito Feliz React",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
+      "technologies": "React, HTML, CSS, JavaScript, Bootstrap, Animate.css, SweetAlert2",
       "about": "Aplicación que cuenta con un formulario para el registro de un presupuesto. Además, se pueden registrar egresos que afectaran al presupuesto como también eliminarlos.",
-      "image": "https://i.imgur.com/3j8ztZY.png",
-      "urlDemo": "https://budgetcontroljpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/budget-control-jp-r",
+      "image": "https://i.postimg.cc/dQHH8B6m/dinerito-feliz-react.png",
+      "urlDemo": "https://dinerito-feliz-react.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/dinerito-feliz-react",
       "main": 0
     },
     {
@@ -265,33 +265,33 @@
       "id": 11,
       "title": "Frases Breaking Bad API JP R",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML",
+      "technologies": "React, HTML, CSS, JavaScript",
       "about": "Aplicación que cita las frases de la serie Breaking Bad. La data la consume de una API. Al cargar la página se carga una frase debido a que se emplea useEffect. Se puede actualizar la frase.",
-      "image": "https://i.imgur.com/WYWO9Uk.png",
-      "urlDemo": "https://frasesbreakingbadapijpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/frases-breaking-bad-api-jp-r",
+      "image": "https://i.postimg.cc/LskgzmdY/frases-breaking-bad-r.png",
+      "urlDemo": "https://frases-breaking-bad-r.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/frases-breaking-bad-r",
       "main": 0
     },
     {
       "id": 12,
-      "title": "Clima Ciudad API JP R",
+      "title": "Clima Feliz React ",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Materialize",
+      "technologies": "React, HTML, CSS, JavaScript, Materialize",
       "about": "Aplicación que obtiene la data meteorológica de la ciudad que se ingrese mediante el formulario. La data la consume de una API.",
-      "image": "https://i.imgur.com/5Fuaako.png",
-      "urlDemo": "https://climaciudadapijpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/clima-ciudad-api-jp-r",
+      "image": "https://i.postimg.cc/pLJjxv2B/clima-feliz-react.png",
+      "urlDemo": "https://clima-feliz-react.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/clima-feliz-react",
       "main": 0
     },
     {
       "id": 13,
-      "title": "Veterinaria JP R",
+      "title": "Patita Feliz React",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Bootstrap, SweetAlert2, Animate.css",
+      "technologies": "React, HTML, CSS, JavaScript, Bootstrap, Animate.css, SweetAlert2",
       "about": "Aplicación que cuenta con un formulario para el registro de citas, además, se puede confirmar las citas como también eliminarlas.",
-      "image": "https://i.imgur.com/iOg9gT4.png",
-      "urlDemo": "https://veterinariajpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/veterinaria-jp-r",
+      "image": "https://i.postimg.cc/gJtMnC05/patita-feliz-react.png",
+      "urlDemo": "https://patita-feliz-react.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/patita-feliz-react",
       "main": 0
     },
     {
@@ -408,11 +408,11 @@
       "id": 24,
       "title": "¿Puedes lograrlo?",
       "mainTechnology": "React",
-      "technologies": "React, JavaScript, CSS, HTML, Axios, SweetAlert2, Animate.css, Normalize.css",
+      "technologies": "React, HTML, CSS, JavaScript, Axios, Normalize.css, Animate.css, SweetAlert2",
       "about": "¿Puedes lograrlo? Es un juego de retos físicos casual. Juega con tus amigos y demuestra tu talento. Retos que alegrarán tu día y que reforzarán tus habilidades motrices.",
-      "image": "https://i.postimg.cc/fLj2F7ss/verdad-o-reto-ea-r.png",
-      "urlDemo": "https://verdadoretoear.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/verdad-o-reto-ea-r",
+      "image": "https://i.postimg.cc/Cx03d381/puedes-lograrlo-ea-r.png",
+      "urlDemo": "https://puedes-lograrlo-ea-r.netlify.app",
+      "urlCode": "https://github.com/ElliotXLeo/puedes-lograrlo-ea-r",
       "main": 0
     },
     {
