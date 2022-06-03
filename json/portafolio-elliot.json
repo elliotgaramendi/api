@@ -215,7 +215,7 @@
       "image": "https://i.postimg.cc/Ls680V50/portafolio-web-elgs.png",
       "urlDemo": "https://elliotxleo.github.io/portafolio-web-elgs/",
       "urlCode": "https://github.com/ElliotXLeo/portafolio-web-elgs",
-      "main": 1
+      "main": 0
     },
     {
       "id": 7,
@@ -314,7 +314,7 @@
       "image": "https://i.postimg.cc/dV2T2PJ7/nextjs-react-portafolio-fc.png",
       "urlDemo": "https://nextjs-react-portafolio-fc.vercel.app",
       "urlCode": "https://github.com/ElliotXLeo/nextjs-react-portafolio-fc",
-      "main": 1
+      "main": 0
     },
     {
       "id": 16,
@@ -413,7 +413,7 @@
       "image": "https://i.postimg.cc/Cx03d381/puedes-lograrlo-ea-r.png",
       "urlDemo": "https://puedes-lograrlo-ea-r.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/puedes-lograrlo-ea-r",
-      "main": 0
+      "main": 1
     },
     {
       "id": 25,
@@ -512,7 +512,7 @@
       "image": "https://i.postimg.cc/prBc3CPG/pancito-feliz-r.png",
       "urlDemo": "https://pancito-feliz-r.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/pancito-feliz-r",
-      "main": 0
+      "main": 1
     },
     {
       "id": 34,
@@ -587,8 +587,8 @@
       "technologies": "HTML, CSS, JavaScript",
       "about": "Bootcamp de Desarrollo Web Frontend donde se aprenderá temas como git, lógica de programación, HTML, CSS, JS, Bootstrap, Sass, Node, React, Firebase, Redux y Testing.",
       "image": "https://i.postimg.cc/kg2k7v3P/lp-b2-w-4b-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g-14/",
-      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g-14",
+      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g14/",
+      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g14",
       "main": 1
     },
     {
@@ -598,8 +598,8 @@
       "technologies": "HTML, CSS, JavaScript",
       "about": "Bootcamp de Desarrollo Web Frontend donde se aprenderá temas como git, lógica de programación, HTML, CSS, JS, Bootstrap, Sass, Node, React, Firebase, Redux y Testing.",
       "image": "https://i.postimg.cc/kg2k7v3P/lp-b2-w-4b-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g-15/",
-      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g-15",
+      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g15/",
+      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g15",
       "main": 0
     },
     {
@@ -666,7 +666,7 @@
       "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
       "urlDemo": "https://next-project-mern-frontend.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/next-project-mern-backend",
-      "main": 1
+      "main": 0
     },
     {
       "id": 48,
@@ -677,6 +677,39 @@
       "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
       "urlDemo": "https://next-project-mern-frontend.netlify.app",
       "urlCode": "https://github.com/ElliotXLeo/next-project-mern-frontend",
+      "main": 1
+    },
+    {
+      "id": 49,
+      "title": "Pokémons Inc MERN Backend",
+      "mainTechnology": "Express",
+      "technologies": "JavaScript, Node.js, Express, dotenv, MongoDB, mongoose, cloudinary, Nodemon",
+      "about": "Administrador de Pokémon’s.",
+      "image": "https://i.postimg.cc/QtKFX0G9/pokemons-inc-mern-frontend.png",
+      "urlDemo": "https://pokemons-inc-mern-backend.herokuapp.com/api/pokemons",
+      "urlCode": "https://github.com/ElliotXLeo/pokemons-inc-mern-backend",
+      "main": 0
+    },
+    {
+      "id": 50,
+      "title": "Pokémons Inc MERN Frontend",
+      "mainTechnology": "React",
+      "technologies": "React, HTML, CSS, JavaScript, React Router, Axios, Formik, React Hot Toast, Tailwind CSS",
+      "about": "Administrador de Pokémon’s.",
+      "image": "https://i.postimg.cc/QtKFX0G9/pokemons-inc-mern-frontend.png",
+      "urlDemo": "https://pokemons-inc-mern-frontend.netlify.app/pokemons",
+      "urlCode": "https://github.com/ElliotXLeo/pokemons-inc-mern-frontend",
+      "main": 0
+    },
+    {
+      "id": 50,
+      "title": "Pokémons CRUD Redux React",
+      "mainTechnology": "React",
+      "technologies": "React, HTML, CSS, JavaScript, React Router, Redux, Axios, Formik, sweetalert2, Tailwind CSS",
+      "about": "Administrador de Pokémon’s.",
+      "image": "https://i.postimg.cc/BvYqBcY3/pokemons-crud-redux-react.png",
+      "urlDemo": "https://github.com/ElliotXLeo/pokemons-crud-redux-react",
+      "urlCode": "https://github.com/ElliotXLeo/pokemons-crud-redux-react",
       "main": 1
     }
   ],
