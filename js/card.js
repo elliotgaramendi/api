@@ -4,12 +4,12 @@ const card = async () => {
   const pokemonLocal = document.getElementById('pokemonLocal');
   const pokemonRemote = document.getElementById('pokemonRemote');
   
-  const [localData, remoteData] = await fetchApi('https://elliotxleo.github.io/api-json-public/json/pokeapi-api-v2-pokemon-25.json', 'https://pokeapi.co/api/v2/pokemon/25');
+  const [localData, remoteData] = await fetchApi('https://elliotgaramendi.github.io/api/json/pokeapi-api-v2-pokemon-25.json', 'https://pokeapi.co/api/v2/pokemon/25');
   
   renderCard(pokemonLocal, localData);
   renderCard(pokemonRemote, remoteData);
 
-  // fetch('https://elliotxleo.github.io/api-json-public/json/pokeapi-api-v2-pokemon-25.json')
+  // fetch('https://elliotgaramendi.github.io/api/json/pokeapi-api-v2-pokemon-25.json')
   //   .then((response) => {
   //     return response.json();
   //   })
@@ -24,7 +24,7 @@ const card = async () => {
   // };
   // consultarAPI();
 
-  // const pokemonPokemonLocal = await fetchApi('https://elliotxleo.github.io/api-json-public/json/pokeapi-api-v2-pokemon-25.json');
+  // const pokemonPokemonLocal = await fetchApi('https://elliotgaramendi.github.io/api/json/pokeapi-api-v2-pokemon-25.json');
   // const pokemonPokemonRemote = await fetchApi('https://pokeapi.co/api/v2/pokemon/25');
   // renderCard(pokemonLocal, pokemonPokemonLocal);
   // renderCard(pokemonRemote, pokemonPokemonRemote);
