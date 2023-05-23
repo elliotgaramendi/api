@@ -230,7 +230,7 @@
     },
     {
       "id": 8,
-      "title": "API json Public",
+      "title": "API",
       "mainTechnology": "JavaScript",
       "technologies": "HTML, CSS, JavaScript, JSON, Sass, Google Fonts",
       "about": "Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta con diferentes Endpoints que responden JSON's.",

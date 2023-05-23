@@ -15,7 +15,7 @@
 .pokemons__title {
   grid-area: pokemons-title;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.75rem;
   margin: 0;
 }
 
