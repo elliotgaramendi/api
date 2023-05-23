@@ -4,7 +4,7 @@
     "name": "Elliot Leo Garamendi Sarmiento",
     "shortName": "Elliot Garamendi",
     "slogan": "Los mejores diseños y desarrollos de páginas web en el Perú.",
-    "user": "ElliotXLeo",
+    "user": "elliotgaramendi",
     "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 💻Docente💻",
     "mainStack": "React, JS, CSS, HTML",
     "description": "Desarrollador Web Frontend con la biblioteca React. Docente de especialización en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
@@ -147,8 +147,8 @@
       "technologies": "HTML, CSS, JavaScript, Bootstrap, Sweetalert",
       "about": "CRUD de pokemones. Te permite crear, leer, actualizar y eliminar la información de los registros que tengas.",
       "image": "https://i.postimg.cc/L5dkPJL2/crud-pokemons-js.png",
-      "urlDemo": "https://elliotxleo.github.io/crud-pokemons-js/",
-      "urlCode": "https://github.com/ElliotXLeo/crud-pokemons-js",
+      "urlDemo": "https://elliotgaramendi.github.io/crud-pokemons-js/",
+      "urlCode": "https://github.com/elliotgaramendi/crud-pokemons-js",
       "main": 0
     },
     {
@@ -157,9 +157,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "HTML, CSS, JavaScript, Bootstrap",
       "about": "Aplicación de listado de Pokémons con paginación. La data la consume del API PokéApi.",
-      "image": "https://elliotxleo.github.io/pokefetch-gallary-js/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/pokefetch-gallary-js/",
-      "urlCode": "https://elliotxleo.github.io/pokefetch-gallary-js/",
+      "image": "https://elliotgaramendi.github.io/pokefetch-gallary-js/img/demo.png",
+      "urlDemo": "https://elliotgaramendi.github.io/pokefetch-gallary-js/",
+      "urlCode": "https://elliotgaramendi.github.io/pokefetch-gallary-js/",
       "main": 0
     },
     {
@@ -168,9 +168,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "JavaScript, CSS, HTML",
       "about": "Web de control presupuestario el cuál te permite calcular tu presupuesto disponible en base a tus movimientos de ingresos y egresos.",
-      "image": "https://elliotxleo.github.io/control-presupuestario-js/img/demo.png",
-      "urlDemo": "https://elliotxleo.github.io/control-presupuestario-js/",
-      "urlCode": "https://github.com/ElliotXLeo/control-presupuestario-js",
+      "image": "https://elliotgaramendi.github.io/control-presupuestario-js/img/demo.png",
+      "urlDemo": "https://elliotgaramendi.github.io/control-presupuestario-js/",
+      "urlCode": "https://github.com/elliotgaramendi/control-presupuestario-js",
       "main": 0
     },
     {
@@ -179,9 +179,9 @@
       "mainTechnology": "Unity 5",
       "technologies": "Unity 5, C#",
       "about": "Videojuego de categoría endless runner que consiste en esquivar las llamas que vienen a velocidad a chocar con el personaje principal. El juego aumenta de dificultad de manera progresiva.",
-      "image": "https://raw.githubusercontent.com/ElliotXLeo/Huallay-Aventura/main/Capturas/Web.png",
-      "urlDemo": "https://elliotxleo.github.io/Huallay-Aventura/Despliegue/Huayllay%20Aventura%20Web/",
-      "urlCode": "https://github.com/ElliotXLeo/Huallay-Aventura",
+      "image": "https://raw.githubusercontent.com/elliotgaramendi/Huallay-Aventura/main/Capturas/Web.png",
+      "urlDemo": "https://elliotgaramendi.github.io/Huallay-Aventura/Despliegue/Huayllay%20Aventura%20Web/",
+      "urlCode": "https://github.com/elliotgaramendi/Huallay-Aventura",
       "main": 0
     },
     {
@@ -192,7 +192,7 @@
       "about": "Aplicación de listado de Personajes de Rick and Morty. La data la consume del API The Rick and Morty API.",
       "image": "https://i.imgur.com/iCkFoGL.png",
       "urlDemo": "https://rickandmortypersonajes.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/rick-and-morty-api-p",
+      "urlCode": "https://github.com/elliotgaramendi/rick-and-morty-api-p",
       "main": 0
     },
     {
@@ -203,7 +203,7 @@
       "about": "Aplicación que lista prendas de vestir personalizadas. Se puede agregar y eliminar del carrito para finalmente confirmar la compra. Al confirmar te podrás contactar con el vendedor.",
       "image": "https://i.postimg.cc/N0cDDrm4/ropita-feliz-react.png",
       "urlDemo": "https://ropita-feliz-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/ropita-feliz-react",
+      "urlCode": "https://github.com/elliotgaramendi/ropita-feliz-react",
       "main": 0
     },
     {
@@ -213,8 +213,8 @@
       "technologies": "JavaScript, CSS, HTML",
       "about": "Desarrollador Web Frontend con la biblioteca React. Docente de especialización en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
       "image": "https://i.postimg.cc/Ls680V50/portafolio-web-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/portafolio-web-elgs/",
-      "urlCode": "https://github.com/ElliotXLeo/portafolio-web-elgs",
+      "urlDemo": "https://elliotgaramendi.github.io/portafolio-web-elgs/",
+      "urlCode": "https://github.com/elliotgaramendi/portafolio-web-elgs",
       "main": 0
     },
     {
@@ -225,7 +225,7 @@
       "about": "Aplicación que cuenta con un formulario para el registro de un presupuesto. Además, se pueden registrar egresos que afectaran al presupuesto como también eliminarlos.",
       "image": "https://i.postimg.cc/dQHH8B6m/dinerito-feliz-react.png",
       "urlDemo": "https://dinerito-feliz-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/dinerito-feliz-react",
+      "urlCode": "https://github.com/elliotgaramendi/dinerito-feliz-react",
       "main": 0
     },
     {
@@ -234,9 +234,9 @@
       "mainTechnology": "JavaScript",
       "technologies": "HTML, CSS, JavaScript, JSON, Sass, Google Fonts",
       "about": "Aplicación Web que genera Tarjetas de Pikachu consumiendo data. Además cuenta con diferentes Endpoints que responden JSON's.",
-      "image": "https://i.postimg.cc/RV5CWcHc/api-json-public.png",
-      "urlDemo": "https://elliotxleo.github.io/api-json-public/",
-      "urlCode": "https://github.com/ElliotXLeo/api-json-public",
+      "image": "https://i.postimg.cc/RV5CWcHc/api.png",
+      "urlDemo": "https://elliotgaramendi.github.io/api/",
+      "urlCode": "https://github.com/elliotgaramendi/api",
       "main": 0
     },
     {
@@ -247,7 +247,7 @@
       "about": "Aplicación que lista los proyectos desarrollados del profesional brindando la información más relevante. Se puede ingresar al Demo y al código fuente. La data la consume de una API.",
       "image": "https://i.postimg.cc/mgy6Vd2J/react-cards-bootstrap-fc.png",
       "urlDemo": "https://reactcardsbootstrapfc.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/react-cards-bootstrap-fc",
+      "urlCode": "https://github.com/elliotgaramendi/react-cards-bootstrap-fc",
       "main": 0
     },
     {
@@ -258,7 +258,7 @@
       "about": "Aplicación que cuenta con un formulario para el registro de las características del auto y qué seguro se desea contratar, posterior te dará una cotización y el total a pagar.",
       "image": "https://i.imgur.com/2rYndGP.png",
       "urlDemo": "https://autoinsurancequotejpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/auto-insurance-quote-jp-r",
+      "urlCode": "https://github.com/elliotgaramendi/auto-insurance-quote-jp-r",
       "main": 0
     },
     {
@@ -269,7 +269,7 @@
       "about": "Aplicación que cita las frases de la serie Breaking Bad. La data la consume de una API. Al cargar la página se carga una frase debido a que se emplea useEffect. Se puede actualizar la frase.",
       "image": "https://i.postimg.cc/LskgzmdY/frases-breaking-bad-r.png",
       "urlDemo": "https://frases-breaking-bad-r.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/frases-breaking-bad-r",
+      "urlCode": "https://github.com/elliotgaramendi/frases-breaking-bad-r",
       "main": 0
     },
     {
@@ -280,7 +280,7 @@
       "about": "Aplicación que obtiene la data meteorológica de la ciudad que se ingrese mediante el formulario. La data la consume de una API.",
       "image": "https://i.postimg.cc/pLJjxv2B/clima-feliz-react.png",
       "urlDemo": "https://clima-feliz-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/clima-feliz-react",
+      "urlCode": "https://github.com/elliotgaramendi/clima-feliz-react",
       "main": 0
     },
     {
@@ -291,7 +291,7 @@
       "about": "Aplicación que cuenta con un formulario para el registro de citas, además, se puede confirmar las citas como también eliminarlas.",
       "image": "https://i.postimg.cc/gJtMnC05/patita-feliz-react.png",
       "urlDemo": "https://patita-feliz-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/patita-feliz-react",
+      "urlCode": "https://github.com/elliotgaramendi/patita-feliz-react",
       "main": 0
     },
     {
@@ -301,8 +301,8 @@
       "technologies": "CSS, HTML",
       "about": "Página Web Personal versión de Tarjeta, donde el profesional detalla lo más relevante de él y formas de contactarlo.",
       "image": "https://i.postimg.cc/KjGggZNZ/personal-card-css.png",
-      "urlDemo": "https://elliotxleo.github.io/personal-card-css/",
-      "urlCode": "https://github.com/ElliotXLeo/personal-card-css",
+      "urlDemo": "https://elliotgaramendi.github.io/personal-card-css/",
+      "urlCode": "https://github.com/elliotgaramendi/personal-card-css",
       "main": 0
     },
     {
@@ -313,7 +313,7 @@
       "about": "Aplicación donde el profesional detalla lo más relevante de su carrera, como su perfil, habilidades, experiencia, proyectos realizados y formas de contactarlo. La data la consume de una API.",
       "image": "https://i.postimg.cc/dV2T2PJ7/nextjs-react-portafolio-fc.png",
       "urlDemo": "https://nextjs-react-portafolio-fc.vercel.app",
-      "urlCode": "https://github.com/ElliotXLeo/nextjs-react-portafolio-fc",
+      "urlCode": "https://github.com/elliotgaramendi/nextjs-react-portafolio-fc",
       "main": 0
     },
     {
@@ -323,8 +323,8 @@
       "technologies": "CSS, HTML",
       "about": "Landing Page de Ventas que cuenta con un formulario para el contacto de posibles clientes. Además, en la página se muestra información relevante que motive a clientes a contactar con su empresa.",
       "image": "https://i.postimg.cc/KYmkB58m/landing-page-venta-acgd.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-venta-acgd/",
-      "urlCode": "https://github.com/ElliotXLeo/landing-page-venta-acgd",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-venta-acgd/",
+      "urlCode": "https://github.com/elliotgaramendi/landing-page-venta-acgd",
       "main": 0
     },
     {
@@ -334,8 +334,8 @@
       "technologies": "CSS, HTML",
       "about": "Landing Page de Contacto que cuenta con un formulario para el contacto de posibles clientes con la empresa.",
       "image": "https://i.postimg.cc/MKqDrQLW/landing-page-contacto-acgd.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-contacto-acgd/",
-      "urlCode": "https://github.com/ElliotXLeo/landing-page-contacto-acgd",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-contacto-acgd/",
+      "urlCode": "https://github.com/elliotgaramendi/landing-page-contacto-acgd",
       "main": 0
     },
     {
@@ -345,8 +345,8 @@
       "technologies": "CSS, HTML",
       "about": "Desarrollo del curso Diseño y Maquetación Web donde se aplicará HTML, CSS, Diseño web adaptable, Metodologías y marcos como BEM, Bootstrap, Posicionamiento SEO y Hosting.",
       "image": "https://i.postimg.cc/ZKNstTLz/diseno-y-maquetacion-web-i.png",
-      "urlDemo": "https://elliotxleo.github.io/diseno-y-maquetacion-web-i/",
-      "urlCode": "https://github.com/ElliotXLeo/diseno-y-maquetacion-web-i",
+      "urlDemo": "https://elliotgaramendi.github.io/diseno-y-maquetacion-web-i/",
+      "urlCode": "https://github.com/elliotgaramendi/diseno-y-maquetacion-web-i",
       "main": 0
     },
     {
@@ -356,8 +356,8 @@
       "technologies": "JavaScript, CSS, HTML, SweetAlert2, Animate.css, Normalize.css",
       "about": "Landing Page de Registro para un Evento que cuenta con un formulario para la inscripción de personas interesadas en el evento.",
       "image": "https://i.postimg.cc/j5CXkn6d/imagen-2021-09-21-031723.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-register-event-c/",
-      "urlCode": "https://github.com/ElliotXLeo/landing-page-register-event-c",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-register-event-c/",
+      "urlCode": "https://github.com/elliotgaramendi/landing-page-register-event-c",
       "main": 0
     },
     {
@@ -368,7 +368,7 @@
       "about": "Cotizador de Criptomonedas. Aplicación que obtiene el tipo de cambio de una criptomoneda a la moneda de preferencia. La data la consume de una API.",
       "image": "https://i.postimg.cc/8C7Gr4hq/cryptocurrency-quote-api-jp-r.png",
       "urlDemo": "https://cryptocurrencyquoteapijpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/cryptocurrency-quote-api-jp-r",
+      "urlCode": "https://github.com/elliotgaramendi/cryptocurrency-quote-api-jp-r",
       "main": 0
     },
     {
@@ -379,7 +379,7 @@
       "about": "Aplicación que obtiene imágenes acordes a la descripción ingresada mediante el formulario. La data la consume de una API.",
       "image": "https://i.postimg.cc/pybf7v6Y/buscador-de-imagenes-api-jp-r.png",
       "urlDemo": "https://buscadordeimagenesapijpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/image-search-engine-jp-r",
+      "urlCode": "https://github.com/elliotgaramendi/image-search-engine-jp-r",
       "main": 0
     },
     {
@@ -390,7 +390,7 @@
       "about": "Aplicación que obtiene las letras de una canción e información del artista acordes a los valores ingresados mediante el formulario. La data la consume de una API.",
       "image": "https://i.postimg.cc/GpjDp6N5/lyrics-info-artist-api-jp-r.png",
       "urlDemo": "https://lyricsinfoartistapijpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/lyrics-info-artist-api-jp-r",
+      "urlCode": "https://github.com/elliotgaramendi/lyrics-info-artist-api-jp-r",
       "main": 0
     },
     {
@@ -401,7 +401,7 @@
       "about": "Aplicación que obtiene Recetas de Bebidas acorde a los valores ingresados mediante el formulario. La data la consume de una API.",
       "image": "https://i.postimg.cc/Pxk13NJH/drink-finder-jp-r.png",
       "urlDemo": "https://drinkfinderjpr.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/drink-finder-jp-r",
+      "urlCode": "https://github.com/elliotgaramendi/drink-finder-jp-r",
       "main": 0
     },
     {
@@ -412,7 +412,7 @@
       "about": "¿Puedes lograrlo? Es un juego de retos físicos casual. Juega con tus amigos y demuestra tu talento. Retos que alegrarán tu día y que reforzarán tus habilidades motrices.",
       "image": "https://i.postimg.cc/Cx03d381/puedes-lograrlo-ea-r.png",
       "urlDemo": "https://puedes-lograrlo-ea-r.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/puedes-lograrlo-ea-r",
+      "urlCode": "https://github.com/elliotgaramendi/puedes-lograrlo-ea-r",
       "main": 1
     },
     {
@@ -422,8 +422,8 @@
       "technologies": "JavaScript, CSS, HTML",
       "about": "Web para declararte a tu Crush. Aprende a desarrollar una página web y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.",
       "image": "https://i.postimg.cc/yYj3cbqT/kierrez-zer-my-nobia.png",
-      "urlDemo": "https://elliotxleo.github.io/kierrez-zer-my-nobia/",
-      "urlCode": "https://github.com/ElliotXLeo/kierrez-zer-my-nobia",
+      "urlDemo": "https://elliotgaramendi.github.io/kierrez-zer-my-nobia/",
+      "urlCode": "https://github.com/elliotgaramendi/kierrez-zer-my-nobia",
       "main": 0
     },
     {
@@ -434,7 +434,7 @@
       "about": "Aplicación Web donde puedes administra usuarios mediante un CRUD. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y jQuery y PHP de lado del Frontend.",
       "image": "https://i.postimg.cc/6pB5BZJB/crud-b-dt-jq-php.png",
       "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/crud-b-dt-jq-php/frontend/",
-      "urlCode": "https://github.com/ElliotXLeo/crud-b-dt-jq-php",
+      "urlCode": "https://github.com/elliotgaramendi/crud-b-dt-jq-php",
       "main": 0
     },
     {
@@ -445,7 +445,7 @@
       "about": "Aplicación Web donde puedes iniciar sesión con usuarios registrados. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y HTML, CSS, JS Y PHP de lado del Frontend.",
       "image": "https://i.postimg.cc/BZ1MZDLz/login-pokemon-inc.png",
       "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/",
-      "urlCode": "https://github.com/ElliotXLeo/login-pokemon-inc",
+      "urlCode": "https://github.com/elliotgaramendi/login-pokemon-inc",
       "main": 0
     },
     {
@@ -456,7 +456,7 @@
       "about": "Aplicación Web donde puedes administrar usuarios mediante un CRUD. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y PHP de lado del Frontend.",
       "image": "https://i.postimg.cc/D0jDYfKZ/crud-pokemon-inc.png",
       "urlDemo": "https://elliotgaramendi.000webhostapp.com/app/crud-pokemon-inc/frontend/",
-      "urlCode": "https://github.com/ElliotXLeo/crud-pokemon-inc",
+      "urlCode": "https://github.com/elliotgaramendi/crud-pokemon-inc",
       "main": 0
     },
     {
@@ -466,8 +466,8 @@
       "technologies": "JavaScript, HTML, Bootstrap",
       "about": "Aplicación web para el registro de mascotas.",
       "image": "https://i.postimg.cc/gJd5MmbY/registro-mascotas-i.png",
-      "urlDemo": "https://elliotxleo.github.io/registro-mascotas-i/",
-      "urlCode": "https://github.com/ElliotXLeo/registro-mascotas-i",
+      "urlDemo": "https://elliotgaramendi.github.io/registro-mascotas-i/",
+      "urlCode": "https://github.com/elliotgaramendi/registro-mascotas-i",
       "main": 0
     },
     {
@@ -477,8 +477,8 @@
       "technologies": "JavaScript, CSS, HTML, Normalize.css, Font Awesome, Google Fonts",
       "about": "Página de Aprendizaje de Tecnología, donde podrás adquirir cursos. La página muestra información relevante del curso. Asimismo, cuenta con un formulario de Newsletter.",
       "image": "https://i.postimg.cc/G35Z1CMy/learning-technology-acgd.png",
-      "urlDemo": "https://elliotxleo.github.io/learning-technology-acgd/",
-      "urlCode": "https://github.com/ElliotXLeo/learning-technology-acgd",
+      "urlDemo": "https://elliotgaramendi.github.io/learning-technology-acgd/",
+      "urlCode": "https://github.com/elliotgaramendi/learning-technology-acgd",
       "main": 0
     },
     {
@@ -488,8 +488,8 @@
       "technologies": "CSS, HTML",
       "about": "Web Acróstico Neón donde podrás crear un acróstico en base a un nombre y mandárselo a esa persona especial.",
       "image": "https://i.postimg.cc/SsYt7gxQ/imagen-2022-02-22-220235.png",
-      "urlDemo": "https://elliotxleo.github.io/acrostico-neon/",
-      "urlCode": "https://github.com/ElliotXLeo/acrostico-neon",
+      "urlDemo": "https://elliotgaramendi.github.io/acrostico-neon/",
+      "urlCode": "https://github.com/elliotgaramendi/acrostico-neon",
       "main": 0
     },
     {
@@ -499,8 +499,8 @@
       "technologies": "JavaScript, CSS, HTML",
       "about": "Landing Page de Desarrollo Web con Modal para el contacto de clientes. Animaciones, Transiciones, RWD, Mobile First, Semántica, BEM, SEO, Open Graph.",
       "image": "https://i.postimg.cc/mZ5CjB6B/lp-desarrollo-web-modal-js.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-desarrollo-web-modal-js/",
-      "urlCode": "https://github.com/ElliotXLeo/lp-desarrollo-web-modal-js",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-desarrollo-web-modal-js/",
+      "urlCode": "https://github.com/elliotgaramendi/lp-desarrollo-web-modal-js",
       "main": 0
     },
     {
@@ -511,7 +511,7 @@
       "about": "Aplicación de una Panadería que te permite ver los productos, servicios y cambiar el tema.",
       "image": "https://i.postimg.cc/prBc3CPG/pancito-feliz-r.png",
       "urlDemo": "https://pancito-feliz-r.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/pancito-feliz-r",
+      "urlCode": "https://github.com/elliotgaramendi/pancito-feliz-r",
       "main": 1
     },
     {
@@ -521,8 +521,8 @@
       "technologies": "HTML, CSS, JavaScript, SASS, Axios, Google Fonts, Font Awesome",
       "about": "Página de galería de fotos con scroll infinito que te permite ver y/o descargar la imagen. Asimismo, cuenta con un switch para el cambio de tema.",
       "image": "https://i.postimg.cc/Y9zqCBSR/gallery-dark-mode-sass-js.png",
-      "urlDemo": "https://elliotxleo.github.io/gallery-dark-mode-sass-js/",
-      "urlCode": "https://github.com/ElliotXLeo/gallery-dark-mode-sass-js",
+      "urlDemo": "https://elliotgaramendi.github.io/gallery-dark-mode-sass-js/",
+      "urlCode": "https://github.com/elliotgaramendi/gallery-dark-mode-sass-js",
       "main": 0
     },
     {
@@ -533,7 +533,7 @@
       "about": "Aplicación de una tienda de videojuegos que te permite comprar y retornar el juego Pokémon Rojo, asimismo puedes buscar un Pokémon y obtener sus datos consumiendo un API.",
       "image": "https://i.postimg.cc/QMJNYL6b/game-store-redux-react.png",
       "urlDemo": "https://game-store-redux-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/game-store-redux-react",
+      "urlCode": "https://github.com/elliotgaramendi/game-store-redux-react",
       "main": 0
     },
     {
@@ -543,8 +543,8 @@
       "technologies": "HTML, CSS, Google Fonts, Font Awesome, Normalize.css",
       "about": "Landing Page de Anime con Modal para saber más del Anime. Asimismo, tiene Animaciones, Transiciones, RWD, Mobile First, Semántica, BEM, SEO. Solo con CSS.",
       "image": "https://i.postimg.cc/nV4GZkQT/lp-animes-modal-rwd-css.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-animes-modal-rwd-css/",
-      "urlCode": "https://github.com/ElliotXLeo/lp-animes-modal-rwd-css",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-animes-modal-rwd-css/",
+      "urlCode": "https://github.com/elliotgaramendi/lp-animes-modal-rwd-css",
       "main": 0
     },
     {
@@ -554,8 +554,8 @@
       "technologies": "HTML, CSS, Sass, Google Fonts",
       "about": "Landing Page de Restaurante Chanchirata donde se cuenta con un Hero que expone la información más importante de la web. Desarrollado con Sass.",
       "image": "https://i.postimg.cc/gk0vywx9/lp-mikhuy-sass.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-mikhuy-sass/",
-      "urlCode": "https://github.com/ElliotXLeo/lp-mikhuy-sass",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-mikhuy-sass/",
+      "urlCode": "https://github.com/elliotgaramendi/lp-mikhuy-sass",
       "main": 0
     },
     {
@@ -565,8 +565,8 @@
       "technologies": "HTML, CSS, JavaScript, Sass, Google Fonts",
       "about": "El mejor lugar donde puedes aprender sobre desarrollo web. Asimismo, con Base 2 by Web 4B puedes hacer realidad ese sueño que tienes en mente. ¡Cambia tu vida!",
       "image": "https://i.postimg.cc/kg2k7v3P/lp-b2-w-4b-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-b2-w-4b-elgs/",
-      "urlCode": "https://github.com/ElliotXLeo/lp-b2-w-4b-elgs",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-b2-w-4b-elgs/",
+      "urlCode": "https://github.com/elliotgaramendi/lp-b2-w-4b-elgs",
       "main": 0
     },
     {
@@ -576,8 +576,8 @@
       "technologies": "HTML, CSS, JavaScript, Google Fonts",
       "about": "Landing Page Aprenda programación web con React donde se podrá describir sobre cursos de programación. Cuenta con Animaciones, Transiciones, RWD, Mobile First, Semántica, BEM, SEO.",
       "image": "https://i.postimg.cc/yYRyCSF4/lp-moonlight-parallax-js.png",
-      "urlDemo": "https://elliotxleo.github.io/lp-moonlight-parallax-js/",
-      "urlCode": "https://github.com/ElliotXLeo/lp-moonlight-parallax-js",
+      "urlDemo": "https://elliotgaramendi.github.io/lp-moonlight-parallax-js/",
+      "urlCode": "https://github.com/elliotgaramendi/lp-moonlight-parallax-js",
       "main": 0
     },
     {
@@ -587,8 +587,8 @@
       "technologies": "HTML, CSS, JavaScript",
       "about": "Bootcamp de Desarrollo Web Frontend donde se aprenderá temas como git, lógica de programación, HTML, CSS, JS, Bootstrap, Sass, Node, React, Firebase, Redux y Testing.",
       "image": "https://i.postimg.cc/kg2k7v3P/lp-b2-w-4b-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g14/",
-      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g14",
+      "urlDemo": "https://elliotgaramendi.github.io/bootcamp-frontend-t-g14/",
+      "urlCode": "https://github.com/elliotgaramendi/bootcamp-frontend-t-g14",
       "main": 1
     },
     {
@@ -598,8 +598,8 @@
       "technologies": "HTML, CSS, JavaScript",
       "about": "Bootcamp de Desarrollo Web Frontend donde se aprenderá temas como git, lógica de programación, HTML, CSS, JS, Bootstrap, Sass, Node, React, Firebase, Redux y Testing.",
       "image": "https://i.postimg.cc/kg2k7v3P/lp-b2-w-4b-elgs.png",
-      "urlDemo": "https://elliotxleo.github.io/bootcamp-frontend-t-g15/",
-      "urlCode": "https://github.com/ElliotXLeo/bootcamp-frontend-t-g15",
+      "urlDemo": "https://elliotgaramendi.github.io/bootcamp-frontend-t-g15/",
+      "urlCode": "https://github.com/elliotgaramendi/bootcamp-frontend-t-g15",
       "main": 0
     },
     {
@@ -610,7 +610,7 @@
       "about": "Aplicación de un cine que te permite ver las mejores películas del momento, su detalle y cambiar el tema.",
       "image": "https://i.postimg.cc/xCPv7Cjz/sin-e-spoiler-r.png",
       "urlDemo": "https://sin-e-spoiler-r.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/sin-e-spoiler-r",
+      "urlCode": "https://github.com/elliotgaramendi/sin-e-spoiler-r",
       "main": 1
     },
     {
@@ -621,7 +621,7 @@
       "about": "Administrador de tareas donde puedes crear, listar, actualizar y eliminar las tareas que tengas en el día a día.",
       "image": "https://i.postimg.cc/SQWSWWKp/task-manager-context-react.png",
       "urlDemo": "https://task-manager-context-react.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/task-manager-context-react",
+      "urlCode": "https://github.com/elliotgaramendi/task-manager-context-react",
       "main": 0
     },
     {
@@ -632,7 +632,7 @@
       "about": "Login de Administrador de tareas donde puedes registrarte e iniciar sesión con tu correo o autentificarte con Google.",
       "image": "https://i.postimg.cc/7ZJpWbxG/login-task-manager-f-c-r.png",
       "urlDemo": "https://login-task-manager-f-c-r.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/login-task-manager-f-c-r",
+      "urlCode": "https://github.com/elliotgaramendi/login-task-manager-f-c-r",
       "main": 0
     },
     {
@@ -642,8 +642,8 @@
       "technologies": "HTML, CSS, JavaScript, Google Fonts, Chart.js",
       "about": "Aplicación de Dashboard que grafica la información recibida por los diferentes endpoints.",
       "image": "https://i.postimg.cc/tRzPS413/dashboard-feliz-chart-js.png",
-      "urlDemo": "https://elliotxleo.github.io/dashboard-feliz-chart-js/",
-      "urlCode": "https://github.com/ElliotXLeo/dashboard-feliz-chart-js",
+      "urlDemo": "https://elliotgaramendi.github.io/dashboard-feliz-chart-js/",
+      "urlCode": "https://github.com/elliotgaramendi/dashboard-feliz-chart-js",
       "main": 0
     },
     {
@@ -653,8 +653,8 @@
       "technologies": "HTML, CSS, JavaScript, Sass, Google Fonts",
       "about": "Aplicación Web que genera una Tarjeta de un Pokémon de forma aleatoria. La data la consume del API PokéApi.",
       "image": "https://i.postimg.cc/CMmV2cbM/apimones-card-js.png",
-      "urlDemo": "https://elliotxleo.github.io/apimones-card-js/",
-      "urlCode": "https://github.com/ElliotXLeo/apimones-card-js",
+      "urlDemo": "https://elliotgaramendi.github.io/apimones-card-js/",
+      "urlCode": "https://github.com/elliotgaramendi/apimones-card-js",
       "main": 0
     },
     {
@@ -665,7 +665,7 @@
       "about": "Aplicación de Administrador de Proyectos que llevarán tu gestión al siguiente nivel. En él puedes administrar los proyectos de tus sueños y sus actividades de inicio a fin.",
       "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
       "urlDemo": "https://next-project-mern-frontend.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/next-project-mern-backend",
+      "urlCode": "https://github.com/elliotgaramendi/next-project-mern-backend",
       "main": 0
     },
     {
@@ -676,7 +676,7 @@
       "about": "Aplicación de Administrador de Proyectos que llevarán tu gestión al siguiente nivel. En él puedes administrar los proyectos de tus sueños y sus actividades de inicio a fin.",
       "image": "https://i.postimg.cc/3rcDR8Wh/next-project-mern.png",
       "urlDemo": "https://next-project-mern-frontend.netlify.app",
-      "urlCode": "https://github.com/ElliotXLeo/next-project-mern-frontend",
+      "urlCode": "https://github.com/elliotgaramendi/next-project-mern-frontend",
       "main": 1
     },
     {
@@ -687,7 +687,7 @@
       "about": "Administrador de Pokémon’s.",
       "image": "https://i.postimg.cc/QtKFX0G9/pokemons-inc-mern-frontend.png",
       "urlDemo": "https://pokemons-inc-mern-backend.herokuapp.com/api/pokemons",
-      "urlCode": "https://github.com/ElliotXLeo/pokemons-inc-mern-backend",
+      "urlCode": "https://github.com/elliotgaramendi/pokemons-inc-mern-backend",
       "main": 0
     },
     {
@@ -698,7 +698,7 @@
       "about": "Administrador de Pokémon’s.",
       "image": "https://i.postimg.cc/QtKFX0G9/pokemons-inc-mern-frontend.png",
       "urlDemo": "https://pokemons-inc-mern-frontend.netlify.app/pokemons",
-      "urlCode": "https://github.com/ElliotXLeo/pokemons-inc-mern-frontend",
+      "urlCode": "https://github.com/elliotgaramendi/pokemons-inc-mern-frontend",
       "main": 0
     },
     {
@@ -708,8 +708,8 @@
       "technologies": "React, HTML, CSS, JavaScript, React Router, Redux, Axios, Formik, sweetalert2, Tailwind CSS",
       "about": "Administrador de Pokémon’s.",
       "image": "https://i.postimg.cc/BvYqBcY3/pokemons-crud-redux-react.png",
-      "urlDemo": "https://github.com/ElliotXLeo/pokemons-crud-redux-react",
-      "urlCode": "https://github.com/ElliotXLeo/pokemons-crud-redux-react",
+      "urlDemo": "https://github.com/elliotgaramendi/pokemons-crud-redux-react",
+      "urlCode": "https://github.com/elliotgaramendi/pokemons-crud-redux-react",
       "main": 1
     }
   ],
@@ -1020,7 +1020,7 @@
     {
       "id": 3,
       "name": "GitHub",
-      "urlContact": "https://github.com/ElliotXLeo",
+      "urlContact": "https://github.com/elliotgaramendi",
       "urlImage": "https://i.postimg.cc/5NBMxTJX/github.png",
       "main": 1
     },
