@@ -1,14 +1,14 @@
 {
   "profile": {
     "id": 1,
-    "name": "Elliot Garamendi",
+    "name": "Elliot Garamendi I Desarrollo de Software",
     "shortName": "Elliot Garamendi",
-    "slogan": "El mejor desarrollador web Frontend del Perú.",
+    "slogan": "El mejor Frontend Developer y Docente",
     "user": "elliotgaramendi",
     "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 🌐Next.js🌐 | 💻Docente💻​",
     "mainStack": "React, Next.js",
     "description": "Desarrollador Web Frontend con React y Next.js. Docente de especialización en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
-    "urlPhoto": "https://i.postimg.cc/261BDvgH/elliot-garamendi-serio.webp",
+    "urlPhoto": "https://i.postimg.cc/MTgfKHSz/elliot-garamendi-feliz.webp",
     "urlLinkedin": "https://www.linkedin.com/in/elliotgaramendi/",
     "urlCv": "https://1drv.ms/u/s!As5U-bd3F-a6gYsmbbG-Dybk88biRQ?e=Rifl4V"
   },
@@ -73,7 +73,7 @@
       "main": 1
     },
     {
-      "id": 3,
+      "id": 4,
       "company": "Cineplanet",
       "position": "Frontend Developer",
       "period": "julio 2022, presente",
@@ -84,7 +84,7 @@
       "main": 1
     },
     {
-      "id": 4,
+      "id": 5,
       "company": "Certus",
       "position": "Docente",
       "period": "abril 2023, presente",
@@ -131,35 +131,35 @@
     },
     {
       "id": 4,
-      "title": "La Sirena",
-      "mainTechnology": "VTEX",
-      "technologies": "HTML, CSS, JavaScript, React, VTEX",
-      "about": "Corporación La Sirena",
-      "image": "https://i.postimg.cc/t49r6L2G/la-sirena-com-pe.png",
-      "urlDemo": "https://www.lasirena.com.pe",
-      "urlCode": "https://www.lasirena.com.pe",
+      "title": "Cineplanet",
+      "mainTechnology": "React.js",
+      "technologies": "HTML, CSS, JavaScript, Sass, React, Redux",
+      "about": "Cine peruano donde disfrutarás las mejores películas, cartelera, estrenos, eventos, promociones, entradas y contenido exclusivo del cine cerca de ti.",
+      "image": "https://blog.apis.cineplanet.com.pe/uploads/cineplanet_peru_f6a8cdd873.png?updated_at=2023-12-02T22:35:34.003Z",
+      "urlDemo": "https://blog.cineplanet.com.pe",
+      "urlCode": "https://blog.cineplanet.com.pe",
       "main": 1
     },
     {
       "id": 5,
       "title": "Blog Cineplanet",
       "mainTechnology": "Next.js",
-      "technologies": "HTML, CSS, JavaScript, Sass, React, Next.js",
-      "about": "Las mejores noticias, notas y videos relacionados al cine.",
-      "image": "https://i.postimg.cc/GdDtVSPr/blog-cineplanet.png",
+      "technologies": "HTML, CSS, JavaScript, Sass, React, Next.js, Strapi",
+      "about": "Conoce lo último del cine, películas y entretenimiento en un solo lugar del Perú. Noticias, notas, videos, series y televisión. Blog Peruano.",
+      "image": "https://blog.apis.cineplanet.com.pe/uploads/blog_cineplanet_d40d7bcda5.png",
       "urlDemo": "https://blog.cineplanet.com.pe",
       "urlCode": "https://blog.cineplanet.com.pe",
       "main": 1
     },
     {
       "id": 6,
-      "title": "Cineplanet",
-      "mainTechnology": "React.js",
-      "technologies": "HTML, CSS, JavaScript, Sass, React",
-      "about": "Consigue tus entradas de forma digital en poco tiempo.",
-      "image": "https://i.postimg.cc/WsGZf5wC/cineplanet-com-pe.png",
-      "urlDemo": "https://blog.cineplanet.com.pe",
-      "urlCode": "https://blog.cineplanet.com.pe",
+      "title": "Películas Cineplanet",
+      "mainTechnology": "Next.js",
+      "technologies": "HTML, CSS, JavaScript, React, Next.js, Strapi",
+      "about": "Las mejores películas, cartelera, estrenos, preventas y contenido exclusivo relacionado al cine en el mejor cine peruano.",
+      "image": "https://wapeucdcprdpe04.azurewebsites.net/uploads/movies_cineplanet_frontend_9c2731693d.png",
+      "urlDemo": "https://peliculas.cineplanet.com.pe/",
+      "urlCode": "https://peliculas.cineplanet.com.pe/",
       "main": 1
     }
   ],
@@ -246,7 +246,7 @@
     },
     {
       "id": 11,
-      "name": "UI / UX",
+      "name": "UI/UX",
       "core": "Frontend",
       "percentage": 40,
       "level": "Intermedio",
@@ -254,6 +254,14 @@
     },
     {
       "id": 12,
+      "name": "WPO",
+      "core": "Frontend",
+      "percentage": 70,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 13,
       "name": "Node.js",
       "core": "Backend",
       "percentage": 30,
@@ -261,7 +269,7 @@
       "main": 1
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Express.js",
       "core": "Backend",
       "percentage": 30,
@@ -269,7 +277,23 @@
       "main": 1
     },
     {
-      "id": 14,
+      "id": 15,
+      "name": "API",
+      "core": "Backend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 16,
+      "name": "REST",
+      "core": "Backend",
+      "percentage": 30,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 17,
       "name": "Strapi CMS",
       "core": "Backend",
       "percentage": 60,
@@ -277,7 +301,7 @@
       "main": 1
     },
     {
-      "id": 15,
+      "id": 18,
       "name": "Git",
       "core": "Tecnologías",
       "percentage": 70,
@@ -285,7 +309,7 @@
       "main": 1
     },
     {
-      "id": 16,
+      "id": 19,
       "name": "Docker",
       "core": "Tecnologías",
       "percentage": 30,
@@ -293,15 +317,7 @@
       "main": 1
     },
     {
-      "id": 16,
-      "name": "Docker",
-      "core": "Tecnologías",
-      "percentage": 30,
-      "level": "Básico",
-      "main": 1
-    },
-    {
-      "id": 17,
+      "id": 20,
       "name": "Scrum",
       "core": "Software",
       "percentage": 50,
@@ -309,7 +325,7 @@
       "main": 1
     },
     {
-      "id": 18,
+      "id": 21,
       "name": "Calidad",
       "core": "Software",
       "percentage": 30,
