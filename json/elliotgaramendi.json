@@ -5,9 +5,9 @@
     "shortName": "Elliot Garamendi",
     "slogan": "El mejor Frontend Developer y Docente",
     "user": "elliotgaramendi",
-    "title": "👨‍💻Desarrollador👨‍💻 | 🌌Frontend🌌 | ⚛React⚛ | 🌐Next.js🌐 | 💻Docente💻​",
-    "mainStack": "React, Next.js",
-    "description": "Desarrollador Web Frontend con React y Next.js. Docente de especialización en Desarrollo Web Frontend. Apasionado del autoaprendizaje y del código limpio.",
+    "title": "I 👨‍💻Desarrollador👨‍💻 I 🌐Web🌐 I🌌Frontend🌌 I ⚛React⚛ I 🖥Next.js🖥 I 🚀Astro🚀 I 🕵️‍♂️Investigador🕵️‍♂️ I 👨‍🏫Docente👨‍🏫 I 💻Consultor💻 I 👨‍💻Maquetador👨‍💻I",
+    "mainStack": "React, Next.js, Astro",
+    "description": "Apasionado y galardonado desarrollador web Frontend especializado en React, Next.js y Astro. Investigador, docente y amante del autoaprendizaje.",
     "urlPhoto": "https://i.postimg.cc/MTgfKHSz/elliot-garamendi-feliz.webp",
     "urlLinkedin": "https://www.linkedin.com/in/elliotgaramendi/",
     "urlCv": "https://1drv.ms/u/s!As5U-bd3F-a6gYsmbbG-Dybk88biRQ?e=Rifl4V"
@@ -54,7 +54,7 @@
       "id": 2,
       "company": "DRIVEN",
       "position": "Frontend Developer",
-      "period": "septiembre 2021, presente",
+      "period": "septiembre 2021, diciembre 2022",
       "activities": [
         "Desarrollo de aplicaciones e-commerce con VTEX IO y React bajo el marco de trabajo Scrum.",
         "Maquetación web en React con CSS de diseños hechos en Figma con un alto UX/UI."
@@ -65,9 +65,9 @@
       "id": 3,
       "company": "Tecsup",
       "position": "Frontend Developer",
-      "period": "enero 2022, presente",
+      "period": "enero 2022, diciembre 2023",
       "activities": [
-        "Desarrollo web frontend: git, programación, HTML, CSS, JS, Bootstrap, Sass, React, Redux.",
+        "Desarrollo web Frontend: git, programación, HTML, CSS, JS, Sass, Bootstrap, React, Redux.",
         "Investigación y desarrollo de tecnologías para el aprendizaje teórico y práctico de los alumnos."
       ],
       "main": 1
@@ -78,7 +78,7 @@
       "position": "Frontend Developer",
       "period": "julio 2022, presente",
       "activities": [
-        "Desarrollo de aplicaciones web frontend con React, Next.js aplicando Scrum.",
+        "Desarrollo de aplicaciones web Frontend con React, Next.js y Astro aplicando Scrum.",
         "Investigación, optimización, mantenimiento y presentación aplicando tecnologías modernas."
       ],
       "main": 1
@@ -89,8 +89,8 @@
       "position": "Docente",
       "period": "abril 2023, presente",
       "activities": [
-        "Lenguajes para el Desarrollo y Soporte de Sistemas: git, HTML, CSS, JS, React, Next.js.",
-        "Desarrollo de proyectos y materiales para el aprendizaje teórico y práctico de los alumnos."
+        "Lenguajes para el Desarrollo y Soporte de Sistemas: git, GitHub, HTML, CSS, JS.",
+        "Nuevas tendencias en tecnologías de la información: AI, IoT, Blockchain, Big Data."
       ],
       "main": 1
     }
@@ -123,7 +123,7 @@
       "title": "La Sirena",
       "mainTechnology": "VTEX",
       "technologies": "HTML, CSS, JavaScript, React, VTEX",
-      "about": "Corporación La Sirena",
+      "about": "En Corporación la Sirena somos especialistas en la gestión y abastecimiento de suministros de productos industriales y ferreteros",
       "image": "https://i.postimg.cc/t49r6L2G/la-sirena-com-pe.png",
       "urlDemo": "https://www.lasirena.com.pe",
       "urlCode": "https://www.lasirena.com.pe",
@@ -136,8 +136,8 @@
       "technologies": "HTML, CSS, JavaScript, Sass, React, Redux",
       "about": "Cine peruano donde disfrutarás las mejores películas, cartelera, estrenos, eventos, promociones, entradas y contenido exclusivo del cine cerca de ti.",
       "image": "https://blog.apis.cineplanet.com.pe/uploads/cineplanet_peru_f6a8cdd873.png?updated_at=2023-12-02T22:35:34.003Z",
-      "urlDemo": "https://blog.cineplanet.com.pe",
-      "urlCode": "https://blog.cineplanet.com.pe",
+      "urlDemo": "https://www.cineplanet.com.pe",
+      "urlCode": "https://www.cineplanet.com.pe",
       "main": 1
     },
     {
@@ -155,11 +155,11 @@
       "id": 6,
       "title": "Películas Cineplanet",
       "mainTechnology": "Next.js",
-      "technologies": "HTML, CSS, JavaScript, React, Next.js, Strapi",
+      "technologies": "HTML, CSS, JavaScript, Sass, React, Next.js, Strapi",
       "about": "Las mejores películas, cartelera, estrenos, preventas y contenido exclusivo relacionado al cine en el mejor cine peruano.",
       "image": "https://wapeucdcprdpe04.azurewebsites.net/uploads/movies_cineplanet_frontend_9c2731693d.png",
-      "urlDemo": "https://peliculas.cineplanet.com.pe/",
-      "urlCode": "https://peliculas.cineplanet.com.pe/",
+      "urlDemo": "https://peliculas.cineplanet.com.pe",
+      "urlCode": "https://peliculas.cineplanet.com.pe",
       "main": 1
     }
   ],
@@ -168,69 +168,69 @@
       "id": 1,
       "name": "React",
       "core": "Frontend",
-      "percentage": 70,
-      "level": "Intermedio",
+      "percentage": 75,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 2,
       "name": "Next.js",
       "core": "Frontend",
-      "percentage": 50,
-      "level": "Intermedio",
+      "percentage": 60,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 3,
-      "name": "HTML",
+      "name": "Astro",
       "core": "Frontend",
-      "percentage": 85,
+      "percentage": 70,
       "level": "Avanzado",
       "main": 1
     },
     {
       "id": 4,
-      "name": "CSS",
+      "name": "HTML",
       "core": "Frontend",
-      "percentage": 80,
-      "level": "Avanzado",
+      "percentage": 85,
+      "level": "Experto",
       "main": 1
     },
     {
       "id": 5,
-      "name": "JavaScript",
+      "name": "CSS",
       "core": "Frontend",
-      "percentage": 75,
-      "level": "Avanzado",
+      "percentage": 85,
+      "level": "Experto",
       "main": 1
     },
     {
       "id": 6,
-      "name": "TypeScript",
+      "name": "JavaScript",
       "core": "Frontend",
-      "percentage": 40,
-      "level": "Intermedio",
+      "percentage": 80,
+      "level": "Experto",
       "main": 1
     },
     {
       "id": 7,
-      "name": "Sass",
+      "name": "TypeScript",
       "core": "Frontend",
-      "percentage": 60,
-      "level": "Intermedio",
+      "percentage": 55,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 8,
-      "name": "Bootstrap",
+      "name": "Sass",
       "core": "Frontend",
-      "percentage": 80,
+      "percentage": 60,
       "level": "Avanzado",
       "main": 1
     },
     {
       "id": 9,
-      "name": "Tailwind CSS",
+      "name": "Bootstrap",
       "core": "Frontend",
       "percentage": 75,
       "level": "Avanzado",
@@ -238,86 +238,158 @@
     },
     {
       "id": 10,
-      "name": "SEO",
+      "name": "Tailwind CSS",
       "core": "Frontend",
-      "percentage": 70,
-      "level": "Intermedio",
+      "percentage": 60,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 11,
-      "name": "UI/UX",
+      "name": "SEO",
       "core": "Frontend",
-      "percentage": 40,
-      "level": "Intermedio",
+      "percentage": 70,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 12,
-      "name": "WPO",
+      "name": "PWA",
       "core": "Frontend",
-      "percentage": 70,
-      "level": "Intermedio",
+      "percentage": 60,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 13,
-      "name": "Node.js",
-      "core": "Backend",
-      "percentage": 30,
-      "level": "Básico",
+      "name": "UI/UX",
+      "core": "Frontend",
+      "percentage": 55,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 14,
-      "name": "Express.js",
-      "core": "Backend",
-      "percentage": 30,
-      "level": "Básico",
+      "name": "WPO",
+      "core": "Frontend",
+      "percentage": 70,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 15,
-      "name": "API",
-      "core": "Backend",
-      "percentage": 30,
-      "level": "Básico",
+      "name": "RWD",
+      "core": "Frontend",
+      "percentage": 75,
+      "level": "Avanzado",
       "main": 1
     },
     {
       "id": 16,
-      "name": "REST",
+      "name": "Node.js",
       "core": "Backend",
-      "percentage": 30,
+      "percentage": 25,
       "level": "Básico",
       "main": 1
     },
     {
       "id": 17,
-      "name": "Strapi CMS",
+      "name": "Express.js",
       "core": "Backend",
-      "percentage": 60,
-      "level": "Intermedio",
+      "percentage": 25,
+      "level": "Básico",
       "main": 1
     },
     {
       "id": 18,
-      "name": "Git",
-      "core": "Tecnologías",
-      "percentage": 70,
-      "level": "Intermedio",
+      "name": "API",
+      "core": "Backend",
+      "percentage": 25,
+      "level": "Básico",
       "main": 1
     },
     {
       "id": 19,
-      "name": "Docker",
-      "core": "Tecnologías",
-      "percentage": 30,
+      "name": "REST",
+      "core": "Backend",
+      "percentage": 25,
       "level": "Básico",
       "main": 1
     },
     {
       "id": 20,
+      "name": "SQL",
+      "core": "Backend",
+      "percentage": 25,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 21,
+      "name": "MongoDB",
+      "core": "Backend",
+      "percentage": 25,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 22,
+      "name": "Mongoose",
+      "core": "Backend",
+      "percentage": 25,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 23,
+      "name": "Strapi CMS",
+      "core": "Backend",
+      "percentage": 70,
+      "level": "Avanzado",
+      "main": 1
+    },
+    {
+      "id": 24,
+      "name": "Directus CMS",
+      "core": "Backend",
+      "percentage": 70,
+      "level": "Avanzado",
+      "main": 1
+    },
+    {
+      "id": 25,
+      "name": "Git",
+      "core": "Tecnologías",
+      "percentage": 75,
+      "level": "Avanzado",
+      "main": 1
+    },
+    {
+      "id": 26,
+      "name": "Docker",
+      "core": "Tecnologías",
+      "percentage": 40,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 27,
+      "name": "Figma",
+      "core": "Tecnologías",
+      "percentage": 40,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 27,
+      "name": "ChatGPT",
+      "core": "Tecnologías",
+      "percentage": 50,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 28,
       "name": "Scrum",
       "core": "Software",
       "percentage": 50,
@@ -325,10 +397,26 @@
       "main": 1
     },
     {
-      "id": 21,
+      "id": 29,
+      "name": "GitFlow",
+      "core": "Software",
+      "percentage": 50,
+      "level": "Intermedio",
+      "main": 1
+    },
+    {
+      "id": 30,
       "name": "Calidad",
       "core": "Software",
-      "percentage": 30,
+      "percentage": 50,
+      "level": "Básico",
+      "main": 1
+    },
+    {
+      "id": 31,
+      "name": "B. Prácticas",
+      "core": "Software",
+      "percentage": 50,
       "level": "Básico",
       "main": 1
     }
