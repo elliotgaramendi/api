@@ -1,0 +1,319 @@
+{
+  "experience": [
+    {
+      "company": "Ministerio de Transportes y Comunicaciones",
+      "roles": [
+        {
+          "title": "Frontend Developer",
+          "period": "abril 2024 - actualidad",
+          "description": [
+            "Diseño de aplicaciones móviles con uso de Inteligencia Artificial como Stitch y refinamiento de diseños en Figma.",
+            "Desarrollo de apps en React Native Expo, integrando agentes de codificación, optimizando su performance y la UX."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Idat",
+      "roles": [
+        {
+          "title": "Docente AI",
+          "period": "enero 2025 - actualidad",
+          "description": [
+            "Formación en desarrollo de apps con IA, agentes de AI y aplicaciones con Python integrando modelos de AI.",
+            "Formación en desarrollo frontend con AI, integrando agentes de codificación en proyectos."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Tecsup",
+      "roles": [
+        {
+          "title": "Docente",
+          "period": "marzo 2024 - actualidad",
+          "description": [
+            "Mentoría en desarrollo web full-stack con React y Django, integrando IA mediante APIs de modelos de frontera."
+          ]
+        },
+        {
+          "title": "Docente TC",
+          "period": "agosto 2024 - julio 2025",
+          "description": [
+            "Mentoría en desarrollo de interfaces con React, React Native y Astro aplicando patrones de diseño.",
+            "Enseñanza de fundamentos, POO, algoritmos y estructuras de datos fomentando código limpio."
+          ]
+        },
+        {
+          "title": "Docente TP",
+          "period": "marzo 2024 - julio 2024",
+          "description": [
+            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, JS, GitHub y metodologías ágiles."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Certus",
+      "roles": [
+        {
+          "title": "Docente",
+          "period": "abril 2023 - enero 2026",
+          "description": [
+            "Imparto cursos de desarrollo web con Git, HTML, CSS y JS aplicando buenas prácticas y patrones.",
+            "Lidero cursos y talleres de IA promoviendo la innovación en la comunidad tech."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Cineplanet",
+      "roles": [
+        {
+          "title": "Frontend Developer",
+          "period": "julio 2022 - abril 2024",
+          "description": [
+            "Promotor de adopción de tecnologías como Astro y Next.js para mejorar UX y SEO.",
+            "Implementación de blogs con Astro y CMS headless optimizando la gestión de contenido."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Idat",
+      "roles": [
+        {
+          "title": "Docente",
+          "period": "junio 2021 - enero 2022",
+          "description": [
+            "Enseñanza de desarrollo web full-stack (HTML, CSS, JS, PHP, MySQL).",
+            "Desarrollo de material técnico para fortalecer habilidades de programación."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "roles": [
+        {
+          "title": "Trainee de Sistemas",
+          "period": "diciembre 2020 - marzo 2021",
+          "description": [
+            "Ejecución de pruebas en plataformas bancarias (AS/400, HTML, CSS, JS, SQL).",
+            "Desarrollo de scripts para automatización y validación de datos."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Canvia",
+      "roles": [
+        {
+          "title": "Practicante Pre Profesional de Sistemas",
+          "period": "marzo 2020 - diciembre 2020",
+          "description": [
+            "Desarrollo de dashboards con React conectados a APIs para bots de RPA.",
+            "Automatización de flujos con Power Automate bajo metodología Scrum."
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "MTC Vial",
+      "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
+      "description": "Aplicación oficial que te permite ubicar las entidades autorizadas para licencias y transporte en todo el Perú.",
+      "tags": [
+        "React Native + Expo",
+        "Nativewind",
+        "Google Maps"
+      ]
+    },
+    {
+      "name": "Cineplanet",
+      "url": "https://www.cineplanet.com.pe/",
+      "description": "Cine peruano donde disfrutarás las mejores películas, cartelera, estrenos, eventos, promociones, entradas y contenido exclusivo del cine cerca de ti.",
+      "tags": [
+        "React",
+        "Redux",
+        "Pasarelas + Billeteras"
+      ]
+    },
+    {
+      "name": "Blog Cineplanet",
+      "url": "https://blog.cineplanet.com.pe/",
+      "description": "Blog de entretenimiento de Cineplanet con contenido sobre cine, estrenos y cultura pop, optimizado para posicionamiento orgánico y gestión editorial.",
+      "tags": [
+        "Astro",
+        "SEO",
+        "CMS"
+      ]
+    },
+    {
+      "name": "Dávalos",
+      "url": "https://www.davalos.pe/",
+      "description": "E-commerce de autopartes para el mercado peruano, enfocado en una experiencia de compra fluida y rápida para encontrar los mejores productos para tu carro.",
+      "tags": [
+        "React",
+        "VTEX",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Le2Dev (Idat, Tecsup)",
+      "url": "https://le2dev.vercel.app/",
+      "description": "Repositorio donde documento, desde cero, lo que enseño en Idat y Tecsup sobre frontend, AI y desarrollo web moderno con enfoque práctico.",
+      "tags": [
+        "React",
+        "Node.js",
+        "Inteligencia Artificial"
+      ]
+    },
+    {
+      "name": "Learning Git",
+      "url": "https://github.com/elliotgaramendi/learning-git",
+      "description": "Repositorio de aprendizaje de Git desde 0, destacado por GitHub Latam y con más de 600 estrellas en la comunidad.",
+      "tags": [
+        "Git",
+        "GitHub",
+        "Open Source"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "icon": "https://cdn.simpleicons.org/react",
+      "alt": "Logo de React"
+    },
+    {
+      "name": "React Native",
+      "icon": "https://cdn.simpleicons.org/react",
+      "alt": "Logo de React Native"
+    },
+    {
+      "name": "Next.js",
+      "icon": "https://cdn.simpleicons.org/nextdotjs",
+      "alt": "Logo de Next.js"
+    },
+    {
+      "name": "Astro",
+      "icon": "https://cdn.simpleicons.org/astro",
+      "alt": "Logo de Astro"
+    },
+    {
+      "name": "Shadcn",
+      "icon": "https://cdn.simpleicons.org/shadcnui",
+      "alt": "Logo de shadcn/ui"
+    },
+    {
+      "name": "Figma",
+      "icon": "https://cdn.simpleicons.org/figma",
+      "alt": "Logo de Figma"
+    },
+    {
+      "name": "SEO",
+      "icon": "https://cdn.simpleicons.org/google",
+      "alt": "Logo de Google para SEO"
+    },
+    {
+      "name": "OpenAI",
+      "icon": "https://cdn.simpleicons.org/openai",
+      "alt": "Logo de OpenAI"
+    },
+    {
+      "name": "Claude",
+      "icon": "https://cdn.simpleicons.org/claude",
+      "alt": "Logo de Anthropic"
+    },
+    {
+      "name": "Ollama",
+      "icon": "https://cdn.simpleicons.org/ollama",
+      "alt": "Logo de Ollama"
+    },
+    {
+      "name": "n8n",
+      "icon": "https://cdn.simpleicons.org/n8n",
+      "alt": "Logo de n8n"
+    },
+    {
+      "name": "RAG",
+      "icon": "https://cdn.simpleicons.org/metabase",
+      "alt": "Logo para RAG"
+    },
+    {
+      "name": "Fine Tuning",
+      "icon": "https://cdn.simpleicons.org/pytorch",
+      "alt": "Logo para Fine Tuning"
+    },
+    {
+      "name": "MCP",
+      "icon": "https://cdn.simpleicons.org/modelcontextprotocol",
+      "alt": "Logo de MCP"
+    },
+    {
+      "name": "LangChain",
+      "icon": "https://cdn.simpleicons.org/langchain",
+      "alt": "Logo de LangChain"
+    },
+    {
+      "name": "LlamaIndex",
+      "icon": "https://cdn.simpleicons.org/llamaindex",
+      "alt": "Logo de LlamaIndex"
+    },
+    {
+      "name": "Git",
+      "icon": "https://cdn.simpleicons.org/git",
+      "alt": "Logo de Git"
+    },
+    {
+      "name": "Docker",
+      "icon": "https://cdn.simpleicons.org/docker",
+      "alt": "Logo de Docker"
+    },
+    {
+      "name": "Jenkins",
+      "icon": "https://cdn.simpleicons.org/jenkins",
+      "alt": "Logo de Jenkins"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Learning Git con +600 estrellas",
+      "description": "Repositorio educativo de Git desde 0 destacado por GitHub Latam y validado por la comunidad open source.",
+      "badges": [
+        "GitHub",
+        "Open Source",
+        "Educación"
+      ]
+    },
+    {
+      "title": "Dos reconocimientos de primer puesto",
+      "description": "Premio eCommerce Awards (eCommerce Institute, 2023) y Diploma al mérito académico en la UTP (2018).",
+      "badges": [
+        "Premiaciones",
+        "Impacto",
+        "Excelencia"
+      ]
+    },
+    {
+      "title": "Ponente y panelista en eventos tech",
+      "description": "Participación en 4 eventos en CERTUS entre 2024 y 2025 sobre IA generativa y desarrollo frontend.",
+      "badges": [
+        "Comunidad",
+        "Oratoria",
+        "Marca Personal"
+      ]
+    },
+    {
+      "title": "Formación continua en frontend",
+      "description": "Más de 120 horas de especialización reportadas en React Native, shadcn/ui, JavaScript y desarrollo web.",
+      "badges": [
+        "Upskilling",
+        "Frontend",
+        "Aprendizaje"
+      ]
+    }
+  ]
+}
