@@ -1,159 +1,317 @@
 {
+  "profile": {
+    "name": "Elliot Garamendi",
+    "headline": "💻 Frontend Developer | 🎓 Docente | 🤖 AI Engineer",
+    "location": "🌎 Lima, Perú",
+    "avatar": "https://i.postimg.cc/Y9RgrNNQ/elliotgaramendi-suit.webp",
+    "printAction": {
+      "label": "Descargar CV en PDF",
+      "icon": "bi-download"
+    },
+    "sourceAction": {
+      "label": "Ver código fuente",
+      "url": "https://github.com/elliotgaramendi/elliotgaramendi-cv",
+      "icon": "bi-github"
+    },
+    "footer": "Made with ♥ by",
+    "about": [
+      "Desarrollador Frontend y AI Engineer especializado en React e integración de Modelos AI. Desarrollo softwares empleando AI e impulsados por inteligencia artificial, enfocándome en la experiencia de usuario, el rendimiento y la escalabilidad. Apasionado del autoaprendizaje y la mejora continua, comprometido con la mentoría y el código de calidad."
+    ],
+    "links": [
+      {
+        "id": 1,
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@elliotgaramendi",
+        "icon": "bi-youtube"
+      },
+      {
+        "id": 2,
+        "label": "GitHub",
+        "url": "https://github.com/elliotgaramendi",
+        "icon": "bi-github"
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/elliotgaramendi/",
+        "icon": "bi-linkedin"
+      },
+      {
+        "id": 4,
+        "label": "Instagram",
+        "url": "https://www.instagram.com/elliotgaramendi/",
+        "icon": "bi-instagram"
+      }
+    ]
+  },
   "experience": [
     {
+      "id": 1,
       "company": "Ministerio de Transportes y Comunicaciones",
       "roles": [
         {
+          "id": 1,
           "title": "Frontend Developer",
           "period": "abril 2024 - actualidad",
           "description": [
-            "Diseño de aplicaciones móviles con uso de Inteligencia Artificial como Stitch y refinamiento de diseños en Figma.",
-            "Desarrollo de apps en React Native Expo, integrando agentes de codificación, optimizando su performance y la UX."
+            "Desarrollo de LIA, asistente virtual del MTC desarrollado con LLM, RAG, contexto institucional y tool calling para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
+            "Desarrollo de aplicaciones móviles con React Native y Expo como MTC Vial, Fondo SOAT y CAT, y MTC Simulacro para servicios públicos.",
+            "Diseño y refino interfaces con Figma, Stitch y agentes de codificación, priorizando UX, rendimiento y claridad para servicios de alto alcance."
           ]
         }
       ]
     },
     {
+      "id": 2,
       "company": "Idat",
       "roles": [
         {
+          "id": 1,
           "title": "Docente AI",
           "period": "enero 2025 - actualidad",
           "description": [
-            "Formación en desarrollo de apps con IA, agentes de AI y aplicaciones con Python integrando modelos de AI.",
-            "Formación en desarrollo frontend con AI, integrando agentes de codificación en proyectos."
+            "Formo estudiantes en desarrollo de AI Apps con Python y n8n, agentes de IA e integración de modelos de frontera en proyectos prácticos.",
+            "Guío proyectos frontend con apoyo de agentes de codificación, promoviendo buenas prácticas, criterio técnico y productos funcionales.",
+            "Documento clases, repositorios y proyectos desplegados para acompañar el aprendizaje y facilitar la práctica constante."
           ]
         }
       ]
     },
     {
+      "id": 3,
       "company": "Tecsup",
       "roles": [
         {
+          "id": 1,
           "title": "Docente",
-          "period": "marzo 2024 - actualidad",
+          "period": "julio 2025 - actualidad",
           "description": [
-            "Mentoría en desarrollo web full-stack con React y Django, integrando IA mediante APIs de modelos de frontera."
+            "Mentoría en desarrollo web full-stack con React, Django e integración de IA mediante APIs de modelos de frontera.",
+            "Documento cursos, ejercicios y proyectos en repositorios para mejorar la trazabilidad del aprendizaje y la autonomía de los estudiantes."
           ]
         },
         {
+          "id": 2,
           "title": "Docente TC",
           "period": "agosto 2024 - julio 2025",
           "description": [
-            "Mentoría en desarrollo de interfaces con React, React Native y Astro aplicando patrones de diseño.",
-            "Enseñanza de fundamentos, POO, algoritmos y estructuras de datos fomentando código limpio."
+            "Mentoría en desarrollo de interfaces con React, React Native y Astro, aplicando patrones de diseño y buenas prácticas de componentes.",
+            "Enseñanza de fundamentos, POO, algoritmos y estructuras de datos, fomentando código limpio y pensamiento computacional."
           ]
         },
         {
+          "id": 3,
           "title": "Docente TP",
           "period": "marzo 2024 - julio 2024",
           "description": [
-            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, JS, GitHub y metodologías ágiles."
+            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, JavaScript, GitHub y metodologías ágiles."
           ]
         }
       ]
     },
     {
+      "id": 4,
       "company": "Certus",
       "roles": [
         {
+          "id": 1,
           "title": "Docente",
           "period": "abril 2023 - enero 2026",
           "description": [
-            "Imparto cursos de desarrollo web con Git, HTML, CSS y JS aplicando buenas prácticas y patrones.",
-            "Lidero cursos y talleres de IA promoviendo la innovación en la comunidad tech."
+            "Enseñanza de desarrollo web con Git, HTML, CSS y JavaScript, aplicando patrones, buenas prácticas y ejercicios orientados a producto.",
+            "Liderazgo de cursos, talleres y espacios de divulgación sobre IA y nuevas tecnologías, manteniendo participación recurrente como ponente.",
+            "Reconocido por buen desempeño docente y consideración institucional para eventos técnicos y actividades publicitarias."
           ]
         }
       ]
     },
     {
+      "id": 5,
       "company": "Cineplanet",
       "roles": [
         {
+          "id": 1,
           "title": "Frontend Developer",
           "period": "julio 2022 - abril 2024",
           "description": [
-            "Promotor de adopción de tecnologías como Astro y Next.js para mejorar UX y SEO.",
-            "Implementación de blogs con Astro y CMS headless optimizando la gestión de contenido."
+            "Mantenimiento y evolución de la web principal y flujos de compra, integrando analítica para medir mejor la experiencia digital.",
+            "Promoción de Astro y Next.js para mejorar SEO, rendimiento y gestión editorial; implementación de blog con Astro y CMS headless.",
+            "Construcción de landing pages autoadministrables para películas, campañas y estrenos, cuidando velocidad, contenido y conversión.",
+            "Participación en un ecosistema e-commerce reconocido por eCommerce Institute con premios de primer puesto durante el periodo."
           ]
         }
       ]
     },
     {
+      "id": 6,
       "company": "Idat",
       "roles": [
         {
+          "id": 1,
           "title": "Docente",
           "period": "junio 2021 - enero 2022",
           "description": [
-            "Enseñanza de desarrollo web full-stack (HTML, CSS, JS, PHP, MySQL).",
-            "Desarrollo de material técnico para fortalecer habilidades de programación."
+            "Enseñanza de desarrollo web full-stack con HTML, CSS, JavaScript, PHP y MySQL, aplicando buenas prácticas desde fundamentos hasta deploy.",
+            "Desarrollo de material técnico para reforzar lógica de programación, bases de datos y construcción de aplicaciones web."
           ]
         }
       ]
     },
     {
+      "id": 7,
       "company": "Tata Consultancy Services",
       "roles": [
         {
+          "id": 1,
           "title": "Trainee de Sistemas",
           "period": "diciembre 2020 - marzo 2021",
           "description": [
-            "Ejecución de pruebas en plataformas bancarias (AS/400, HTML, CSS, JS, SQL).",
-            "Desarrollo de scripts para automatización y validación de datos."
+            "Ejecución de pruebas estáticas y funcionales en plataformas bancarias con AS/400, HTML, CSS, JavaScript y SQL.",
+            "Desarrollo de casos de prueba y scripts para automatización, validación de datos y soporte a procesos de calidad."
           ]
         }
       ]
     },
     {
+      "id": 8,
       "company": "Canvia",
       "roles": [
         {
+          "id": 1,
           "title": "Practicante Pre Profesional de Sistemas",
           "period": "marzo 2020 - diciembre 2020",
           "description": [
-            "Desarrollo de dashboards con React conectados a APIs para bots de RPA.",
-            "Automatización de flujos con Power Automate bajo metodología Scrum."
+            "Desarrollo de dashboards con React conectados a APIs para la gestión de bots de RPA empresarial.",
+            "Automatización de flujos internos con Power Automate bajo Scrum, conectando necesidades operativas con soluciones de software."
           ]
         }
       ]
     }
   ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "Universidad Nacional Mayor de San Marcos",
+      "degree": "Maestría en Inteligencia Artificial",
+      "period": "2026 - actualidad",
+      "details": "Formación enfocada en inteligencia artificial aplicada."
+    },
+    {
+      "id": 2,
+      "institution": "Universidad Tecnológica del Perú",
+      "degree": "Ingeniero en Ingeniería de Software",
+      "period": "2017 - 2021",
+      "details": "Titulado, primer puesto."
+    }
+  ],
   "projects": [
     {
+      "id": 1,
+      "name": "LIA - Asistente virtual MTC",
+      "url": "https://lia.mtc.gob.pe/login",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://lia.mtc.gob.pe/login",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "Sistema RAG del MTC para ciudadanos y conductores, con frontend especializado, contexto institucional y tool calling para validar entidades autorizadas.",
+      "tags": [
+        "LLM",
+        "RAG",
+        "Tool Calling"
+      ]
+    },
+    {
+      "id": 2,
       "name": "MTC Vial",
       "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
-      "description": "Aplicación oficial que te permite ubicar las entidades autorizadas para licencias y transporte en todo el Perú.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "Aplicación oficial del MTC para ubicar entidades complementarias autorizadas en todo el Perú, desarrollada con foco en UX móvil y servicios públicos.",
       "tags": [
-        "React Native + Expo",
-        "Nativewind",
-        "Google Maps"
+        "React Native",
+        "Expo",
+        "UX/UI"
       ]
     },
     {
+      "id": 3,
+      "name": "Fondo SOAT y CAT",
+      "url": "https://fondosoatycat.mtc.gob.pe/",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://fondosoatycat.mtc.gob.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "Aplicación móvil frontend en React Native que envuelve y optimiza la experiencia de consulta del servicio Fondo SOAT y CAT.",
+      "tags": [
+        "React Native",
+        "Mobile"
+      ]
+    },
+    {
+      "id": 4,
       "name": "Cineplanet",
       "url": "https://www.cineplanet.com.pe/",
-      "description": "Cine peruano donde disfrutarás las mejores películas, cartelera, estrenos, eventos, promociones, entradas y contenido exclusivo del cine cerca de ti.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.cineplanet.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "Frontend de e-commerce y experiencia digital para compra de entradas, promociones y contenidos, con trabajo en React, analítica, performance y flujos de alto tráfico.",
       "tags": [
         "React",
-        "Redux",
-        "Pasarelas + Billeteras"
+        "Analytics",
+        "E-commerce"
       ]
     },
     {
+      "id": 5,
       "name": "Blog Cineplanet",
       "url": "https://blog.cineplanet.com.pe/",
-      "description": "Blog de entretenimiento de Cineplanet con contenido sobre cine, estrenos y cultura pop, optimizado para posicionamiento orgánico y gestión editorial.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://blog.cineplanet.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "Blog de entretenimiento implementado con Astro y CMS headless, orientado a rendimiento, gestión editorial y posicionamiento orgánico.",
       "tags": [
         "Astro",
         "SEO",
-        "CMS"
+        "Headless CMS"
       ]
     },
     {
+      "id": 6,
       "name": "Dávalos",
       "url": "https://www.davalos.pe/",
-      "description": "E-commerce de autopartes para el mercado peruano, enfocado en una experiencia de compra fluida y rápida para encontrar los mejores productos para tu carro.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.davalos.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "description": "E-commerce de autopartes desarrollado sobre VTEX para el mercado peruano, con foco en experiencia de compra, catálogo y conversión.",
       "tags": [
         "React",
         "VTEX",
@@ -161,19 +319,43 @@
       ]
     },
     {
-      "name": "Le2Dev (Idat, Tecsup)",
+      "id": 7,
+      "name": "Le2Dev",
       "url": "https://le2dev.vercel.app/",
-      "description": "Repositorio donde documento, desde cero, lo que enseño en Idat y Tecsup sobre frontend, AI y desarrollo web moderno con enfoque práctico.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver deploy",
+          "url": "https://le2dev.vercel.app/",
+          "icon": "bi-box-arrow-up-right"
+        },
+        {
+          "id": 2,
+          "label": "Ver repositorio",
+          "url": "https://github.com/elliotgaramendi/le2dev",
+          "icon": "bi-github"
+        }
+      ],
+      "description": "Plataforma y repositorio donde documento cursos, proyectos y materiales de frontend, backend e IA para estudiantes de Idat y Tecsup.",
       "tags": [
         "React",
         "Node.js",
-        "Inteligencia Artificial"
+        "AI Apps"
       ]
     },
     {
+      "id": 8,
       "name": "Learning Git",
       "url": "https://github.com/elliotgaramendi/learning-git",
-      "description": "Repositorio de aprendizaje de Git desde 0, destacado por GitHub Latam y con más de 600 estrellas en la comunidad.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver repositorio",
+          "url": "https://github.com/elliotgaramendi/learning-git",
+          "icon": "bi-github"
+        }
+      ],
+      "description": "Repositorio educativo de Git desde cero, destacado por GitHub Latam y con más de 600 estrellas en la comunidad.",
       "tags": [
         "Git",
         "GitHub",
@@ -183,105 +365,198 @@
   ],
   "skills": [
     {
+      "id": 1,
       "name": "React",
       "icon": "https://cdn.simpleicons.org/react",
       "alt": "Logo de React"
     },
     {
+      "id": 2,
       "name": "React Native",
       "icon": "https://cdn.simpleicons.org/react",
       "alt": "Logo de React Native"
     },
     {
+      "id": 3,
+      "name": "Expo",
+      "icon": "https://cdn.simpleicons.org/expo",
+      "alt": "Logo de Expo"
+    },
+    {
+      "id": 4,
       "name": "Next.js",
       "icon": "https://cdn.simpleicons.org/nextdotjs",
       "alt": "Logo de Next.js"
     },
     {
+      "id": 5,
       "name": "Astro",
       "icon": "https://cdn.simpleicons.org/astro",
       "alt": "Logo de Astro"
     },
     {
-      "name": "Shadcn",
+      "id": 6,
+      "name": "TypeScript",
+      "icon": "https://cdn.simpleicons.org/typescript",
+      "alt": "Logo de TypeScript"
+    },
+    {
+      "id": 7,
+      "name": "Tailwind CSS",
+      "icon": "https://cdn.simpleicons.org/tailwindcss",
+      "alt": "Logo de Tailwind CSS"
+    },
+    {
+      "id": 8,
+      "name": "shadcn/ui",
       "icon": "https://cdn.simpleicons.org/shadcnui",
       "alt": "Logo de shadcn/ui"
     },
     {
+      "id": 9,
       "name": "Figma",
       "icon": "https://cdn.simpleicons.org/figma",
       "alt": "Logo de Figma"
     },
     {
+      "id": 10,
       "name": "SEO",
       "icon": "https://cdn.simpleicons.org/google",
       "alt": "Logo de Google para SEO"
     },
     {
+      "id": 11,
       "name": "OpenAI",
-      "icon": "https://cdn.simpleicons.org/openai",
+      "icon": "https://cdn.simpleicons.org/huggingface",
       "alt": "Logo de OpenAI"
     },
     {
+      "id": 12,
       "name": "Claude",
       "icon": "https://cdn.simpleicons.org/claude",
-      "alt": "Logo de Anthropic"
+      "alt": "Logo de Claude"
     },
     {
+      "id": 13,
       "name": "Ollama",
       "icon": "https://cdn.simpleicons.org/ollama",
       "alt": "Logo de Ollama"
     },
     {
+      "id": 14,
       "name": "n8n",
       "icon": "https://cdn.simpleicons.org/n8n",
       "alt": "Logo de n8n"
     },
     {
+      "id": 15,
       "name": "RAG",
-      "icon": "https://cdn.simpleicons.org/metabase",
-      "alt": "Logo para RAG"
+      "icon": "https://cdn.simpleicons.org/databricks",
+      "alt": "Icono para RAG"
     },
     {
-      "name": "Fine Tuning",
-      "icon": "https://cdn.simpleicons.org/pytorch",
-      "alt": "Logo para Fine Tuning"
+      "id": 16,
+      "name": "Tool Calling",
+      "icon": "https://cdn.simpleicons.org/googlegemini",
+      "alt": "Icono para Tool Calling"
     },
     {
+      "id": 17,
       "name": "MCP",
       "icon": "https://cdn.simpleicons.org/modelcontextprotocol",
       "alt": "Logo de MCP"
     },
     {
+      "id": 18,
       "name": "LangChain",
       "icon": "https://cdn.simpleicons.org/langchain",
       "alt": "Logo de LangChain"
     },
     {
+      "id": 19,
       "name": "LlamaIndex",
-      "icon": "https://cdn.simpleicons.org/llamaindex",
+      "icon": "https://cdn.simpleicons.org/huggingface",
       "alt": "Logo de LlamaIndex"
     },
     {
+      "id": 20,
+      "name": "Python",
+      "icon": "https://cdn.simpleicons.org/python",
+      "alt": "Logo de Python"
+    },
+    {
+      "id": 21,
+      "name": "FastAPI",
+      "icon": "https://cdn.simpleicons.org/fastapi",
+      "alt": "Logo de FastAPI"
+    },
+    {
+      "id": 22,
+      "name": "Strapi",
+      "icon": "https://cdn.simpleicons.org/strapi",
+      "alt": "Logo de Strapi"
+    },
+    {
+      "id": 23,
       "name": "Git",
       "icon": "https://cdn.simpleicons.org/git",
       "alt": "Logo de Git"
     },
     {
+      "id": 24,
       "name": "Docker",
       "icon": "https://cdn.simpleicons.org/docker",
       "alt": "Logo de Docker"
-    },
-    {
-      "name": "Jenkins",
-      "icon": "https://cdn.simpleicons.org/jenkins",
-      "alt": "Logo de Jenkins"
     }
   ],
   "highlights": [
     {
-      "title": "Learning Git con +600 estrellas",
-      "description": "Repositorio educativo de Git desde 0 destacado por GitHub Latam y validado por la comunidad open source.",
+      "id": 1,
+      "title": "Frontend + AI aplicado al sector público",
+      "description": "Desarrollo de productos MTC con LLM, RAG, tool calling y React Native para orientar ciudadanos, validar entidades y mejorar servicios de transporte.",
+      "badges": [
+        "MTC",
+        "LLM",
+        "React Native"
+      ],
+      "links": []
+    },
+    {
+      "id": 2,
+      "title": "Creador educativo en YouTube",
+      "description": "Canal de programación con más de 100 videos; varios superan miles de vistas y algunos alcanzan recepción alta, incluyendo videos cercanos a 100k, 40k",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver canal",
+          "url": "https://www.youtube.com/@elliotgaramendi",
+          "icon": "bi-youtube"
+        }
+      ],
+      "badges": [
+        "YouTube",
+        "Programación",
+        "Comunidad"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Comunidad en GitHub con más de 1000 estrellas y 300 followers",
+      "description": "Learning Git supera 600 estrellas y mi perfil reúne 300 followers, con repositorios educativos sobre frontend, IA y aprendizaje continuo.",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver GitHub",
+          "url": "https://github.com/elliotgaramendi",
+          "icon": "bi-github"
+        },
+        {
+          "id": 2,
+          "label": "Ver Learning Git",
+          "url": "https://github.com/elliotgaramendi/learning-git",
+          "icon": "bi-github"
+        }
+      ],
       "badges": [
         "GitHub",
         "Open Source",
@@ -289,31 +564,37 @@
       ]
     },
     {
-      "title": "Dos reconocimientos de primer puesto",
-      "description": "Premio eCommerce Awards (eCommerce Institute, 2023) y Diploma al mérito académico en la UTP (2018).",
+      "id": 4,
+      "title": "Docente valorado en institutos top",
+      "description": "Trayectoria docente en Tecsup, Idat, Certus y Senati, con buenos resultados cualitativos, agradecimientos y confianza institucional para cursos, talleres y eventos tech.",
+      "badges": [
+        "Docencia",
+        "Mentoría",
+        "AI Apps"
+      ],
+      "links": []
+    },
+    {
+      "id": 5,
+      "title": "Aprendizaje continuo y práctica constante",
+      "description": "Mantengo una rutina activa de estudio, práctica y especialización en frontend, React Native, shadcn/ui, JavaScript e IA aplicada.",
+      "badges": [
+        "Aprendizaje",
+        "Práctica",
+        "Frontend + IA"
+      ],
+      "links": []
+    },
+    {
+      "id": 6,
+      "title": "Reconocimientos de primer puesto",
+      "description": "Premio eCommerce Awards del eCommerce Institute en 2023 y Diploma al mérito académico de la UTP por primer puesto en 2018.",
       "badges": [
         "Premiaciones",
-        "Impacto",
-        "Excelencia"
-      ]
-    },
-    {
-      "title": "Ponente y panelista en eventos tech",
-      "description": "Participación en 4 eventos en CERTUS entre 2024 y 2025 sobre IA generativa y desarrollo frontend.",
-      "badges": [
-        "Comunidad",
-        "Oratoria",
-        "Marca Personal"
-      ]
-    },
-    {
-      "title": "Formación continua en frontend",
-      "description": "Más de 120 horas de especialización reportadas en React Native, shadcn/ui, JavaScript y desarrollo web.",
-      "badges": [
-        "Upskilling",
-        "Frontend",
-        "Aprendizaje"
-      ]
+        "Excelencia",
+        "E-commerce"
+      ],
+      "links": []
     }
   ]
 }
