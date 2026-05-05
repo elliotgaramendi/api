@@ -42,6 +42,33 @@
         "url": "https://www.instagram.com/elliotgaramendi/",
         "icon": "bi-instagram"
       }
+    ],
+    "shortName": "Elliot",
+    "displayHeadline": "Frontend · AI · Educación",
+    "status": "Frontend, AI & Educación",
+    "avatarAlt": "Foto de Elliot Garamendi",
+    "actions": [
+      {
+        "id": 1,
+        "label": "Ver proyectos",
+        "href": "#projects",
+        "variant": "primary",
+        "icon": "arrow-right"
+      },
+      {
+        "id": 2,
+        "label": "Pregúntale a Elliot AI",
+        "href": "#ai",
+        "variant": "secondary",
+        "icon": "sparkles"
+      },
+      {
+        "id": 3,
+        "label": "GitHub",
+        "href": "https://github.com/elliotgaramendi",
+        "variant": "ghost",
+        "icon": "github"
+      }
     ]
   },
   "experience": [
@@ -144,6 +171,24 @@
     },
     {
       "id": 6,
+      "company": "DRIVEN",
+      "location": "Lima, Perú · En remoto",
+      "mode": "Profesional independiente",
+      "roles": [
+        {
+          "id": 1,
+          "title": "Frontend Developer",
+          "period": "septiembre 2021 - diciembre 2022",
+          "description": [
+            "Desarrollo de e-commerce con VTEX IO, asegurando una experiencia intuitiva bajo el marco Scrum.",
+            "Maquetación de alta fidelidad con enfoque en CSS, React y diseño centrado en la experiencia de usuario.",
+            "Participación en proyectos para Dávalos y Corporación La Sirena, orientados a catálogo, compra y conversión."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
       "company": "Idat",
       "roles": [
         {
@@ -158,7 +203,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "company": "Tata Consultancy Services",
       "roles": [
         {
@@ -173,7 +218,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "company": "Canvia",
       "roles": [
         {
@@ -222,7 +267,27 @@
         "LLM",
         "RAG",
         "Tool Calling"
-      ]
+      ],
+      "type": "AI Assistant",
+      "category": "ai",
+      "featured": true,
+      "impact": "IA aplicada al sector público.",
+      "visual": {
+        "kind": "flow",
+        "image": "",
+        "steps": [
+          "Consulta",
+          "Recuperación",
+          "Tool calling",
+          "Respuesta"
+        ]
+      },
+      "caseStudy": {
+        "problem": "Ciudadanos necesitan orientación clara sobre servicios, entidades y trámites del MTC.",
+        "role": "Frontend Developer",
+        "solution": "Frontend especializado para consumir respuestas con contexto institucional, RAG y validación mediante herramientas.",
+        "result": "Experiencia conversacional más clara para servicios públicos."
+      }
     },
     {
       "id": 2,
@@ -241,7 +306,22 @@
         "React Native",
         "Expo",
         "UX/UI"
-      ]
+      ],
+      "type": "Mobile App",
+      "category": "mobile",
+      "featured": false,
+      "impact": "App pública para ubicar entidades autorizadas.",
+      "visual": {
+        "kind": "mobile",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 3,
@@ -259,7 +339,22 @@
       "tags": [
         "React Native",
         "Mobile"
-      ]
+      ],
+      "type": "Mobile App",
+      "category": "mobile",
+      "featured": false,
+      "impact": "Consulta móvil optimizada para servicio público.",
+      "visual": {
+        "kind": "mobile",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 4,
@@ -278,7 +373,22 @@
         "React",
         "Analytics",
         "E-commerce"
-      ]
+      ],
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "impact": "Frontend para experiencia digital y flujos de compra de alto tráfico.",
+      "visual": {
+        "kind": "website",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 5,
@@ -297,7 +407,22 @@
         "Astro",
         "SEO",
         "Headless CMS"
-      ]
+      ],
+      "type": "Editorial Platform",
+      "category": "frontend",
+      "featured": false,
+      "impact": "Rendimiento, SEO y gestión editorial con CMS headless.",
+      "visual": {
+        "kind": "website",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 6,
@@ -316,7 +441,22 @@
         "React",
         "VTEX",
         "CSS"
-      ]
+      ],
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "impact": "E-commerce VTEX para autopartes en Perú.",
+      "visual": {
+        "kind": "website",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 7,
@@ -341,7 +481,22 @@
         "React",
         "Node.js",
         "AI Apps"
-      ]
+      ],
+      "type": "Education Platform",
+      "category": "education",
+      "featured": false,
+      "impact": "Documentación y proyectos para estudiantes.",
+      "visual": {
+        "kind": "education",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
     },
     {
       "id": 8,
@@ -360,7 +515,97 @@
         "Git",
         "GitHub",
         "Open Source"
-      ]
+      ],
+      "type": "Open Source",
+      "category": "open-source",
+      "featured": false,
+      "impact": "Repositorio educativo validado por comunidad.",
+      "visual": {
+        "kind": "repository",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "",
+        "solution": "",
+        "result": ""
+      }
+    },
+    {
+      "id": 9,
+      "name": "La Sirena",
+      "url": "https://www.lasirena.com.pe/",
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "description": "E-commerce desarrollado sobre VTEX IO para experiencia de compra, catálogo y conversión en retail peruano.",
+      "impact": "Frontend e-commerce con foco en UX y maquetación de alta fidelidad.",
+      "tags": [
+        "VTEX IO",
+        "React",
+        "CSS",
+        "UX"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.lasirena.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ],
+      "visual": {
+        "kind": "website",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "Frontend Developer",
+        "solution": "Desarrollo frontend y maquetación de alta fidelidad sobre VTEX IO.",
+        "result": ""
+      }
+    },
+    {
+      "id": 10,
+      "name": "ESland Web",
+      "url": "https://esland-web.vercel.app/",
+      "type": "Open Source Contribution",
+      "category": "open-source",
+      "featured": false,
+      "description": "Contribución de UI al header de ESland Web, proyecto open source de la comunidad de midudev.",
+      "impact": "Aporte puntual de interfaz en un proyecto open source visible para la comunidad frontend.",
+      "tags": [
+        "Open Source",
+        "UI",
+        "Frontend"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver deploy",
+          "url": "https://esland-web.vercel.app/",
+          "icon": "bi-box-arrow-up-right"
+        },
+        {
+          "id": 2,
+          "label": "Ver repositorio",
+          "url": "https://github.com/midudev/esland-web",
+          "icon": "bi-github"
+        }
+      ],
+      "visual": {
+        "kind": "open-source",
+        "image": "",
+        "steps": []
+      },
+      "caseStudy": {
+        "problem": "",
+        "role": "Open Source Contributor",
+        "solution": "Mejora puntual de UI en el header.",
+        "result": ""
+      }
     }
   ],
   "skills": [
@@ -368,145 +613,217 @@
       "id": 1,
       "name": "React",
       "icon": "https://cdn.simpleicons.org/react",
-      "alt": "Logo de React"
+      "alt": "Logo de React",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 2,
       "name": "React Native",
       "icon": "https://cdn.simpleicons.org/react",
-      "alt": "Logo de React Native"
+      "alt": "Logo de React Native",
+      "category": "mobile",
+      "level": "",
+      "description": ""
     },
     {
       "id": 3,
       "name": "Expo",
       "icon": "https://cdn.simpleicons.org/expo",
-      "alt": "Logo de Expo"
+      "alt": "Logo de Expo",
+      "category": "mobile",
+      "level": "",
+      "description": ""
     },
     {
       "id": 4,
       "name": "Next.js",
       "icon": "https://cdn.simpleicons.org/nextdotjs",
-      "alt": "Logo de Next.js"
+      "alt": "Logo de Next.js",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 5,
       "name": "Astro",
       "icon": "https://cdn.simpleicons.org/astro",
-      "alt": "Logo de Astro"
+      "alt": "Logo de Astro",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 6,
       "name": "TypeScript",
       "icon": "https://cdn.simpleicons.org/typescript",
-      "alt": "Logo de TypeScript"
+      "alt": "Logo de TypeScript",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 7,
       "name": "Tailwind CSS",
       "icon": "https://cdn.simpleicons.org/tailwindcss",
-      "alt": "Logo de Tailwind CSS"
+      "alt": "Logo de Tailwind CSS",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 8,
       "name": "shadcn/ui",
       "icon": "https://cdn.simpleicons.org/shadcnui",
-      "alt": "Logo de shadcn/ui"
+      "alt": "Logo de shadcn/ui",
+      "category": "frontend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 9,
       "name": "Figma",
       "icon": "https://cdn.simpleicons.org/figma",
-      "alt": "Logo de Figma"
+      "alt": "Logo de Figma",
+      "category": "design",
+      "level": "",
+      "description": ""
     },
     {
       "id": 10,
       "name": "SEO",
       "icon": "https://cdn.simpleicons.org/google",
-      "alt": "Logo de Google para SEO"
+      "alt": "Logo de Google para SEO",
+      "category": "design",
+      "level": "",
+      "description": ""
     },
     {
       "id": 11,
       "name": "OpenAI",
       "icon": "https://cdn.simpleicons.org/huggingface",
-      "alt": "Logo de OpenAI"
+      "alt": "Logo de OpenAI",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 12,
       "name": "Claude",
       "icon": "https://cdn.simpleicons.org/claude",
-      "alt": "Logo de Claude"
+      "alt": "Logo de Claude",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 13,
       "name": "Ollama",
       "icon": "https://cdn.simpleicons.org/ollama",
-      "alt": "Logo de Ollama"
+      "alt": "Logo de Ollama",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 14,
       "name": "n8n",
       "icon": "https://cdn.simpleicons.org/n8n",
-      "alt": "Logo de n8n"
+      "alt": "Logo de n8n",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 15,
       "name": "RAG",
       "icon": "https://cdn.simpleicons.org/databricks",
-      "alt": "Icono para RAG"
+      "alt": "Icono para RAG",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 16,
       "name": "Tool Calling",
       "icon": "https://cdn.simpleicons.org/googlegemini",
-      "alt": "Icono para Tool Calling"
+      "alt": "Icono para Tool Calling",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 17,
       "name": "MCP",
       "icon": "https://cdn.simpleicons.org/modelcontextprotocol",
-      "alt": "Logo de MCP"
+      "alt": "Logo de MCP",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 18,
       "name": "LangChain",
       "icon": "https://cdn.simpleicons.org/langchain",
-      "alt": "Logo de LangChain"
+      "alt": "Logo de LangChain",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 19,
       "name": "LlamaIndex",
       "icon": "https://cdn.simpleicons.org/huggingface",
-      "alt": "Logo de LlamaIndex"
+      "alt": "Logo de LlamaIndex",
+      "category": "ai",
+      "level": "",
+      "description": ""
     },
     {
       "id": 20,
       "name": "Python",
       "icon": "https://cdn.simpleicons.org/python",
-      "alt": "Logo de Python"
+      "alt": "Logo de Python",
+      "category": "backend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 21,
       "name": "FastAPI",
       "icon": "https://cdn.simpleicons.org/fastapi",
-      "alt": "Logo de FastAPI"
+      "alt": "Logo de FastAPI",
+      "category": "backend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 22,
       "name": "Strapi",
       "icon": "https://cdn.simpleicons.org/strapi",
-      "alt": "Logo de Strapi"
+      "alt": "Logo de Strapi",
+      "category": "backend",
+      "level": "",
+      "description": ""
     },
     {
       "id": 23,
       "name": "Git",
       "icon": "https://cdn.simpleicons.org/git",
-      "alt": "Logo de Git"
+      "alt": "Logo de Git",
+      "category": "devops",
+      "level": "",
+      "description": ""
     },
     {
       "id": 24,
       "name": "Docker",
       "icon": "https://cdn.simpleicons.org/docker",
-      "alt": "Logo de Docker"
+      "alt": "Logo de Docker",
+      "category": "devops",
+      "level": "",
+      "description": ""
     }
   ],
   "highlights": [
@@ -596,5 +913,269 @@
       ],
       "links": []
     }
-  ]
+  ],
+  "site": {
+    "name": "elliot.os",
+    "title": "Elliot Garamendi — Frontend, AI & Educación",
+    "description": "Web personal de Elliot Garamendi: frontend, IA aplicada, docencia técnica, proyectos y comunidad.",
+    "url": "https://elliotgaramendi.github.io/elliotgaramendi-cv/",
+    "language": "es",
+    "theme": "dark",
+    "sourceLabel": "content loaded from JSON"
+  },
+  "seo": {
+    "title": "Elliot Garamendi — Frontend Developer, Docente & AI Engineer",
+    "description": "Frontend, IA aplicada, docencia técnica, proyectos reales y comunidad educativa.",
+    "image": "https://i.postimg.cc/Y9RgrNNQ/elliotgaramendi-suit.webp",
+    "keywords": [
+      "Frontend Developer",
+      "React",
+      "AI Engineer",
+      "Docente",
+      "UX",
+      "RAG",
+      "Perú"
+    ]
+  },
+  "navigation": [
+    {
+      "id": 1,
+      "label": "Inicio",
+      "href": "#home"
+    },
+    {
+      "id": 2,
+      "label": "Proyectos",
+      "href": "#projects"
+    },
+    {
+      "id": 3,
+      "label": "Experiencia",
+      "href": "#experience"
+    },
+    {
+      "id": 4,
+      "label": "Stack",
+      "href": "#stack"
+    },
+    {
+      "id": 5,
+      "label": "AI",
+      "href": "#ai"
+    },
+    {
+      "id": 6,
+      "label": "Comunidad",
+      "href": "#community"
+    },
+    {
+      "id": 7,
+      "label": "Contacto",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Lima, Perú · Frontend, AI & Educación",
+    "title": "Elliot Garamendi",
+    "highlight": "Frontend · AI · Educación",
+    "description": "Construyo interfaces, productos y experiencias educativas donde frontend, IA aplicada y criterio de UX se encuentran.",
+    "systemLabel": "elliot.os",
+    "version": "v1.0",
+    "commandHint": "⌘K para abrir comandos",
+    "visual": {
+      "type": "network",
+      "mood": "cyan-green",
+      "shapeHint": "abstract guardian, subtle dog-like constellation, elegant and not childish"
+    }
+  },
+  "signals": [
+    {
+      "id": 1,
+      "label": "Frontend + AI",
+      "title": "Productos con IA aplicada al sector público",
+      "description": "LLM, RAG, tool calling y frontend especializado para servicios de alto alcance.",
+      "badges": [
+        "MTC",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Producto",
+      "title": "Frontend real en e-commerce, mobile y servicios públicos",
+      "description": "Experiencias digitales para flujos de compra, apps móviles y plataformas institucionales.",
+      "badges": [
+        "React",
+        "React Native",
+        "VTEX"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Educación",
+      "title": "Docente en institutos top",
+      "description": "Mentoría en frontend, mobile, fundamentos e IA aplicada.",
+      "badges": [
+        "Tecsup",
+        "Idat",
+        "Certus"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Comunidad",
+      "title": "Contenido educativo y open source",
+      "description": "Repositorios, YouTube y recursos para aprender programación con buenas prácticas.",
+      "badges": [
+        "GitHub",
+        "YouTube",
+        "Open Source"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "id": 1,
+      "title": "Producto antes que artificio",
+      "description": "Diseño y código que sirven a personas reales: UX clara, performance medible y criterio técnico.",
+      "icon": "code"
+    },
+    {
+      "id": 2,
+      "title": "IA aplicada, no humo",
+      "description": "LLM, RAG y tool calling cuando aportan valor verificable. Honestidad sobre lo que la IA puede y no puede.",
+      "icon": "sparkles"
+    },
+    {
+      "id": 3,
+      "title": "Enseñar para aprender mejor",
+      "description": "Documento, mentorizo y comparto. Lo que enseño se prueba primero en producto.",
+      "icon": "graduation-cap"
+    }
+  ],
+  "projectCategories": [
+    {
+      "id": 1,
+      "label": "Todos",
+      "value": "all"
+    },
+    {
+      "id": 2,
+      "label": "AI",
+      "value": "ai"
+    },
+    {
+      "id": 3,
+      "label": "Frontend",
+      "value": "frontend"
+    },
+    {
+      "id": 4,
+      "label": "Mobile",
+      "value": "mobile"
+    },
+    {
+      "id": 5,
+      "label": "Educación",
+      "value": "education"
+    },
+    {
+      "id": 6,
+      "label": "Open Source",
+      "value": "open-source"
+    }
+  ],
+  "community": [
+    {
+      "id": 1,
+      "title": "Docencia",
+      "description": "Tecsup, Idat y Certus. Frontend, IA aplicada, fundamentos y mentoría con foco en producto.",
+      "icon": "graduation-cap",
+      "links": []
+    },
+    {
+      "id": 2,
+      "title": "Open source",
+      "description": "Repositorios educativos, Learning Git y proyectos públicos para aprender con buenas prácticas.",
+      "icon": "github",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver GitHub",
+          "url": "https://github.com/elliotgaramendi",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "YouTube",
+      "description": "Más de 100 videos de programación y varios con miles de vistas.",
+      "icon": "youtube",
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver canal",
+          "url": "https://www.youtube.com/@elliotgaramendi",
+          "icon": "youtube"
+        }
+      ]
+    }
+  ],
+  "blog": {
+    "label": "Un proyecto más personal",
+    "title": "También estoy construyendo un espacio para escribir y aprender con más calma.",
+    "url": "https://fernanda-elliot.vercel.app/",
+    "actionLabel": "Visitar blog"
+  },
+  "agent": {
+    "enabled": true,
+    "title": "Pregúntale a Elliot AI",
+    "description": "Un asistente alimentado con información pública sobre Elliot, sus proyectos, experiencia, docencia y comunidad.",
+    "route": "/ask",
+    "mode": "demo-ready",
+    "suggestedQuestions": [
+      "¿Qué proyectos de IA ha construido Elliot?",
+      "¿Por qué Elliot encaja para un rol frontend senior?",
+      "Resume su experiencia en MTC.",
+      "¿Qué lo diferencia como docente?",
+      "¿Qué proyectos puedo revisar?"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto · cierre",
+    "title": "Si estás construyendo productos donde frontend, IA y UX importan, conversemos.",
+    "links": [
+      {
+        "id": 1,
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@elliotgaramendi",
+        "icon": "bi-youtube"
+      },
+      {
+        "id": 2,
+        "label": "GitHub",
+        "url": "https://github.com/elliotgaramendi",
+        "icon": "bi-github"
+      },
+      {
+        "id": 3,
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/elliotgaramendi/",
+        "icon": "bi-linkedin"
+      },
+      {
+        "id": 4,
+        "label": "Instagram",
+        "url": "https://www.instagram.com/elliotgaramendi/",
+        "icon": "bi-instagram"
+      }
+    ],
+    "sourceAction": {
+      "label": "Ver código fuente",
+      "url": "https://github.com/elliotgaramendi/elliotgaramendi-cv",
+      "icon": "bi-github"
+    }
+  }
 }
