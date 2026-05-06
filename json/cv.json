@@ -1,4 +1,24 @@
 {
+  "site": {
+    "name": "elliot.os",
+    "url": "https://elliotgaramendi.github.io/elliotgaramendi-cv/",
+    "language": "es",
+    "theme": "dark"
+  },
+  "seo": {
+    "title": "Elliot Garamendi — Frontend Developer, Docente & AI Engineer",
+    "description": "Frontend, IA aplicada, docencia técnica, proyectos reales y comunidad educativa.",
+    "image": "https://i.postimg.cc/Y9RgrNNQ/elliotgaramendi-suit.webp",
+    "keywords": [
+      "Frontend Developer",
+      "React",
+      "AI Engineer",
+      "Docente",
+      "UX",
+      "RAG",
+      "Perú"
+    ]
+  },
   "profile": {
     "name": "Elliot Garamendi",
     "headline": "💻 Frontend Developer | 🎓 Docente | 🤖 AI Engineer",
@@ -71,6 +91,438 @@
       }
     ]
   },
+  "navigation": [
+    {
+      "id": 1,
+      "label": "Inicio",
+      "href": "#home"
+    },
+    {
+      "id": 2,
+      "label": "Proyectos",
+      "href": "#projects"
+    },
+    {
+      "id": 3,
+      "label": "Experiencia",
+      "href": "#experience"
+    },
+    {
+      "id": 4,
+      "label": "Stack",
+      "href": "#stack"
+    },
+    {
+      "id": 5,
+      "label": "AI",
+      "href": "#ai"
+    },
+    {
+      "id": 6,
+      "label": "Comunidad",
+      "href": "#community"
+    },
+    {
+      "id": 7,
+      "label": "Contacto",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Lima, Perú · Frontend, AI & Educación",
+    "title": "Elliot Garamendi",
+    "highlight": "Frontend · AI · Educación",
+    "description": "Construyo interfaces, productos y experiencias educativas donde frontend, IA aplicada y criterio de UX se encuentran.",
+    "systemLabel": "elliot.os",
+    "version": "v1.0",
+    "commandHint": "⌘K para abrir comandos",
+    "visual": {
+      "type": "network",
+      "mood": "cyan-green",
+      "shapeHint": "abstract guardian, subtle dog-like constellation, elegant and not childish"
+    }
+  },
+  "signals": [
+    {
+      "id": 1,
+      "label": "Frontend + AI",
+      "title": "Productos con IA aplicada al sector público",
+      "description": "LLM, RAG, tool calling y frontend especializado para servicios de alto alcance.",
+      "badges": [
+        "MTC",
+        "LLM",
+        "RAG"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Producto",
+      "title": "Frontend real en e-commerce, mobile y servicios públicos",
+      "description": "Experiencias digitales para flujos de compra, apps móviles y plataformas institucionales.",
+      "badges": [
+        "React",
+        "React Native",
+        "VTEX"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Educación",
+      "title": "Docente en institutos top",
+      "description": "Mentoría en frontend, mobile, fundamentos e IA aplicada.",
+      "badges": [
+        "Tecsup",
+        "Idat",
+        "Certus"
+      ]
+    },
+    {
+      "id": 4,
+      "label": "Comunidad",
+      "title": "Contenido educativo y open source",
+      "description": "Repositorios, YouTube y recursos para aprender programación con buenas prácticas.",
+      "badges": [
+        "GitHub",
+        "YouTube",
+        "Open Source"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "id": 1,
+      "title": "Producto antes que artificio",
+      "description": "Diseño y código que sirven a personas reales: UX clara, performance medible y criterio técnico.",
+      "icon": "code"
+    },
+    {
+      "id": 2,
+      "title": "IA aplicada, no humo",
+      "description": "LLM, RAG y tool calling cuando aportan valor verificable. Honestidad sobre lo que la IA puede y no puede.",
+      "icon": "sparkles"
+    },
+    {
+      "id": 3,
+      "title": "Enseñar para aprender mejor",
+      "description": "Documento, mentorizo y comparto. Lo que enseño se prueba primero en producto.",
+      "icon": "graduation-cap"
+    }
+  ],
+  "projectCategories": [
+    {
+      "id": 1,
+      "label": "Todos",
+      "value": "all"
+    },
+    {
+      "id": 2,
+      "label": "AI",
+      "value": "ai"
+    },
+    {
+      "id": 3,
+      "label": "Frontend",
+      "value": "frontend"
+    },
+    {
+      "id": 4,
+      "label": "Mobile",
+      "value": "mobile"
+    },
+    {
+      "id": 5,
+      "label": "Educación",
+      "value": "education"
+    },
+    {
+      "id": 6,
+      "label": "Open Source",
+      "value": "open-source"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "slug": "lia-mtc",
+      "name": "LIA - Asistente virtual MTC",
+      "url": "https://lia.mtc.gob.pe/login",
+      "image": "https://i.postimg.cc/mksrxpXn/lia-mtc-preview.webp",
+      "imageAlt": "Captura de LIA, asistente virtual del Ministerio de Transportes y Comunicaciones.",
+      "type": "AI Assistant",
+      "category": "ai",
+      "featured": true,
+      "description": "Sistema RAG del MTC para ciudadanos y conductores, con contexto institucional, LLM y tool calling para validar entidades autorizadas.",
+      "impact": "IA aplicada a servicios públicos con una experiencia conversacional clara y útil.",
+      "tags": [
+        "LLM",
+        "RAG",
+        "Tool Calling",
+        "Public Service"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://lia.mtc.gob.pe/login",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "mtc-vial",
+      "name": "MTC Vial",
+      "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
+      "image": "https://i.postimg.cc/QtpXqk8z/mtc-vial-preview.webp",
+      "imageAlt": "Captura de MTC Vial, aplicación móvil oficial del MTC.",
+      "type": "Mobile App",
+      "category": "mobile",
+      "featured": false,
+      "description": "Aplicación oficial del MTC para ubicar entidades complementarias autorizadas en todo el Perú desde una experiencia móvil simple.",
+      "impact": "React Native y Expo al servicio de ciudadanos que necesitan información confiable y rápida.",
+      "tags": [
+        "React Native",
+        "Expo",
+        "UX/UI",
+        "Mobile"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "fondo-soat-cat",
+      "name": "Fondo SOAT y CAT",
+      "url": "https://fondosoatycat.mtc.gob.pe/",
+      "image": "https://i.postimg.cc/ht5P4tZf/fondo-soat-cat-preview.webp",
+      "imageAlt": "Captura del servicio Fondo SOAT y CAT del MTC.",
+      "type": "Mobile App",
+      "category": "mobile",
+      "featured": false,
+      "description": "Frontend móvil en React Native para acercar el servicio Fondo SOAT y CAT a una experiencia más accesible desde celulares.",
+      "impact": "Mejora de acceso móvil para consultas ciudadanas sobre un servicio público sensible.",
+      "tags": [
+        "React Native",
+        "Mobile",
+        "Public Service"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://fondosoatycat.mtc.gob.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "cineplanet",
+      "name": "Cineplanet",
+      "url": "https://www.cineplanet.com.pe/",
+      "image": "https://i.postimg.cc/CxBpNHJm/cineplanet-preview.webp",
+      "imageAlt": "Captura de la web principal de Cineplanet.",
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "description": "Frontend de e-commerce para compra de entradas, promociones, landings de películas, analítica y operación de canales digitales de alto tráfico.",
+      "impact": "Experiencia real de producto: React, UX, medición, performance y flujos críticos para usuarios masivos.",
+      "tags": [
+        "React",
+        "Analytics",
+        "E-commerce",
+        "UX"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.cineplanet.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "blog-cineplanet",
+      "name": "Blog Cineplanet",
+      "url": "https://blog.cineplanet.com.pe/",
+      "image": "https://i.postimg.cc/pVCvXdpz/blog-cineplanet-preview.webp",
+      "imageAlt": "Captura del blog de Cineplanet construido con Astro y CMS headless.",
+      "type": "Editorial Platform",
+      "category": "frontend",
+      "featured": false,
+      "description": "Blog de entretenimiento construido con Astro y CMS headless, orientado a rendimiento, SEO, gestión editorial y contenido autoadministrable.",
+      "impact": "Uso de Astro para una plataforma editorial rápida, flexible y preparada para posicionamiento orgánico.",
+      "tags": [
+        "Astro",
+        "SEO",
+        "Headless CMS",
+        "Performance"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://blog.cineplanet.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "davalos",
+      "name": "Dávalos",
+      "url": "https://www.davalos.pe/",
+      "image": "https://i.postimg.cc/fy217Jdn/davalos-preview.webp",
+      "imageAlt": "Captura del e-commerce Dávalos.",
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "description": "E-commerce de autopartes desarrollado sobre VTEX para el mercado peruano, con foco en catálogo, experiencia de compra y conversión.",
+      "impact": "Maquetación de alta fidelidad y frontend orientado a producto dentro de un flujo e-commerce real.",
+      "tags": [
+        "VTEX IO",
+        "React",
+        "CSS",
+        "UX"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.davalos.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "le2dev",
+      "name": "Le2Dev",
+      "url": "https://le2dev.vercel.app/",
+      "image": "https://i.postimg.cc/Xqj0cRDn/le2dev-preview.webp",
+      "imageAlt": "Captura de Le2Dev, plataforma educativa con proyectos y materiales de programación.",
+      "type": "Education Platform",
+      "category": "education",
+      "featured": false,
+      "description": "Plataforma donde documento cursos, proyectos y materiales de frontend, backend e IA para acompañar el aprendizaje con ejemplos reales.",
+      "impact": "Educación técnica organizada como producto: repositorios, deploys y rutas de aprendizaje reutilizables.",
+      "tags": [
+        "React",
+        "Node.js",
+        "AI Apps",
+        "Teaching"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver deploy",
+          "url": "https://le2dev.vercel.app/",
+          "icon": "bi-box-arrow-up-right"
+        },
+        {
+          "id": 2,
+          "label": "Ver repositorio",
+          "url": "https://github.com/elliotgaramendi/le2dev",
+          "icon": "bi-github"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "learning-git",
+      "name": "Learning Git",
+      "url": "https://github.com/elliotgaramendi/learning-git",
+      "image": "https://i.postimg.cc/dQ5McSxB/learning-git-preview.webp",
+      "imageAlt": "Captura del repositorio educativo Learning Git en GitHub.",
+      "type": "Open Source",
+      "category": "open-source",
+      "featured": false,
+      "description": "Repositorio educativo de Git desde cero, destacado por GitHub Latam y validado por la comunidad open source con más de 600 estrellas.",
+      "impact": "Contenido práctico para que más personas aprendan Git y GitHub con una ruta clara.",
+      "tags": [
+        "Git",
+        "GitHub",
+        "Open Source",
+        "Education"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver repositorio",
+          "url": "https://github.com/elliotgaramendi/learning-git",
+          "icon": "bi-github"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "la-sirena",
+      "name": "La Sirena",
+      "url": "https://www.lasirena.com.pe/",
+      "image": "https://i.postimg.cc/rm9BmhFm/la-sirena-preview.webp",
+      "imageAlt": "Captura del e-commerce La Sirena.",
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "description": "E-commerce desarrollado sobre VTEX IO para retail peruano, con foco en experiencia de compra, maquetación y consistencia visual.",
+      "impact": "Frontend comercial con atención a UX, CSS y construcción de interfaces listas para operación.",
+      "tags": [
+        "VTEX IO",
+        "React",
+        "CSS",
+        "E-commerce"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.lasirena.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "esland-web",
+      "name": "ESland Web",
+      "url": "https://esland-web.vercel.app/",
+      "image": "https://i.postimg.cc/JnmwRw8X/esland-web-preview.webp",
+      "imageAlt": "Captura del proyecto open source ESland Web.",
+      "type": "Open Source Contribution",
+      "category": "open-source",
+      "featured": false,
+      "description": "Contribución de UI al header de ESland Web, proyecto open source de la comunidad de midudev.",
+      "impact": "Aporte puntual de interfaz en un proyecto visible dentro de la comunidad frontend hispana.",
+      "tags": [
+        "Open Source",
+        "UI",
+        "Frontend",
+        "Community"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver deploy",
+          "url": "https://esland-web.vercel.app/",
+          "icon": "bi-box-arrow-up-right"
+        },
+        {
+          "id": 2,
+          "label": "Ver repositorio",
+          "url": "https://github.com/midudev/esland-web",
+          "icon": "bi-github"
+        }
+      ]
+    }
+  ],
   "experience": [
     {
       "id": 1,
@@ -247,365 +699,6 @@
       "degree": "Ingeniero en Ingeniería de Software",
       "period": "2017 - 2021",
       "details": "Titulado, primer puesto."
-    }
-  ],
-  "projects": [
-    {
-      "id": 1,
-      "name": "LIA - Asistente virtual MTC",
-      "url": "https://lia.mtc.gob.pe/login",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://lia.mtc.gob.pe/login",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "Sistema RAG del MTC para ciudadanos y conductores, con frontend especializado, contexto institucional y tool calling para validar entidades autorizadas.",
-      "tags": [
-        "LLM",
-        "RAG",
-        "Tool Calling"
-      ],
-      "type": "AI Assistant",
-      "category": "ai",
-      "featured": true,
-      "impact": "IA aplicada al sector público.",
-      "visual": {
-        "kind": "flow",
-        "image": "",
-        "steps": [
-          "Consulta",
-          "Recuperación",
-          "Tool calling",
-          "Respuesta"
-        ]
-      },
-      "caseStudy": {
-        "problem": "Ciudadanos necesitan orientación clara sobre servicios, entidades y trámites del MTC.",
-        "role": "Frontend Developer",
-        "solution": "Frontend especializado para consumir respuestas con contexto institucional, RAG y validación mediante herramientas.",
-        "result": "Experiencia conversacional más clara para servicios públicos."
-      }
-    },
-    {
-      "id": 2,
-      "name": "MTC Vial",
-      "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://play.google.com/store/apps/details?id=pe.gob.mtc.mtcvial&hl=es_PE",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "Aplicación oficial del MTC para ubicar entidades complementarias autorizadas en todo el Perú, desarrollada con foco en UX móvil y servicios públicos.",
-      "tags": [
-        "React Native",
-        "Expo",
-        "UX/UI"
-      ],
-      "type": "Mobile App",
-      "category": "mobile",
-      "featured": false,
-      "impact": "App pública para ubicar entidades autorizadas.",
-      "visual": {
-        "kind": "mobile",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 3,
-      "name": "Fondo SOAT y CAT",
-      "url": "https://fondosoatycat.mtc.gob.pe/",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://fondosoatycat.mtc.gob.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "Aplicación móvil frontend en React Native que envuelve y optimiza la experiencia de consulta del servicio Fondo SOAT y CAT.",
-      "tags": [
-        "React Native",
-        "Mobile"
-      ],
-      "type": "Mobile App",
-      "category": "mobile",
-      "featured": false,
-      "impact": "Consulta móvil optimizada para servicio público.",
-      "visual": {
-        "kind": "mobile",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 4,
-      "name": "Cineplanet",
-      "url": "https://www.cineplanet.com.pe/",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://www.cineplanet.com.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "Frontend de e-commerce y experiencia digital para compra de entradas, promociones y contenidos, con trabajo en React, analítica, performance y flujos de alto tráfico.",
-      "tags": [
-        "React",
-        "Analytics",
-        "E-commerce"
-      ],
-      "type": "E-commerce",
-      "category": "frontend",
-      "featured": false,
-      "impact": "Frontend para experiencia digital y flujos de compra de alto tráfico.",
-      "visual": {
-        "kind": "website",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 5,
-      "name": "Blog Cineplanet",
-      "url": "https://blog.cineplanet.com.pe/",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://blog.cineplanet.com.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "Blog de entretenimiento implementado con Astro y CMS headless, orientado a rendimiento, gestión editorial y posicionamiento orgánico.",
-      "tags": [
-        "Astro",
-        "SEO",
-        "Headless CMS"
-      ],
-      "type": "Editorial Platform",
-      "category": "frontend",
-      "featured": false,
-      "impact": "Rendimiento, SEO y gestión editorial con CMS headless.",
-      "visual": {
-        "kind": "website",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 6,
-      "name": "Dávalos",
-      "url": "https://www.davalos.pe/",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://www.davalos.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "description": "E-commerce de autopartes desarrollado sobre VTEX para el mercado peruano, con foco en experiencia de compra, catálogo y conversión.",
-      "tags": [
-        "React",
-        "VTEX",
-        "CSS"
-      ],
-      "type": "E-commerce",
-      "category": "frontend",
-      "featured": false,
-      "impact": "E-commerce VTEX para autopartes en Perú.",
-      "visual": {
-        "kind": "website",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 7,
-      "name": "Le2Dev",
-      "url": "https://le2dev.vercel.app/",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver deploy",
-          "url": "https://le2dev.vercel.app/",
-          "icon": "bi-box-arrow-up-right"
-        },
-        {
-          "id": 2,
-          "label": "Ver repositorio",
-          "url": "https://github.com/elliotgaramendi/le2dev",
-          "icon": "bi-github"
-        }
-      ],
-      "description": "Plataforma y repositorio donde documento cursos, proyectos y materiales de frontend, backend e IA para estudiantes de Idat y Tecsup.",
-      "tags": [
-        "React",
-        "Node.js",
-        "AI Apps"
-      ],
-      "type": "Education Platform",
-      "category": "education",
-      "featured": false,
-      "impact": "Documentación y proyectos para estudiantes.",
-      "visual": {
-        "kind": "education",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 8,
-      "name": "Learning Git",
-      "url": "https://github.com/elliotgaramendi/learning-git",
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver repositorio",
-          "url": "https://github.com/elliotgaramendi/learning-git",
-          "icon": "bi-github"
-        }
-      ],
-      "description": "Repositorio educativo de Git desde cero, destacado por GitHub Latam y con más de 600 estrellas en la comunidad.",
-      "tags": [
-        "Git",
-        "GitHub",
-        "Open Source"
-      ],
-      "type": "Open Source",
-      "category": "open-source",
-      "featured": false,
-      "impact": "Repositorio educativo validado por comunidad.",
-      "visual": {
-        "kind": "repository",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "",
-        "solution": "",
-        "result": ""
-      }
-    },
-    {
-      "id": 9,
-      "name": "La Sirena",
-      "url": "https://www.lasirena.com.pe/",
-      "type": "E-commerce",
-      "category": "frontend",
-      "featured": false,
-      "description": "E-commerce desarrollado sobre VTEX IO para experiencia de compra, catálogo y conversión en retail peruano.",
-      "impact": "Frontend e-commerce con foco en UX y maquetación de alta fidelidad.",
-      "tags": [
-        "VTEX IO",
-        "React",
-        "CSS",
-        "UX"
-      ],
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://www.lasirena.com.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ],
-      "visual": {
-        "kind": "website",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "Frontend Developer",
-        "solution": "Desarrollo frontend y maquetación de alta fidelidad sobre VTEX IO.",
-        "result": ""
-      }
-    },
-    {
-      "id": 10,
-      "name": "ESland Web",
-      "url": "https://esland-web.vercel.app/",
-      "type": "Open Source Contribution",
-      "category": "open-source",
-      "featured": false,
-      "description": "Contribución de UI al header de ESland Web, proyecto open source de la comunidad de midudev.",
-      "impact": "Aporte puntual de interfaz en un proyecto open source visible para la comunidad frontend.",
-      "tags": [
-        "Open Source",
-        "UI",
-        "Frontend"
-      ],
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver deploy",
-          "url": "https://esland-web.vercel.app/",
-          "icon": "bi-box-arrow-up-right"
-        },
-        {
-          "id": 2,
-          "label": "Ver repositorio",
-          "url": "https://github.com/midudev/esland-web",
-          "icon": "bi-github"
-        }
-      ],
-      "visual": {
-        "kind": "open-source",
-        "image": "",
-        "steps": []
-      },
-      "caseStudy": {
-        "problem": "",
-        "role": "Open Source Contributor",
-        "solution": "Mejora puntual de UI en el header.",
-        "result": ""
-      }
     }
   ],
   "skills": [
@@ -842,6 +935,11 @@
       "id": 2,
       "title": "Creador educativo en YouTube",
       "description": "Canal de programación con más de 100 videos; varios superan miles de vistas y algunos alcanzan recepción alta, incluyendo videos cercanos a 100k, 40k",
+      "badges": [
+        "YouTube",
+        "Programación",
+        "Comunidad"
+      ],
       "links": [
         {
           "id": 1,
@@ -849,17 +947,17 @@
           "url": "https://www.youtube.com/@elliotgaramendi",
           "icon": "bi-youtube"
         }
-      ],
-      "badges": [
-        "YouTube",
-        "Programación",
-        "Comunidad"
       ]
     },
     {
       "id": 3,
       "title": "Comunidad en GitHub con más de 1000 estrellas y 300 followers",
       "description": "Learning Git supera 600 estrellas y mi perfil reúne 300 followers, con repositorios educativos sobre frontend, IA y aprendizaje continuo.",
+      "badges": [
+        "GitHub",
+        "Open Source",
+        "Educación"
+      ],
       "links": [
         {
           "id": 1,
@@ -873,11 +971,6 @@
           "url": "https://github.com/elliotgaramendi/learning-git",
           "icon": "bi-github"
         }
-      ],
-      "badges": [
-        "GitHub",
-        "Open Source",
-        "Educación"
       ]
     },
     {
@@ -912,178 +1005,6 @@
         "E-commerce"
       ],
       "links": []
-    }
-  ],
-  "site": {
-    "name": "elliot.os",
-    "title": "Elliot Garamendi — Frontend, AI & Educación",
-    "description": "Web personal de Elliot Garamendi: frontend, IA aplicada, docencia técnica, proyectos y comunidad.",
-    "url": "https://elliotgaramendi.github.io/elliotgaramendi-cv/",
-    "language": "es",
-    "theme": "dark",
-    "sourceLabel": "content loaded from JSON"
-  },
-  "seo": {
-    "title": "Elliot Garamendi — Frontend Developer, Docente & AI Engineer",
-    "description": "Frontend, IA aplicada, docencia técnica, proyectos reales y comunidad educativa.",
-    "image": "https://i.postimg.cc/Y9RgrNNQ/elliotgaramendi-suit.webp",
-    "keywords": [
-      "Frontend Developer",
-      "React",
-      "AI Engineer",
-      "Docente",
-      "UX",
-      "RAG",
-      "Perú"
-    ]
-  },
-  "navigation": [
-    {
-      "id": 1,
-      "label": "Inicio",
-      "href": "#home"
-    },
-    {
-      "id": 2,
-      "label": "Proyectos",
-      "href": "#projects"
-    },
-    {
-      "id": 3,
-      "label": "Experiencia",
-      "href": "#experience"
-    },
-    {
-      "id": 4,
-      "label": "Stack",
-      "href": "#stack"
-    },
-    {
-      "id": 5,
-      "label": "AI",
-      "href": "#ai"
-    },
-    {
-      "id": 6,
-      "label": "Comunidad",
-      "href": "#community"
-    },
-    {
-      "id": 7,
-      "label": "Contacto",
-      "href": "#contact"
-    }
-  ],
-  "hero": {
-    "eyebrow": "Lima, Perú · Frontend, AI & Educación",
-    "title": "Elliot Garamendi",
-    "highlight": "Frontend · AI · Educación",
-    "description": "Construyo interfaces, productos y experiencias educativas donde frontend, IA aplicada y criterio de UX se encuentran.",
-    "systemLabel": "elliot.os",
-    "version": "v1.0",
-    "commandHint": "⌘K para abrir comandos",
-    "visual": {
-      "type": "network",
-      "mood": "cyan-green",
-      "shapeHint": "abstract guardian, subtle dog-like constellation, elegant and not childish"
-    }
-  },
-  "signals": [
-    {
-      "id": 1,
-      "label": "Frontend + AI",
-      "title": "Productos con IA aplicada al sector público",
-      "description": "LLM, RAG, tool calling y frontend especializado para servicios de alto alcance.",
-      "badges": [
-        "MTC",
-        "LLM",
-        "RAG"
-      ]
-    },
-    {
-      "id": 2,
-      "label": "Producto",
-      "title": "Frontend real en e-commerce, mobile y servicios públicos",
-      "description": "Experiencias digitales para flujos de compra, apps móviles y plataformas institucionales.",
-      "badges": [
-        "React",
-        "React Native",
-        "VTEX"
-      ]
-    },
-    {
-      "id": 3,
-      "label": "Educación",
-      "title": "Docente en institutos top",
-      "description": "Mentoría en frontend, mobile, fundamentos e IA aplicada.",
-      "badges": [
-        "Tecsup",
-        "Idat",
-        "Certus"
-      ]
-    },
-    {
-      "id": 4,
-      "label": "Comunidad",
-      "title": "Contenido educativo y open source",
-      "description": "Repositorios, YouTube y recursos para aprender programación con buenas prácticas.",
-      "badges": [
-        "GitHub",
-        "YouTube",
-        "Open Source"
-      ]
-    }
-  ],
-  "principles": [
-    {
-      "id": 1,
-      "title": "Producto antes que artificio",
-      "description": "Diseño y código que sirven a personas reales: UX clara, performance medible y criterio técnico.",
-      "icon": "code"
-    },
-    {
-      "id": 2,
-      "title": "IA aplicada, no humo",
-      "description": "LLM, RAG y tool calling cuando aportan valor verificable. Honestidad sobre lo que la IA puede y no puede.",
-      "icon": "sparkles"
-    },
-    {
-      "id": 3,
-      "title": "Enseñar para aprender mejor",
-      "description": "Documento, mentorizo y comparto. Lo que enseño se prueba primero en producto.",
-      "icon": "graduation-cap"
-    }
-  ],
-  "projectCategories": [
-    {
-      "id": 1,
-      "label": "Todos",
-      "value": "all"
-    },
-    {
-      "id": 2,
-      "label": "AI",
-      "value": "ai"
-    },
-    {
-      "id": 3,
-      "label": "Frontend",
-      "value": "frontend"
-    },
-    {
-      "id": 4,
-      "label": "Mobile",
-      "value": "mobile"
-    },
-    {
-      "id": 5,
-      "label": "Educación",
-      "value": "education"
-    },
-    {
-      "id": 6,
-      "label": "Open Source",
-      "value": "open-source"
     }
   ],
   "community": [
