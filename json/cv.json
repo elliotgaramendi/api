@@ -89,7 +89,13 @@
         "variant": "ghost",
         "icon": "github"
       }
-    ]
+    ],
+    "contact": {
+      "email": "elliotgaramendi@gmail.com",
+      "phone": "+51997045329",
+      "phoneLabel": "997 045 329",
+      "whatsappUrl": "https://wa.me/51997045329"
+    }
   },
   "navigation": [
     {
