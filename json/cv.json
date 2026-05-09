@@ -35,7 +35,7 @@
     },
     "footer": "Made with ♥ by",
     "about": [
-      "Desarrollador Frontend y AI Engineer especializado en React e integración de Modelos AI. Desarrollo softwares empleando AI e impulsados por inteligencia artificial, enfocándome en la experiencia de usuario, el rendimiento y la escalabilidad. Apasionado del autoaprendizaje y la mejora continua, comprometido con la mentoría y el código de calidad."
+      "Desarrollador Frontend y AI Engineer especializado en React e integración de Modelos AI. Desarrollo softwares impulsados por inteligencia artificial, enfocándome en la experiencia de usuario, el rendimiento y la escalabilidad. Apasionado del autoaprendizaje y la mejora continua, comprometido con la mentoría y el código de calidad."
     ],
     "links": [
       {
@@ -383,6 +383,33 @@
     },
     {
       "id": 6,
+      "slug": "la-sirena",
+      "name": "La Sirena",
+      "url": "https://www.lasirena.com.pe/",
+      "image": "https://i.postimg.cc/rm9BmhFm/la-sirena-preview.webp",
+      "imageAlt": "Captura del e-commerce La Sirena.",
+      "type": "E-commerce",
+      "category": "frontend",
+      "featured": false,
+      "description": "E-commerce desarrollado sobre VTEX IO para retail peruano, con foco en experiencia de compra, maquetación y consistencia visual.",
+      "impact": "Frontend comercial con atención a UX, CSS y construcción de interfaces listas para operación.",
+      "tags": [
+        "VTEX IO",
+        "React",
+        "CSS",
+        "E-commerce"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver producto",
+          "url": "https://www.lasirena.com.pe/",
+          "icon": "bi-box-arrow-up-right"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "slug": "davalos",
       "name": "Dávalos",
       "url": "https://www.davalos.pe/",
@@ -409,7 +436,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "slug": "le2dev",
       "name": "Le2Dev",
       "url": "https://le2dev.vercel.app/",
@@ -442,61 +469,7 @@
       ]
     },
     {
-      "id": 8,
-      "slug": "learning-git",
-      "name": "Learning Git",
-      "url": "https://github.com/elliotgaramendi/learning-git",
-      "image": "https://i.postimg.cc/dQ5McSxB/learning-git-preview.webp",
-      "imageAlt": "Captura del repositorio educativo Learning Git en GitHub.",
-      "type": "Open Source",
-      "category": "open-source",
-      "featured": false,
-      "description": "Repositorio educativo de Git desde cero, destacado por GitHub Latam y validado por la comunidad open source con más de 600 estrellas.",
-      "impact": "Contenido práctico para que más personas aprendan Git y GitHub con una ruta clara.",
-      "tags": [
-        "Git",
-        "GitHub",
-        "Open Source",
-        "Education"
-      ],
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver repositorio",
-          "url": "https://github.com/elliotgaramendi/learning-git",
-          "icon": "bi-github"
-        }
-      ]
-    },
-    {
       "id": 9,
-      "slug": "la-sirena",
-      "name": "La Sirena",
-      "url": "https://www.lasirena.com.pe/",
-      "image": "https://i.postimg.cc/rm9BmhFm/la-sirena-preview.webp",
-      "imageAlt": "Captura del e-commerce La Sirena.",
-      "type": "E-commerce",
-      "category": "frontend",
-      "featured": false,
-      "description": "E-commerce desarrollado sobre VTEX IO para retail peruano, con foco en experiencia de compra, maquetación y consistencia visual.",
-      "impact": "Frontend comercial con atención a UX, CSS y construcción de interfaces listas para operación.",
-      "tags": [
-        "VTEX IO",
-        "React",
-        "CSS",
-        "E-commerce"
-      ],
-      "links": [
-        {
-          "id": 1,
-          "label": "Ver producto",
-          "url": "https://www.lasirena.com.pe/",
-          "icon": "bi-box-arrow-up-right"
-        }
-      ]
-    },
-    {
-      "id": 10,
       "slug": "esland-web",
       "name": "ESland Web",
       "url": "https://esland-web.vercel.app/",
@@ -524,6 +497,33 @@
           "id": 2,
           "label": "Ver repositorio",
           "url": "https://github.com/midudev/esland-web",
+          "icon": "bi-github"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "learning-git",
+      "name": "Learning Git",
+      "url": "https://github.com/elliotgaramendi/learning-git",
+      "image": "https://i.postimg.cc/dQ5McSxB/learning-git-preview.webp",
+      "imageAlt": "Captura del repositorio educativo Learning Git en GitHub.",
+      "type": "Open Source",
+      "category": "open-source",
+      "featured": false,
+      "description": "Repositorio educativo de Git desde cero, destacado por GitHub Latam y validado por la comunidad open source con más de 600 estrellas.",
+      "impact": "Contenido práctico para que más personas aprendan Git y GitHub con una ruta clara.",
+      "tags": [
+        "Git",
+        "GitHub",
+        "Open Source",
+        "Education"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Ver repositorio",
+          "url": "https://github.com/elliotgaramendi/learning-git",
           "icon": "bi-github"
         }
       ]
