@@ -539,9 +539,10 @@
           "title": "Frontend Developer",
           "period": "abril 2024 - actualidad",
           "description": [
-            "Desarrollo de LIA, asistente virtual del MTC desarrollado con LLM, RAG, contexto institucional y tool calling para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
-            "Desarrollo de aplicaciones móviles con React Native y Expo como MTC Vial, Fondo SOAT y CAT, y MTC Simulacro para servicios públicos.",
-            "Diseño y refino interfaces con Figma, Stitch y agentes de codificación, priorizando UX, rendimiento y claridad para servicios de alto alcance."
+            "Desarrollo de LIA, asistente virtual del MTC basado en LLM, RAG, contexto institucional y tool calling para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
+            "Desarrollo de aplicaciones móviles con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, mantenibilidad y rendimiento.",
+            "Optimización de performance frontend mediante caching y estrategias de sincronización mejorando tiempos de respuesta percibidos.",
+            "Diseño y refinamiento de interfaces con Figma, Stitch y agentes de codificación, enfocadas en UX, claridad visual y servicios públicos de alto alcance."
           ]
         }
       ]
@@ -619,10 +620,10 @@
           "title": "Frontend Developer",
           "period": "julio 2022 - abril 2024",
           "description": [
-            "Mantenimiento y evolución de la web principal y flujos de compra, integrando analítica para medir mejor la experiencia digital.",
-            "Promoción de Astro y Next.js para mejorar SEO, rendimiento y gestión editorial; implementación de blog con Astro y CMS headless.",
-            "Construcción de landing pages autoadministrables para películas, campañas y estrenos, cuidando velocidad, contenido y conversión.",
-            "Participación en un ecosistema e-commerce reconocido por eCommerce Institute con premios de primer puesto durante el periodo."
+            "Mantenimiento y evolución de la web principal y flujos de compra, priorizando rendimiento, experiencia de usuario y analítica digital.",
+            "Implementación de mejoras con Astro y Next.js para optimizar SEO, Core Web Vitals, performance y gestión editorial; desarrollo de blog con CMS headless.",
+            "Desarrollo de landing pages autoadministrables para películas y campañas, enfocadas en velocidad de carga, UX y conversión.",
+            "Participación en flujos de despliegue y gestión de desarrollo con Azure DevOps, integrando buenas prácticas de performance en un ecosistema e-commerce premiado."
           ]
         }
       ]
