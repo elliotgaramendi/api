@@ -539,9 +539,9 @@
           "title": "Frontend Developer",
           "period": "abril 2024 - actualidad",
           "description": [
-            "Desarrollo de LIA, asistente virtual del MTC basado en LLM, RAG, contexto institucional y tool calling para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
+            "Desarrollo de LIA, asistente virtual del MTC construido con Angular, LLM, RAG, contexto institucional y tool calling sobre Vertex AI/Gemini para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
             "Desarrollo de aplicaciones móviles con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, mantenibilidad y rendimiento.",
-            "Optimización de performance frontend mediante caching y estrategias de sincronización mejorando tiempos de respuesta percibidos.",
+            "Optimización de performance frontend mediante caching, estrategias de sincronización y mejora de tiempos de respuesta percibidos, utilizando patrones modernos de manejo de estado y consumo de APIs.",
             "Diseño y refinamiento de interfaces con Figma, Stitch y agentes de codificación, enfocadas en UX, claridad visual y servicios públicos de alto alcance."
           ]
         }
@@ -557,8 +557,8 @@
           "period": "enero 2025 - actualidad",
           "description": [
             "Formo estudiantes en desarrollo de AI Apps con Python y n8n, agentes de IA e integración de modelos de frontera en proyectos prácticos.",
-            "Guío proyectos frontend con apoyo de agentes de codificación, promoviendo buenas prácticas, criterio técnico y productos funcionales.",
-            "Documento clases, repositorios y proyectos desplegados para acompañar el aprendizaje y facilitar la práctica constante."
+            "Guío proyectos frontend con React, JavaScript moderno y Vite, apoyados por agentes de codificación, promoviendo buenas prácticas, criterio técnico y productos funcionales.",
+            "Documento clases, repositorios y proyectos desplegados mediante GitHub y Markdown para facilitar el aprendizaje continuo y la práctica constante."
           ]
         }
       ]
@@ -572,8 +572,8 @@
           "title": "Docente",
           "period": "julio 2025 - actualidad",
           "description": [
-            "Mentoría en desarrollo web full-stack con React, Django e integración de IA mediante APIs de modelos de frontera.",
-            "Documento cursos, ejercicios y proyectos en repositorios para mejorar la trazabilidad del aprendizaje y la autonomía de los estudiantes."
+            "Mentoría en desarrollo web full-stack con React, Django e integración de IA mediante APIs de modelos de frontera como GPT, Gemini y Claude.",
+            "Guío proyectos técnicos documentando ejercicios, repositorios y despliegues para mejorar la trazabilidad del aprendizaje y la autonomía de los estudiantes."
           ]
         },
         {
@@ -581,8 +581,8 @@
           "title": "Docente TC",
           "period": "agosto 2024 - julio 2025",
           "description": [
-            "Mentoría en desarrollo de interfaces con React, React Native y Astro, aplicando patrones de diseño y buenas prácticas de componentes.",
-            "Enseñanza de fundamentos, POO, algoritmos y estructuras de datos, fomentando código limpio y pensamiento computacional."
+            "Mentoría en desarrollo de interfaces con React, React Native y Astro, aplicando patrones de diseño, componentización y buenas prácticas frontend.",
+            "Enseñanza de fundamentos, POO, algoritmos y estructuras de datos con enfoque en código limpio, pensamiento computacional y resolución de problemas."
           ]
         },
         {
@@ -590,7 +590,8 @@
           "title": "Docente TP",
           "period": "marzo 2024 - julio 2024",
           "description": [
-            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, JavaScript, GitHub y metodologías ágiles."
+            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, CSS, JavaScript, GitHub y metodologías ágiles.",
+            "Mentoría en maquetación responsive, fundamentos frontend y construcción de interfaces orientadas a experiencia de usuario."
           ]
         }
       ]
@@ -604,7 +605,7 @@
           "title": "Docente",
           "period": "abril 2023 - enero 2026",
           "description": [
-            "Enseñanza de desarrollo web con Git, HTML, CSS y JavaScript, aplicando patrones, buenas prácticas y ejercicios orientados a producto.",
+            "Enseñanza de desarrollo web con Git, HTML, CSS y JavaScript, aplicando patrones, buenas prácticas y ejercicios orientados al producto.",
             "Liderazgo de cursos, talleres y espacios de divulgación sobre IA y nuevas tecnologías, manteniendo participación recurrente como ponente.",
             "Reconocido por buen desempeño docente y consideración institucional para eventos técnicos y actividades publicitarias."
           ]
@@ -620,7 +621,7 @@
           "title": "Frontend Developer",
           "period": "julio 2022 - abril 2024",
           "description": [
-            "Mantenimiento y evolución de la web principal y flujos de compra, priorizando rendimiento, experiencia de usuario y analítica digital.",
+            "Mantenimiento y evolución de la web principal y flujos de compra con React, priorizando rendimiento, experiencia de usuario y analítica digital.",
             "Implementación de mejoras con Astro y Next.js para optimizar SEO, Core Web Vitals, performance y gestión editorial; desarrollo de blog con CMS headless.",
             "Desarrollo de landing pages autoadministrables para películas y campañas, enfocadas en velocidad de carga, UX y conversión.",
             "Participación en flujos de despliegue y gestión de desarrollo con Azure DevOps, integrando buenas prácticas de performance en un ecosistema e-commerce premiado."
@@ -639,9 +640,9 @@
           "title": "Frontend Developer",
           "period": "septiembre 2021 - diciembre 2022",
           "description": [
-            "Desarrollo de e-commerce con VTEX IO, asegurando una experiencia intuitiva bajo el marco Scrum.",
-            "Maquetación de alta fidelidad con enfoque en CSS, React y diseño centrado en la experiencia de usuario.",
-            "Participación en proyectos para Dávalos y Corporación La Sirena, orientados a catálogo, compra y conversión."
+            "Desarrollo de e-commerce con React y VTEX IO, asegurando experiencias intuitivas y mantenibles bajo el marco Scrum.",
+            "Maquetación de alta fidelidad con enfoque en CSS moderno, componentización y diseño centrado en experiencia de usuario.",
+            "Participación en proyectos para Dávalos y Corporación La Sirena, orientados a catálogo, compra y optimización de conversión."
           ]
         }
       ]
