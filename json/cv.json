@@ -536,13 +536,13 @@
       "roles": [
         {
           "id": 1,
-          "title": "Frontend Developer",
+          "title": "Software Engineer",
           "period": "abril 2024 - actualidad",
           "description": [
             "Desarrollo de LIA, asistente virtual del MTC construido con Angular, LLM, RAG, contexto institucional y tool calling sobre Vertex AI/Gemini para orientar ciudadanos sobre entidades autorizadas en tiempo real.",
-            "Desarrollo de aplicaciones móviles con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, mantenibilidad y rendimiento.",
-            "Optimización de performance frontend mediante caching, estrategias de sincronización y mejora de tiempos de respuesta percibidos, utilizando patrones modernos de manejo de estado y consumo de APIs.",
-            "Diseño y refinamiento de interfaces con Figma, Stitch y agentes de codificación, enfocadas en UX, claridad visual y servicios públicos de alto alcance."
+            "Desarrollo de aplicaciones móviles con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, mantenibilidad, accesibilidad y rendimiento en entornos de producción.",
+            "Integración de aplicaciones web y móviles con APIs REST desarrolladas en .NET Core, participando en el análisis de backend, SQL queries, procedimientos almacenados y validación de reglas de negocio para servicios estatales.¨",
+            "Optimización de rendimiento mediante caching, sincronización de datos, reducción de llamadas redundantes y mejora de tiempos de respuesta percibidos, colaborando con equipos de frontend, backend y UX."
           ]
         }
       ]
@@ -590,8 +590,7 @@
           "title": "Docente TP",
           "period": "marzo 2024 - julio 2024",
           "description": [
-            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, CSS, JavaScript, GitHub y metodologías ágiles.",
-            "Mentoría en maquetación responsive, fundamentos frontend y construcción de interfaces orientadas a experiencia de usuario."
+            "Enseñanza de desarrollo web desde el diseño hasta el deploy con Figma, HTML, CSS, JavaScript, GitHub y metodologías ágiles."
           ]
         }
       ]
@@ -633,16 +632,15 @@
       "id": 6,
       "company": "DRIVEN",
       "location": "Lima, Perú · En remoto",
-      "mode": "Profesional independiente",
       "roles": [
         {
           "id": 1,
           "title": "Frontend Developer",
           "period": "septiembre 2021 - diciembre 2022",
           "description": [
-            "Desarrollo de e-commerce con React y VTEX IO, asegurando experiencias intuitivas y mantenibles bajo el marco Scrum.",
-            "Maquetación de alta fidelidad con enfoque en CSS moderno, componentización y diseño centrado en experiencia de usuario.",
-            "Participación en proyectos para Dávalos y Corporación La Sirena, orientados a catálogo, compra y optimización de conversión."
+            "Desarrollo de e-commerce con React y VTEX IO, asegurando experiencias intuitivas y mantenibles bajo Scrum.",
+            "Maquetación de alta fidelidad con enfoque en CSS moderno, componentización y diseño centrado en el UX.",
+            "Participación en proyectos para Dávalos y La Sirena, orientados a catálogo, compra y optimización de conversión."
           ]
         }
       ]
