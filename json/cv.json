@@ -35,7 +35,7 @@
     },
     "footer": "Made with ♥ by",
     "about": [
-      "AI Engineer especializado en el desarrollo de asistentes IA con modelos de frontera que resuelven necesidades reales y aportan valor. Desarrollo software de calidad, adaptado al stack del negocio y enfocado en la experiencia de usuario, rendimiento y mantenibilidad. Apasionado del aprendizaje continuo y de compartir mis conocimientos."
+      "AI Engineer especializado en el desarrollo de asistentes IA con modelos de frontera que resuelven necesidades reales y aportan valor. Desarrollo de arquitecturas de software adaptado al stack del negocio y enfocados en la calidad, mantenibilidad, escalabilidad, rendimiento y experiencia de usuario. Apasionado del aprendizaje y docencia."
     ],
     "links": [
       {
@@ -532,31 +532,30 @@
   "experience": [
     {
       "id": 1,
-      "company": "Mibanco",
+      "company": "Canvia",
       "roles": [
         {
           "id": 1,
-          "title": "AI Engineer",
-          "period": "junio 2026 - actualidad",
+          "title": "Practicante Pre Profesional de Sistemas",
+          "period": "marzo 2020 - diciembre 2020",
           "description": [
-            "Desarrollo de soluciones de IA enfocadas en casos de uso reales, priorizando su utilidad, adopción e impacto en el negocio.",
-            "Diseño e implementación de aplicaciones con Next.js, NestJS y FastAPI, integrando sistemas RAG y asistentes para el análisis y recuperación de información mediante modelos de frontera y servicios de Azure."
+            "Desarrollo de dashboards con React conectados a APIs para la gestión de bots de RPA empresarial.",
+            "Automatización de flujos internos con Power Automate bajo Scrum, conectando necesidades operativas con soluciones de software."
           ]
         }
       ]
     },
     {
       "id": 2,
-      "company": "Ministerio de Transportes y Comunicaciones",
+      "company": "Tata Consultancy Services",
       "roles": [
         {
           "id": 1,
-          "title": "Software Engineer",
-          "period": "abril 2024 - julio 2026",
+          "title": "Trainee de Sistemas",
+          "period": "diciembre 2020 - marzo 2021",
           "description": [
-            "Desarrollo de LIA, asistente de IA con RAG y tool calling sobre Vertex AI y Gemini para orientar a ciudadanos sobre entidades autorizadas en tiempo real.",
-            "Desarrollo de aplicaciones móviles con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, mantenibilidad, accesibilidad y rendimiento en entornos de producción.",
-            "Participación en el análisis de backend, consultas SQL, procedimientos almacenados y validación de reglas de negocio para servicios estatales."
+            "Ejecución de pruebas estáticas y funcionales en plataformas bancarias con AS/400, HTML, CSS, JavaScript y SQL.",
+            "Desarrollo de casos de prueba y scripts para automatización, validación de datos y soporte a procesos de calidad."
           ]
         }
       ]
@@ -567,18 +566,64 @@
       "roles": [
         {
           "id": 1,
-          "title": "Docente AI",
-          "period": "enero 2025 - julio 2026",
+          "title": "Docente",
+          "period": "junio 2021 - enero 2022",
           "description": [
-            "Formo estudiantes en desarrollo de AI Apps con Python, n8n y agentes de IA integrando modelos de frontera en proyectos prácticos.",
-            "Guío proyectos frontend con React apoyados por agentes de codificación, promoviendo buenas prácticas, criterio técnico y productos funcionales.",
-            "Documento clases, repositorios y proyectos desplegados mediante GitHub y Markdown para facilitar el aprendizaje continuo y la práctica constante."
+            "Enseñanza de desarrollo web full-stack con HTML, CSS, JavaScript, PHP y MySQL, aplicando buenas prácticas desde fundamentos hasta deploy.",
+            "Desarrollo de material técnico para reforzar lógica de programación, bases de datos y construcción de aplicaciones web."
           ]
         }
       ]
     },
     {
       "id": 4,
+      "company": "DRIVEN",
+      "location": "Lima, Perú · En remoto",
+      "roles": [
+        {
+          "id": 1,
+          "title": "Frontend Developer",
+          "period": "septiembre 2021 - diciembre 2022",
+          "description": [
+            "Desarrollo de e-commerce con React y VTEX IO, asegurando experiencias intuitivas y mantenibles bajo Scrum.",
+            "Maquetación de alta fidelidad con enfoque en CSS moderno, componentización y diseño centrado en el UX.",
+            "Participación en proyectos para Dávalos y La Sirena, orientados a catálogo, compra y optimización de conversión."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "company": "Cineplanet",
+      "roles": [
+        {
+          "id": 1,
+          "title": "Frontend Developer",
+          "period": "julio 2022 - abril 2024",
+          "description": [
+            "Mantenimiento y evolución de la web principal y flujos de compra con React, priorizando rendimiento, experiencia de usuario y analítica digital.",
+            "Implementación de mejoras con Astro y Next.js, incluyendo un blog con CMS headless y landing pages autoadministrables, para optimizar SEO, Core Web Vitals, experiencia de usuario y conversión."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "company": "Certus",
+      "roles": [
+        {
+          "id": 1,
+          "title": "Docente",
+          "period": "abril 2023 - enero 2026",
+          "description": [
+            "Enseñanza de desarrollo web con Git, HTML, CSS y JavaScript, aplicando patrones, buenas prácticas y ejercicios orientados al producto.",
+            "Liderazgo de cursos, talleres y espacios de divulgación sobre IA y nuevas tecnologías, manteniendo participación recurrente como ponente."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
       "company": "Tecsup",
       "roles": [
         {
@@ -610,93 +655,64 @@
       ]
     },
     {
-      "id": 5,
-      "company": "Certus",
-      "roles": [
-        {
-          "id": 1,
-          "title": "Docente",
-          "period": "abril 2023 - enero 2026",
-          "description": [
-            "Enseñanza de desarrollo web con Git, HTML, CSS y JavaScript, aplicando patrones, buenas prácticas y ejercicios orientados al producto.",
-            "Liderazgo de cursos, talleres y espacios de divulgación sobre IA y nuevas tecnologías, manteniendo participación recurrente como ponente."
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "company": "Cineplanet",
-      "roles": [
-        {
-          "id": 1,
-          "title": "Frontend Developer",
-          "period": "julio 2022 - abril 2024",
-          "description": [
-            "Mantenimiento y evolución de la web principal y flujos de compra con React, priorizando rendimiento, experiencia de usuario y analítica digital.",
-            "Implementación de mejoras con Astro y Next.js, incluyendo un blog con CMS headless y landing pages autoadministrables, para optimizar SEO, Core Web Vitals, experiencia de usuario y conversión."
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "company": "DRIVEN",
-      "location": "Lima, Perú · En remoto",
-      "roles": [
-        {
-          "id": 1,
-          "title": "Frontend Developer",
-          "period": "septiembre 2021 - diciembre 2022",
-          "description": [
-            "Desarrollo de e-commerce con React y VTEX IO, asegurando experiencias intuitivas y mantenibles bajo Scrum.",
-            "Maquetación de alta fidelidad con enfoque en CSS moderno, componentización y diseño centrado en el UX.",
-            "Participación en proyectos para Dávalos y La Sirena, orientados a catálogo, compra y optimización de conversión."
-          ]
-        }
-      ]
-    },
-    {
       "id": 8,
       "company": "Idat",
       "roles": [
         {
           "id": 1,
-          "title": "Docente",
-          "period": "junio 2021 - enero 2022",
+          "title": "Docente AI",
+          "period": "enero 2025 - julio 2026",
           "description": [
-            "Enseñanza de desarrollo web full-stack con HTML, CSS, JavaScript, PHP y MySQL, aplicando buenas prácticas desde fundamentos hasta deploy.",
-            "Desarrollo de material técnico para reforzar lógica de programación, bases de datos y construcción de aplicaciones web."
+            "Formo estudiantes en desarrollo de AI Apps con Python, n8n y agentes de IA integrando modelos de frontera en proyectos prácticos.",
+            "Guío proyectos frontend con React apoyados por agentes de codificación, promoviendo buenas prácticas, criterio técnico y productos funcionales.",
+            "Documento clases, repositorios y proyectos desplegados mediante GitHub y Markdown para facilitar el aprendizaje continuo y la práctica constante."
           ]
         }
       ]
     },
     {
       "id": 9,
-      "company": "Tata Consultancy Services",
+      "company": "Ministerio de Transportes y Comunicaciones",
       "roles": [
         {
           "id": 1,
-          "title": "Trainee de Sistemas",
-          "period": "diciembre 2020 - marzo 2021",
+          "title": "Software Engineer",
+          "period": "abril 2024 - julio 2026",
           "description": [
-            "Ejecución de pruebas estáticas y funcionales en plataformas bancarias con AS/400, HTML, CSS, JavaScript y SQL.",
-            "Desarrollo de casos de prueba y scripts para automatización, validación de datos y soporte a procesos de calidad."
+            "Desarrollo de LIA, asistente de IA con RAG y tool calling sobre Vertex AI y Gemini para orientar a ciudadanos sobre entidades autorizadas en tiempo real.",
+            "Desarrollo de aplicaciones con React Native + Expo como MTC Vial, Fondo SOAT/CAT y MTC Simulacro, priorizando experiencia de usuario, accesibilidad, rendimiento, mantenibilidad y calidad de código.",
+            "Diseño y evolución de la arquitectura de software de aplicaciones web y móviles, definiendo estructuras modulares e integración con backend, APIs, SQL, procedimientos almacenados y reglas de negocio, con foco en escalabilidad y mantenibilidad."
           ]
         }
       ]
     },
     {
       "id": 10,
-      "company": "Canvia",
+      "company": "Mibanco",
       "roles": [
         {
           "id": 1,
-          "title": "Practicante Pre Profesional de Sistemas",
-          "period": "marzo 2020 - diciembre 2020",
+          "title": "AI Engineer",
+          "period": "junio 2026 - actualidad",
           "description": [
-            "Desarrollo de dashboards con React conectados a APIs para la gestión de bots de RPA empresarial.",
-            "Automatización de flujos internos con Power Automate bajo Scrum, conectando necesidades operativas con soluciones de software."
+            "Desarrollo de soluciones de IA en conjunto con clientes, integrando asistentes, RAG, modelos de frontera y servicios de Azure con foco en calidad, escalabilidad, mantenibilidad, rendimiento, seguridad y experiencia de usuario.",
+            "Diseño de arquitecturas de software para soluciones de IA, definiendo estructuras, estándares y lineamientos técnicos para frontend, backend, APIs, agentes, modelos y servicios, bajo principios de Clean Architecture.",
+            "Impulso de un ciclo de desarrollo de software potenciado con IA, desde la ideación y diseño hasta desarrollo, validación y despliegue, buscando mejorar productividad, seguridad, consistencia técnica y velocidad de entrega."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "company": "UTP",
+      "roles": [
+        {
+          "id": 1,
+          "title": "Docente",
+          "period": "agosto 2026 - actualidad",
+          "description": [
+            "Enseñanza de inteligencia artificial generativa aplicada, guiando a estudiantes en el uso de modelos de frontera, prompting, herramientas de IA y desarrollo de soluciones prácticas.",
+            "Diseño de talleres orientados a producto, integrando IA en procesos de ideación, investigación, diseño, desarrollo y validación de aplicaciones."
           ]
         }
       ]
